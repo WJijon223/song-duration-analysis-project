@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 76849745,
+      "collectionId": 130072789,
+      "trackId": 130072938,
+      "artistName": "The Demonics",
+      "collectionName": "Formaldehyde Injection",
+      "trackName": "Life Of Crime",
+      "collectionCensoredName": "Formaldehyde Injection",
+      "trackCensoredName": "Life Of Crime",
+      "artistViewUrl": "https://music.apple.com/us/artist/the-demonics/76849745?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/life-of-crime/130072789?i=130072938&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/life-of-crime/130072789?i=130072938&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4b/90/1d/4b901d5c-90c1-5d31-5a7f-b00aa5ecef7d/mzaf_5910098953804477082.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/fd/95/92fd95ce-8af0-19ec-a642-163f2fb4ef8d/mzi.elpoepwo.tif/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/fd/95/92fd95ce-8af0-19ec-a642-163f2fb4ef8d/mzi.elpoepwo.tif/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/fd/95/92fd95ce-8af0-19ec-a642-163f2fb4ef8d/mzi.elpoepwo.tif/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 0.99,
+      "releaseDate": "1998-10-27T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 16,
+      "trackNumber": 8,
+      "trackTimeMillis": 159520,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Rock",
+      "isStreamable": true
+    }
+  ]
+}

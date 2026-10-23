@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 1047926081,
+      "collectionId": 1443269236,
+      "trackId": 1443269260,
+      "artistName": "Sal Salvador Quintet",
+      "collectionName": "Sal Salvador Quintet - EP",
+      "trackName": "Too Marvelous For Words",
+      "collectionCensoredName": "Sal Salvador Quintet - EP",
+      "trackCensoredName": "Too Marvelous For Words",
+      "artistViewUrl": "https://music.apple.com/us/artist/sal-salvador-quintet/1047926081?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/too-marvelous-for-words/1443269236?i=1443269260&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/too-marvelous-for-words/1443269236?i=1443269260&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/1b/26/c7/1b26c7ce-8a87-2873-48fe-6ba369be4e19/mzaf_6609495440124070374.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/64/80/27/64802767-7d0b-18e8-14f0-206d59099770/00602547423986.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/64/80/27/64802767-7d0b-18e8-14f0-206d59099770/00602547423986.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/64/80/27/64802767-7d0b-18e8-14f0-206d59099770/00602547423986.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "trackPrice": 1.29,
+      "releaseDate": "1954-01-01T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 6,
+      "trackNumber": 5,
+      "trackTimeMillis": 314767,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Jazz",
+      "isStreamable": true
+    }
+  ]
+}

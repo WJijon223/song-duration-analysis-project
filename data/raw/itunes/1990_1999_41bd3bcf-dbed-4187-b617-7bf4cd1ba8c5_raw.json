@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 74472460,
+      "collectionId": 1552770837,
+      "trackId": 1552770845,
+      "artistName": "Ana Egge",
+      "collectionName": "River Under the Road",
+      "trackName": "Made of Iron",
+      "collectionCensoredName": "River Under the Road",
+      "trackCensoredName": "Made of Iron",
+      "artistViewUrl": "https://music.apple.com/us/artist/ana-egge/74472460?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/made-of-iron/1552770837?i=1552770845&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/made-of-iron/1552770837?i=1552770845&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/af/ff/5c/afff5ce8-bb62-4692-45f6-498346e55ba1/mzaf_16793970344670166266.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d7/e3/34/d7e33444-2c61-0072-aebb-5b3ce4550b3c/194660839596.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d7/e3/34/d7e33444-2c61-0072-aebb-5b3ce4550b3c/194660839596.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d7/e3/34/d7e33444-2c61-0072-aebb-5b3ce4550b3c/194660839596.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 0.99,
+      "releaseDate": "1997-03-03T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 11,
+      "trackNumber": 8,
+      "trackTimeMillis": 206067,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Country",
+      "isStreamable": true
+    }
+  ]
+}

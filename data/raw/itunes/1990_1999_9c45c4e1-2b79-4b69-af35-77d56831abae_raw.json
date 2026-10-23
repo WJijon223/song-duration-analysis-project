@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 252176493,
+      "collectionId": 1855912218,
+      "trackId": 1855912219,
+      "artistName": "Tomasz Stanko, Andrzej Trzaskowski & Orkiestra STUDIO S-1",
+      "collectionName": "Wst\u0119p wzbroniony (Wersja radiowa) - Single",
+      "trackName": "Wst\u0119p wzbroniony (Wersja radiowa)",
+      "collectionCensoredName": "Wst\u0119p wzbroniony (Wersja radiowa) - Single",
+      "trackCensoredName": "Wst\u0119p wzbroniony (Wersja radiowa)",
+      "artistViewUrl": "https://music.apple.com/us/artist/tomasz-stanko/252176493?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/wst%C4%99p-wzbroniony-wersja-radiowa/1855912218?i=1855912219&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/wst%C4%99p-wzbroniony-wersja-radiowa/1855912218?i=1855912219&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/84/8e/ac/848eac61-1aff-bd95-6d8c-a34f9d03a0e6/mzaf_15697397201433061319.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/13/7d/b2137d57-2cb4-f711-ad9c-a2251b34a12f/5905610874995.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/13/7d/b2137d57-2cb4-f711-ad9c-a2251b34a12f/5905610874995.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/13/7d/b2137d57-2cb4-f711-ad9c-a2251b34a12f/5905610874995.jpg/100x100bb.jpg",
+      "collectionPrice": 0.99,
+      "trackPrice": 0.99,
+      "releaseDate": "2025-09-05T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 1,
+      "trackNumber": 1,
+      "trackTimeMillis": 260502,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Jazz",
+      "isStreamable": true
+    }
+  ]
+}
