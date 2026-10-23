@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 2564408,
+      "collectionId": 2564459,
+      "trackId": 2564425,
+      "artistName": "The Red Clay Ramblers",
+      "collectionName": "Merchants Lunch",
+      "trackName": "The Bacon Was Scarce/ Ryestraw",
+      "collectionCensoredName": "Merchants Lunch",
+      "trackCensoredName": "The Bacon Was Scarce/ Ryestraw",
+      "artistViewUrl": "https://music.apple.com/us/artist/the-red-clay-ramblers/2564408?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/the-bacon-was-scarce-ryestraw/2564459?i=2564425&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/the-bacon-was-scarce-ryestraw/2564459?i=2564425&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/b3/20/6f/b3206f1c-be0d-60c3-f957-f0f3832e0c5a/mzaf_8174540215089992962.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2003/m09/d19/h02/s03.uumxesfj.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2003/m09/d19/h02/s03.uumxesfj.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2003/m09/d19/h02/s03.uumxesfj.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 0.99,
+      "releaseDate": "1977-01-01T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 25,
+      "trackNumber": 9,
+      "trackTimeMillis": 137960,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Singer/Songwriter",
+      "isStreamable": true
+    }
+  ]
+}

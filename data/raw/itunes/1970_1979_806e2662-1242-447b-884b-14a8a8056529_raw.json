@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 10323,
+      "collectionId": 1699486073,
+      "trackId": 1699486397,
+      "artistName": "Leo Kottke",
+      "collectionName": "Chewing Pine",
+      "trackName": "Rebecca",
+      "collectionCensoredName": "Chewing Pine",
+      "trackCensoredName": "Rebecca",
+      "artistViewUrl": "https://music.apple.com/us/artist/leo-kottke/10323?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/rebecca/1699486073?i=1699486397&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/rebecca/1699486073?i=1699486397&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/90/52/42/905242d7-006a-133b-a33b-ea1df13bb3f8/mzaf_5685650972137381634.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0c/8b/f3/0c8bf325-9d17-f8e9-952b-f2d6893c9284/23UMGIM84255.rgb.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0c/8b/f3/0c8bf325-9d17-f8e9-952b-f2d6893c9284/23UMGIM84255.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0c/8b/f3/0c8bf325-9d17-f8e9-952b-f2d6893c9284/23UMGIM84255.rgb.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "1975-01-01T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 12,
+      "trackNumber": 10,
+      "trackTimeMillis": 168667,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Folk",
+      "isStreamable": true
+    }
+  ]
+}

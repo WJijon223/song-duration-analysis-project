@@ -1,0 +1,5471 @@
+{
+  "created": "2026-10-23T18:19:24.658Z",
+  "count": 1443857,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "426e1af9-751a-44bc-aeaa-8aa118444be1",
+      "score": 100,
+      "artist-credit-id": "4ade6197-5dfc-3ac1-b458-be8b7c64cc15",
+      "title": "Nacer de ti",
+      "length": 271066,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " y ",
+          "name": "Rub\u00e9n Blades",
+          "artist": {
+            "id": "f050673a-dfb3-4200-b057-bf78213de36c",
+            "name": "Rub\u00e9n Blades",
+            "sort-name": "Blades, Rub\u00e9n",
+            "aliases": [
+              {
+                "sort-name": "Madera, Medoro",
+                "name": "Medoro Madera",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rebun Blades",
+                "name": "Rebun Blades",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ruben Blades",
+                "name": "Ruben Blades",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rub En Blades",
+                "name": "Rub En Blades",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rueben Blades",
+                "name": "Rueben Blades",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rub\u00e9n Blades Bellido de Luna",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Rub\u00e9n Blades Bellido de Luna",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "Son del Solar",
+          "artist": {
+            "id": "cf6bea8f-2087-44b4-b298-bcf2f1483872",
+            "name": "Son del Solar",
+            "sort-name": "Son del Solar",
+            "aliases": [
+              {
+                "sort-name": "Seis del Solar",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Seis del Solar",
+                "locale": "es",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1988",
+      "releases": [
+        {
+          "id": "c6d16571-7ef3-4ff3-8d35-5123a3057e74",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "4ade6197-5dfc-3ac1-b458-be8b7c64cc15",
+          "count": 1,
+          "title": "Antecedente",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "joinphrase": " y ",
+              "name": "Rub\u00e9n Blades",
+              "artist": {
+                "id": "f050673a-dfb3-4200-b057-bf78213de36c",
+                "name": "Rub\u00e9n Blades",
+                "sort-name": "Blades, Rub\u00e9n"
+              }
+            },
+            {
+              "name": "Son del Solar",
+              "artist": {
+                "id": "cf6bea8f-2087-44b4-b298-bcf2f1483872",
+                "name": "Son del Solar",
+                "sort-name": "Son del Solar"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3fa059f5-c945-3ae8-afc0-2e0037b6cf19",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Antecedente",
+            "primary-type": "Album"
+          },
+          "date": "1988",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1988",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "023a2bee-68bf-3815-a230-4f5390b25a6c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "dfbea19b-1021-3981-91fe-b0c61a5a26c7",
+                  "number": "6",
+                  "title": "Nacer de ti",
+                  "length": 271066
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "c53f78b2-26e7-43cb-920a-782336a62b79",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "4ade6197-5dfc-3ac1-b458-be8b7c64cc15",
+          "count": 1,
+          "title": "Antecedente",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "joinphrase": " y ",
+              "name": "Rub\u00e9n Blades",
+              "artist": {
+                "id": "f050673a-dfb3-4200-b057-bf78213de36c",
+                "name": "Rub\u00e9n Blades",
+                "sort-name": "Blades, Rub\u00e9n"
+              }
+            },
+            {
+              "name": "Son del Solar",
+              "artist": {
+                "id": "cf6bea8f-2087-44b4-b298-bcf2f1483872",
+                "name": "Son del Solar",
+                "sort-name": "Son del Solar"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3fa059f5-c945-3ae8-afc0-2e0037b6cf19",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Antecedente",
+            "primary-type": "Album"
+          },
+          "date": "1988",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1988",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "68ca1f7f-9f13-3c07-9e45-e526c789890e",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "72cea161-bf80-42fd-8a47-b1646b10572a",
+                  "number": "B1",
+                  "title": "Nacer de ti",
+                  "length": 271066
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bdc8e8bb-55ae-41ab-80d5-58ec29dadc08",
+      "score": 100,
+      "artist-credit-id": "b2c2f7de-c3b7-30ad-a2c0-386d8f9b4962",
+      "title": "Long Distance Love",
+      "length": 298400,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Philip Bailey",
+          "artist": {
+            "id": "f4b25300-be93-49bc-9d44-15f9de480f50",
+            "name": "Philip Bailey",
+            "sort-name": "Bailey, Philip",
+            "aliases": [
+              {
+                "sort-name": "Presents, Philip Bailey",
+                "name": "Philip Bailey Presents",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bailey, Philip James",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Philip James Bailey",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bailey, Phil",
+                "name": "Phil Bailey",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bailey, P.",
+                "name": "P. Bailey",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Phillip Bailey",
+                "name": "Phillip Bailey",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1986",
+      "releases": [
+        {
+          "id": "a51f3102-2769-4456-86dc-220b17abdb07",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 3,
+          "title": "Black Box: Classics, Ballads & Hits of the 90\u2019s",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0a657659-2fa8-4c0f-bc90-7ac09d4e6aee",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Box: Classics, Ballads & Hits of the 90\u2019s",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2001",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 47,
+          "media": [
+            {
+              "id": "93c27a6c-2e8d-352a-8e49-bd5542d01032",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b3aa328e-3a1f-4bee-b0c2-8b9f3d94ef15",
+                  "number": "15",
+                  "title": "Long Distance Love",
+                  "length": 298400
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 14
+            }
+          ]
+        },
+        {
+          "id": "aa67e61b-1548-4582-95bf-c6fc9ec3833d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b2c2f7de-c3b7-30ad-a2c0-386d8f9b4962",
+          "count": 1,
+          "title": "Inside Out",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Philip Bailey",
+              "artist": {
+                "id": "f4b25300-be93-49bc-9d44-15f9de480f50",
+                "name": "Philip Bailey",
+                "sort-name": "Bailey, Philip"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b3c90e02-b167-36e2-a32c-724e8a19689a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Inside Out",
+            "primary-type": "Album"
+          },
+          "date": "1986",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1986",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "7ebb2d45-855f-315a-8960-16a1a64dd2f7",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "885f7490-dad9-4199-b771-64ad3ddb8d13",
+                  "number": "A3",
+                  "title": "Long Distance Love",
+                  "length": 297000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "dd696941-92bc-456c-985c-61d60b8fb06d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b2c2f7de-c3b7-30ad-a2c0-386d8f9b4962",
+          "count": 1,
+          "title": "Inside Out",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Philip Bailey",
+              "artist": {
+                "id": "f4b25300-be93-49bc-9d44-15f9de480f50",
+                "name": "Philip Bailey",
+                "sort-name": "Bailey, Philip"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b3c90e02-b167-36e2-a32c-724e8a19689a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Inside Out",
+            "primary-type": "Album"
+          },
+          "date": "1986",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1986",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "64166a6a-1a83-3fef-bea4-04585ce3b001",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e2b3acb3-c96d-3ca7-9667-992f2e5189a5",
+                  "number": "3",
+                  "title": "Long Distance Love",
+                  "length": 298600
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "1a18f44b-7784-4187-97f2-e2c8af0950e7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Sweet Dreams: 36 traumhafte Popsongs",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d49f58c2-7cef-403c-8f7f-0f475c64530a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Sweet Dreams: 36 traumhafte Popsongs",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1992",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "1992",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 36,
+          "media": [
+            {
+              "id": "ffc30174-8d7c-39ed-b9ad-7e251b7a63fd",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9c1f7544-d815-407b-b1d9-1b6cba6c856e",
+                  "number": "12",
+                  "title": "Long Distance Love",
+                  "length": 299000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a502bb3f-452f-4169-bd0a-d56b2bcd2252",
+      "score": 100,
+      "artist-credit-id": "63ab7e57-ea8f-3b9a-85c1-c3c17b25279d",
+      "title": "The Confessor",
+      "length": 423000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Joe Walsh",
+          "artist": {
+            "id": "c6f5969f-1f65-465c-8603-ec2d1e31e39d",
+            "name": "Joe Walsh",
+            "sort-name": "Walsh, Joe",
+            "disambiguation": "Eagles/James Gang",
+            "aliases": [
+              {
+                "sort-name": "Walsh",
+                "name": "Walsh",
+                "locale": "en",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Walsh, Joseph Fidler",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Joseph Fidler Walsh",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1985",
+      "releases": [
+        {
+          "id": "33606545-672e-4f98-922e-103a52167412",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "63ab7e57-ea8f-3b9a-85c1-c3c17b25279d",
+          "count": 1,
+          "title": "The Definitive Collection",
+          "status": "Official",
+          "disambiguation": "Remastered",
+          "artist-credit": [
+            {
+              "name": "Joe Walsh",
+              "artist": {
+                "id": "c6f5969f-1f65-465c-8603-ec2d1e31e39d",
+                "name": "Joe Walsh",
+                "sort-name": "Walsh, Joe",
+                "disambiguation": "Eagles/James Gang"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "abdd4c19-4eb7-3f73-a412-7044f7e3e86a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Joe Walsh\u2019s Greatest Hits (Little Did He Know\u2026)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2006-08-08",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2006-08-08",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "9e6d0462-0c88-3316-82a7-4789950ff498",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1b2ca67e-6ab9-49bd-988e-92f7c2c13ee2",
+                  "number": "13",
+                  "title": "The Confessor",
+                  "length": 422000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "6e0b1104-2ef4-47ad-abcc-5110869b4bdd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "63ab7e57-ea8f-3b9a-85c1-c3c17b25279d",
+          "count": 1,
+          "title": "The Confessor",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Joe Walsh",
+              "artist": {
+                "id": "c6f5969f-1f65-465c-8603-ec2d1e31e39d",
+                "name": "Joe Walsh",
+                "sort-name": "Walsh, Joe",
+                "disambiguation": "Eagles/James Gang"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "634d16b2-5587-397b-95d2-f3456df77adb",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Confessor",
+            "primary-type": "Album"
+          },
+          "date": "2007-06-12",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2007-06-12",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "5f3af713-e314-313c-ad12-741f66c64f64",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "747c5dab-68fe-49e5-86dd-2d6ea6846bf5",
+                  "number": "6",
+                  "title": "The Confessor",
+                  "length": 426533
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "94e1ffce-f8dc-400a-9ecf-9b2b4af3616a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "63ab7e57-ea8f-3b9a-85c1-c3c17b25279d",
+          "count": 1,
+          "title": "Joe Walsh\u2019s Greatest Hits (Little Did He Know\u2026)",
+          "status": "Official",
+          "disambiguation": "Cinram press",
+          "artist-credit": [
+            {
+              "name": "Joe Walsh",
+              "artist": {
+                "id": "c6f5969f-1f65-465c-8603-ec2d1e31e39d",
+                "name": "Joe Walsh",
+                "sort-name": "Walsh, Joe",
+                "disambiguation": "Eagles/James Gang"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "abdd4c19-4eb7-3f73-a412-7044f7e3e86a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Joe Walsh\u2019s Greatest Hits (Little Did He Know\u2026)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1997",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1997",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "8c8b66d5-6ff6-32e5-84c0-516f53243abe",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "87d80b2b-1b36-429a-9d11-7dbc62ce758b",
+                  "number": "13",
+                  "title": "The Confessor",
+                  "length": 422333
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "d97ada7d-5ab4-4277-8aef-0d0dc6d6124e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "63ab7e57-ea8f-3b9a-85c1-c3c17b25279d",
+          "count": 1,
+          "title": "The Confessor",
+          "status": "Official",
+          "disambiguation": "SRC press",
+          "artist-credit": [
+            {
+              "name": "Joe Walsh",
+              "artist": {
+                "id": "c6f5969f-1f65-465c-8603-ec2d1e31e39d",
+                "name": "Joe Walsh",
+                "sort-name": "Walsh, Joe",
+                "disambiguation": "Eagles/James Gang"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "634d16b2-5587-397b-95d2-f3456df77adb",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Confessor",
+            "primary-type": "Album"
+          },
+          "date": "1985",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1985",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "a2bed683-3570-3cdf-8fae-d9319c6d4825",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7c420115-3a69-4b30-961b-e8a8b479b43e",
+                  "number": "6",
+                  "title": "The Confessor",
+                  "length": 426533
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "05849352-820e-4eb1-b24c-54f51e7b893e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "63ab7e57-ea8f-3b9a-85c1-c3c17b25279d",
+          "count": 1,
+          "title": "The Confessor",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Joe Walsh",
+              "artist": {
+                "id": "c6f5969f-1f65-465c-8603-ec2d1e31e39d",
+                "name": "Joe Walsh",
+                "sort-name": "Walsh, Joe",
+                "disambiguation": "Eagles/James Gang"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "634d16b2-5587-397b-95d2-f3456df77adb",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Confessor",
+            "primary-type": "Album"
+          },
+          "date": "1985",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1985",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "f4806712-5137-3f63-87bd-658883c40c0c",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "e8a9676b-7fad-4544-96a9-3d84b150abd5",
+                  "number": "B1",
+                  "title": "The Confessor",
+                  "length": 423000
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "3dd093b9-a456-4718-8dd1-062c6230025a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "63ab7e57-ea8f-3b9a-85c1-c3c17b25279d",
+          "count": 1,
+          "title": "Joe Walsh's Greatest Hits (Little Did He Know\u2026)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Joe Walsh",
+              "artist": {
+                "id": "c6f5969f-1f65-465c-8603-ec2d1e31e39d",
+                "name": "Joe Walsh",
+                "sort-name": "Walsh, Joe",
+                "disambiguation": "Eagles/James Gang"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "abdd4c19-4eb7-3f73-a412-7044f7e3e86a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Joe Walsh\u2019s Greatest Hits (Little Did He Know\u2026)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1997-11-18",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1997-11-18",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "b84cdc81-e525-3677-9c28-4c88671dd742",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "24da30da-6f64-31a6-a33f-5034be3acdd6",
+                  "number": "13",
+                  "title": "The Confessor",
+                  "length": 422333
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "ba1ae1c9-496c-4036-893a-7b3b9c71e7fc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Classic Rock: 1980\u20131985",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5be90aad-66df-3f0f-a8c0-69687bce1fe4",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Classic Rock: 1980\u20131985",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1998",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1998",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 30,
+          "media": [
+            {
+              "id": "17a2d708-58b3-3a7a-afd4-23c2524e0f4b",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "cb7f6880-df45-325a-bb8b-6f7039258758",
+                  "number": "9",
+                  "title": "The Confessor",
+                  "length": 427466
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "1499295a-7f15-3a0c-a754-0ee9cebbfe4b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "63ab7e57-ea8f-3b9a-85c1-c3c17b25279d",
+          "count": 1,
+          "title": "The Confessor",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Joe Walsh",
+              "artist": {
+                "id": "c6f5969f-1f65-465c-8603-ec2d1e31e39d",
+                "name": "Joe Walsh",
+                "sort-name": "Walsh, Joe",
+                "disambiguation": "Eagles/James Gang"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "634d16b2-5587-397b-95d2-f3456df77adb",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Confessor",
+            "primary-type": "Album"
+          },
+          "date": "1985",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "1985",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "1985",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            },
+            {
+              "date": "1985",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "4d55c776-b5e4-313a-a4f1-ce39381c2bba",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1b5bd4fd-ea38-3a1f-a79a-4417fc1e9299",
+                  "number": "6",
+                  "title": "The Confessor",
+                  "length": 426533
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "a706796a-3856-482b-bea9-4dac6b8aa9ac",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "63ab7e57-ea8f-3b9a-85c1-c3c17b25279d",
+          "count": 1,
+          "title": "The Confessor",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Joe Walsh",
+              "artist": {
+                "id": "c6f5969f-1f65-465c-8603-ec2d1e31e39d",
+                "name": "Joe Walsh",
+                "sort-name": "Walsh, Joe",
+                "disambiguation": "Eagles/James Gang"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "634d16b2-5587-397b-95d2-f3456df77adb",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Confessor",
+            "primary-type": "Album"
+          },
+          "date": "1985",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "1985",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "dd0b1efb-6bdb-3b40-805c-8d27ee4d600c",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "fd6ec1cb-1e0b-3c03-a6b3-902629bca86e",
+                  "number": "6",
+                  "title": "The Confessor",
+                  "length": 423000
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "444f74f0-9d3f-4c16-843f-697acf86f388",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "63ab7e57-ea8f-3b9a-85c1-c3c17b25279d",
+          "count": 1,
+          "title": "The Confessor",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Joe Walsh",
+              "artist": {
+                "id": "c6f5969f-1f65-465c-8603-ec2d1e31e39d",
+                "name": "Joe Walsh",
+                "sort-name": "Walsh, Joe",
+                "disambiguation": "Eagles/James Gang"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "634d16b2-5587-397b-95d2-f3456df77adb",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Confessor",
+            "primary-type": "Album"
+          },
+          "date": "1985",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1985",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "9657acd2-ad7d-3597-9f45-6b7df6c9e7aa",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "a91ef3a5-cf1f-3b4f-8362-e8d5f2575429",
+                  "number": "B1",
+                  "title": "The Confessor",
+                  "length": 426533
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 5
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "WBCCA8502957"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "blues rock"
+        },
+        {
+          "count": 3,
+          "name": "classic rock"
+        },
+        {
+          "count": 1,
+          "name": "arena rock"
+        },
+        {
+          "count": 1,
+          "name": "blues-rock"
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "contemporary pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "3756a469-4e6e-482c-b34e-d32569991e8c",
+      "score": 100,
+      "artist-credit-id": "4ade6197-5dfc-3ac1-b458-be8b7c64cc15",
+      "title": "Nuestro adi\u00f3s",
+      "length": 257133,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " y ",
+          "name": "Rub\u00e9n Blades",
+          "artist": {
+            "id": "f050673a-dfb3-4200-b057-bf78213de36c",
+            "name": "Rub\u00e9n Blades",
+            "sort-name": "Blades, Rub\u00e9n",
+            "aliases": [
+              {
+                "sort-name": "Madera, Medoro",
+                "name": "Medoro Madera",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rebun Blades",
+                "name": "Rebun Blades",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ruben Blades",
+                "name": "Ruben Blades",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rub En Blades",
+                "name": "Rub En Blades",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rueben Blades",
+                "name": "Rueben Blades",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rub\u00e9n Blades Bellido de Luna",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Rub\u00e9n Blades Bellido de Luna",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "Son del Solar",
+          "artist": {
+            "id": "cf6bea8f-2087-44b4-b298-bcf2f1483872",
+            "name": "Son del Solar",
+            "sort-name": "Son del Solar",
+            "aliases": [
+              {
+                "sort-name": "Seis del Solar",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Seis del Solar",
+                "locale": "es",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1988",
+      "releases": [
+        {
+          "id": "c6d16571-7ef3-4ff3-8d35-5123a3057e74",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "4ade6197-5dfc-3ac1-b458-be8b7c64cc15",
+          "count": 1,
+          "title": "Antecedente",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "joinphrase": " y ",
+              "name": "Rub\u00e9n Blades",
+              "artist": {
+                "id": "f050673a-dfb3-4200-b057-bf78213de36c",
+                "name": "Rub\u00e9n Blades",
+                "sort-name": "Blades, Rub\u00e9n"
+              }
+            },
+            {
+              "name": "Son del Solar",
+              "artist": {
+                "id": "cf6bea8f-2087-44b4-b298-bcf2f1483872",
+                "name": "Son del Solar",
+                "sort-name": "Son del Solar"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3fa059f5-c945-3ae8-afc0-2e0037b6cf19",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Antecedente",
+            "primary-type": "Album"
+          },
+          "date": "1988",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1988",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "023a2bee-68bf-3815-a230-4f5390b25a6c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "45f8fc4f-c2cd-3698-a024-4fdc27846ac4",
+                  "number": "4",
+                  "title": "Nuestro adi\u00f3s",
+                  "length": 257133
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "c53f78b2-26e7-43cb-920a-782336a62b79",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "4ade6197-5dfc-3ac1-b458-be8b7c64cc15",
+          "count": 1,
+          "title": "Antecedente",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "joinphrase": " y ",
+              "name": "Rub\u00e9n Blades",
+              "artist": {
+                "id": "f050673a-dfb3-4200-b057-bf78213de36c",
+                "name": "Rub\u00e9n Blades",
+                "sort-name": "Blades, Rub\u00e9n"
+              }
+            },
+            {
+              "name": "Son del Solar",
+              "artist": {
+                "id": "cf6bea8f-2087-44b4-b298-bcf2f1483872",
+                "name": "Son del Solar",
+                "sort-name": "Son del Solar"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3fa059f5-c945-3ae8-afc0-2e0037b6cf19",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Antecedente",
+            "primary-type": "Album"
+          },
+          "date": "1988",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1988",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "68ca1f7f-9f13-3c07-9e45-e526c789890e",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "96960151-146c-4d3d-91f6-dbc2cb730fb3",
+                  "number": "A4",
+                  "title": "Nuestro adi\u00f3s",
+                  "length": 257133
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f9cf69ea-59b6-46e0-82f0-9dfd9a1d4cfa",
+      "score": 100,
+      "artist-credit-id": "1c45d4dd-8c57-3e71-b04c-cf516d13ed00",
+      "title": "Frach mich net (wie\u2019s mir geht)",
+      "length": 192506,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rodgau Monotones",
+          "artist": {
+            "id": "da014b60-38aa-422c-9f65-e3f0bd0e39c2",
+            "name": "Rodgau Monotones",
+            "sort-name": "Rodgau Monotones",
+            "aliases": [
+              {
+                "sort-name": "Rondgau Monotones",
+                "name": "Rondgau Monotones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rodgaus",
+                "name": "Rodgaus",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1984",
+      "releases": [
+        {
+          "id": "7525213b-ef6d-4f49-bd10-690353df0e85",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1c45d4dd-8c57-3e71-b04c-cf516d13ed00",
+          "count": 1,
+          "title": "Volle Lotte!",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rodgau Monotones",
+              "artist": {
+                "id": "da014b60-38aa-422c-9f65-e3f0bd0e39c2",
+                "name": "Rodgau Monotones",
+                "sort-name": "Rodgau Monotones"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5217934e-4a75-3e55-bae2-b07514a93dfc",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Volle Lotte!",
+            "primary-type": "Album"
+          },
+          "date": "1984",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "1984",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "e092b118-93cb-3e8d-b38a-896aa9172fd7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e4f61d27-e9ed-4dd1-a2d7-983ec0049d94",
+                  "number": "2",
+                  "title": "Frach mich net (wie\u2019s mir geht)",
+                  "length": 192506
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "45ab3ba5-4d69-4879-8512-89a4a0ac74c6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1c45d4dd-8c57-3e71-b04c-cf516d13ed00",
+          "count": 1,
+          "title": "Volle Lotte!",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rodgau Monotones",
+              "artist": {
+                "id": "da014b60-38aa-422c-9f65-e3f0bd0e39c2",
+                "name": "Rodgau Monotones",
+                "sort-name": "Rodgau Monotones"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5217934e-4a75-3e55-bae2-b07514a93dfc",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Volle Lotte!",
+            "primary-type": "Album"
+          },
+          "date": "1984",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "1984",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "f610d5ec-9402-36e4-8833-456fe7ae8483",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2dc6deb0-ed44-4dd2-9cb9-d524ce1f5df3",
+                  "number": "2",
+                  "title": "Frach mich net (wie\u2019s mir geht)",
+                  "length": 192506
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "832384e7-5200-4238-90cd-c31bb4660c68",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1c45d4dd-8c57-3e71-b04c-cf516d13ed00",
+          "count": 1,
+          "title": "Volle Lotte",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rodgau Monotones",
+              "artist": {
+                "id": "da014b60-38aa-422c-9f65-e3f0bd0e39c2",
+                "name": "Rodgau Monotones",
+                "sort-name": "Rodgau Monotones"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5217934e-4a75-3e55-bae2-b07514a93dfc",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Volle Lotte!",
+            "primary-type": "Album"
+          },
+          "date": "1984",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1984",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "d7847368-b3a1-3ac1-8132-62d8feef120a",
+              "position": 2,
+              "format": "Cassette",
+              "track": [
+                {
+                  "id": "6e3410aa-e4aa-44bb-9a26-4e17097d551c",
+                  "number": "A2",
+                  "title": "Frach mich net (wie\u2019s mir geht)",
+                  "length": 190000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "aeec847d-1423-43a4-ba71-a39a4d13f913",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1c45d4dd-8c57-3e71-b04c-cf516d13ed00",
+          "count": 1,
+          "title": "Volle Lotte! Hessenplatin",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rodgau Monotones",
+              "artist": {
+                "id": "da014b60-38aa-422c-9f65-e3f0bd0e39c2",
+                "name": "Rodgau Monotones",
+                "sort-name": "Rodgau Monotones"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5217934e-4a75-3e55-bae2-b07514a93dfc",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Volle Lotte!",
+            "primary-type": "Album"
+          },
+          "date": "2005-10-28",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2005-10-28",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "2a6e71b5-dce8-3515-a96f-7e68b8bb0b81",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "45f3dfdb-e664-39db-8acb-91b57761c90d",
+                  "number": "2",
+                  "title": "Frach mich net (wie\u2019s mir geht)",
+                  "length": 192506
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "fe3e8a5e-45d6-4988-b79f-ba0466364695",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1c45d4dd-8c57-3e71-b04c-cf516d13ed00",
+          "count": 1,
+          "title": "Volle Lotte!",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rodgau Monotones",
+              "artist": {
+                "id": "da014b60-38aa-422c-9f65-e3f0bd0e39c2",
+                "name": "Rodgau Monotones",
+                "sort-name": "Rodgau Monotones"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5217934e-4a75-3e55-bae2-b07514a93dfc",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Volle Lotte!",
+            "primary-type": "Album"
+          },
+          "date": "1984",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "1984",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "b016e937-d457-3b12-84bd-62e95f086745",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "e089c81d-3883-3ac5-8e48-1927a032d5db",
+                  "number": "2",
+                  "title": "Frach mich net (wie\u2019s mir geht)",
+                  "length": 190000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        }
+      ]
+    },
+    {
+      "id": "a06b293f-78d5-4ad9-a5ad-3a1239c486b6",
+      "score": 100,
+      "artist-credit-id": "8df7d496-ceb9-3c63-8f7f-11041659ae47",
+      "title": "Fuga 9",
+      "length": 180573,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Astor Piazzolla y su Conjunto 9",
+          "artist": {
+            "id": "514bf499-3832-48a4-87cc-533c9064dee8",
+            "name": "Astor Piazzolla y su Conjunto 9",
+            "sort-name": "Piazzolla, Astor y su Conjunto 9",
+            "disambiguation": "active between ca. 1971\u20131973"
+          }
+        }
+      ],
+      "first-release-date": "1982",
+      "releases": [
+        {
+          "id": "a957f32f-a88f-4955-ab42-f7439037934d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "52f994d1-5bbd-3ad5-b0b5-a922997e65cb",
+          "count": 3,
+          "title": "The King of Bandoneon",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Astor Piazzolla",
+              "artist": {
+                "id": "e280268a-a5ab-4bb0-be4d-ec470ca59131",
+                "name": "Astor Piazzolla",
+                "sort-name": "Piazzolla, Astor",
+                "disambiguation": "composer and bandone\u00f3n player"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4b5b9535-f0bf-3d96-9235-4e9737809df5",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The King of Bandoneon",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2006-06-07",
+          "country": "IE",
+          "release-events": [
+            {
+              "date": "2006-06-07",
+              "area": {
+                "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+                "name": "Ireland",
+                "sort-name": "Ireland",
+                "iso-3166-1-codes": [
+                  "IE"
+                ]
+              }
+            }
+          ],
+          "track-count": 35,
+          "media": [
+            {
+              "id": "4baeef7c-9103-3230-9265-988bef6ebf56",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b8b0a518-1563-3d13-ad28-77427e62f3e2",
+                  "number": "10",
+                  "title": "Fuga",
+                  "length": 184000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "18e2b8e7-6304-4a1c-9a37-42ff7ea8dc0b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "52f994d1-5bbd-3ad5-b0b5-a922997e65cb",
+          "count": 10,
+          "title": "Astor Piazzolla",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Astor Piazzolla",
+              "artist": {
+                "id": "e280268a-a5ab-4bb0-be4d-ec470ca59131",
+                "name": "Astor Piazzolla",
+                "sort-name": "Piazzolla, Astor",
+                "disambiguation": "composer and bandone\u00f3n player"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2fe873ae-c3b1-4930-ac74-c7d843ac47d1",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Astor Piazzolla",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004-12-06",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2004-12-06",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 107,
+          "media": [
+            {
+              "id": "45ba507e-9ce4-321f-8b44-df6e7e947e68",
+              "position": 6,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "76644bf5-2707-3b58-8d44-67e1f1e0b2a1",
+                  "number": "10",
+                  "title": "Fuga",
+                  "length": 178840
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "f5c6ad13-7675-4e3d-8a94-34583f6d506b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "52f994d1-5bbd-3ad5-b0b5-a922997e65cb",
+          "count": 1,
+          "title": "Non Stop Music",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Astor Piazzolla",
+              "artist": {
+                "id": "e280268a-a5ab-4bb0-be4d-ec470ca59131",
+                "name": "Astor Piazzolla",
+                "sort-name": "Piazzolla, Astor",
+                "disambiguation": "composer and bandone\u00f3n player"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ade49551-3a03-4c1a-9ea8-78a6b17cb08e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Non Stop Music",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2007-01-08",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2007-01-08",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 107,
+          "media": [
+            {
+              "id": "444a0bc2-888b-36a2-8979-78af9d93c34f",
+              "position": 1,
+              "format": "Data CD",
+              "track": [
+                {
+                  "id": "f2865e5a-8d0b-3534-9a96-99c89c79558b",
+                  "number": "61",
+                  "title": "Fuga",
+                  "length": 180000
+                }
+              ],
+              "track-count": 107,
+              "track-offset": 60
+            }
+          ]
+        },
+        {
+          "id": "fd222e9e-d1c2-4e76-ad60-046762effee2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d91d183a-19cc-3b9a-9f59-2afe070e8aee",
+          "count": 1,
+          "title": "Oblivion",
+          "status": "Official",
+          "disambiguation": "Brazilian release",
+          "artist-credit": [
+            {
+              "name": "\u00c1stor Piazzolla",
+              "artist": {
+                "id": "e280268a-a5ab-4bb0-be4d-ec470ca59131",
+                "name": "Astor Piazzolla",
+                "sort-name": "Piazzolla, Astor",
+                "disambiguation": "composer and bandone\u00f3n player"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2c3d5fc6-0435-34b6-bff4-ec56911c475e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Oblivion",
+            "primary-type": "Album"
+          },
+          "date": "1982",
+          "country": "BR",
+          "release-events": [
+            {
+              "date": "1982",
+              "area": {
+                "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+                "name": "Brazil",
+                "sort-name": "Brazil",
+                "iso-3166-1-codes": [
+                  "BR"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "1cd4da3c-c4c4-34d2-8709-5c91319ed4be",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0cd37074-0bcd-4d37-9949-db07ba1b7603",
+                  "number": "10",
+                  "title": "Fuga 9",
+                  "length": 184293
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "8f1f69d7-31d9-4d9b-a933-9b412ef04184",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "52f994d1-5bbd-3ad5-b0b5-a922997e65cb",
+          "count": 1,
+          "title": "Oblivion",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Astor Piazzolla",
+              "artist": {
+                "id": "e280268a-a5ab-4bb0-be4d-ec470ca59131",
+                "name": "Astor Piazzolla",
+                "sort-name": "Piazzolla, Astor",
+                "disambiguation": "composer and bandone\u00f3n player"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0e416695-61cf-44d0-8a12-6a06478fbda5",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Oblivion",
+            "primary-type": "Album"
+          },
+          "date": "1999",
+          "country": "PT",
+          "release-events": [
+            {
+              "date": "1999",
+              "area": {
+                "id": "781b0c54-3d54-362d-a941-8a617def4992",
+                "name": "Portugal",
+                "sort-name": "Portugal",
+                "iso-3166-1-codes": [
+                  "PT"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "fe144ee6-8a07-3b9f-92e9-e15f1abc75fb",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b19a6dc9-aae6-43e9-980f-d747d115d789",
+                  "number": "10",
+                  "title": "Fuga 9",
+                  "length": 182000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "e0f46f1b-4224-4ca4-8ef1-5841f5fdb8db",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "52f994d1-5bbd-3ad5-b0b5-a922997e65cb",
+          "count": 1,
+          "title": "Oblivion",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Astor Piazzolla",
+              "artist": {
+                "id": "e280268a-a5ab-4bb0-be4d-ec470ca59131",
+                "name": "Astor Piazzolla",
+                "sort-name": "Piazzolla, Astor",
+                "disambiguation": "composer and bandone\u00f3n player"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2c3d5fc6-0435-34b6-bff4-ec56911c475e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Oblivion",
+            "primary-type": "Album"
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "id": "bfec697e-a481-3e45-8d76-ee7f32cd9150",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1f676fdf-aa65-3832-9afc-25e9260fd92b",
+                  "number": "10",
+                  "title": "Fuga 9",
+                  "length": 184293
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "b873fbb6-68fa-4100-a10f-fbb2e272d35f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "52f994d1-5bbd-3ad5-b0b5-a922997e65cb",
+          "count": 1,
+          "title": "Verano porte\u00f1o",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Astor Piazzolla",
+              "artist": {
+                "id": "e280268a-a5ab-4bb0-be4d-ec470ca59131",
+                "name": "Astor Piazzolla",
+                "sort-name": "Piazzolla, Astor",
+                "disambiguation": "composer and bandone\u00f3n player"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b56e3662-7a8e-3fdb-a1e7-45566524e335",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Verano porte\u00f1o",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "",
+          "country": "IT",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+                "name": "Italy",
+                "sort-name": "Italy",
+                "iso-3166-1-codes": [
+                  "IT"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "52572140-29df-3731-a514-5265731e74d9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "49fcacad-a5b8-4ada-921a-944f20a5a543",
+                  "number": "9",
+                  "title": "Fuga 9",
+                  "length": 180573
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "399e154d-5cfc-46da-9870-107340072ac0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "52f994d1-5bbd-3ad5-b0b5-a922997e65cb",
+          "count": 1,
+          "title": "Verano porte\u00f1o",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Astor Piazzolla",
+              "artist": {
+                "id": "e280268a-a5ab-4bb0-be4d-ec470ca59131",
+                "name": "Astor Piazzolla",
+                "sort-name": "Piazzolla, Astor",
+                "disambiguation": "composer and bandone\u00f3n player"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b56e3662-7a8e-3fdb-a1e7-45566524e335",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Verano porte\u00f1o",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1990",
+          "country": "IT",
+          "release-events": [
+            {
+              "date": "1990",
+              "area": {
+                "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+                "name": "Italy",
+                "sort-name": "Italy",
+                "iso-3166-1-codes": [
+                  "IT"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "ca210b19-3b38-3bf0-baf8-ab90ea93be05",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e61b7246-36e4-3ce9-9d5e-d73f642bad33",
+                  "number": "9",
+                  "title": "Fuga 9",
+                  "length": 180573
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 8
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "tango"
+        },
+        {
+          "count": 1,
+          "name": "latin"
+        }
+      ]
+    },
+    {
+      "id": "21fa1555-dbb6-4448-b9f0-ce6976805aa8",
+      "score": 100,
+      "artist-credit-id": "eed7d608-356f-3316-9c1e-685005e00832",
+      "title": "There's a Ship",
+      "length": 197000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "D\u2010A\u2010D",
+          "artist": {
+            "id": "47f94b87-c184-4a9a-9f17-7c4e7e5abeff",
+            "name": "D\u2010A\u2010D",
+            "sort-name": "D-A-D",
+            "disambiguation": "Danish rock band Disneyland After Dark",
+            "aliases": [
+              {
+                "sort-name": "D.A.D",
+                "name": "D.A.D",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "DAD",
+                "name": "DAD",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "D.A.D.",
+                "name": "D.A.D.",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Disneyland After Dark",
+                "name": "Disneyland After Dark",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "D:A:D",
+                "name": "D:A:D",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1987-06-16",
+      "releases": [
+        {
+          "id": "bf5a251c-0061-495e-bc76-05a0c0947564",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "eed7d608-356f-3316-9c1e-685005e00832",
+          "count": 12,
+          "title": "The Overmuch Box",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "D\u2010A\u2010D",
+              "artist": {
+                "id": "47f94b87-c184-4a9a-9f17-7c4e7e5abeff",
+                "name": "D\u2010A\u2010D",
+                "sort-name": "D-A-D",
+                "disambiguation": "Danish rock band Disneyland After Dark"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7d686640-d680-4903-9e75-1a007baf92fb",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Overmuch Box",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009-11-16",
+          "country": "DK",
+          "release-events": [
+            {
+              "date": "2009-11-16",
+              "area": {
+                "id": "4757b525-2a60-324a-b060-578765d2c993",
+                "name": "Denmark",
+                "sort-name": "Denmark",
+                "iso-3166-1-codes": [
+                  "DK"
+                ]
+              }
+            }
+          ],
+          "track-count": 135,
+          "media": [
+            {
+              "id": "02c8f42c-f5f4-3eac-bb7c-cd64ffaf1b39",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6198e262-f757-4b5f-abdd-58ff29283093",
+                  "number": "6",
+                  "title": "There's a Ship",
+                  "length": 197000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "df013aa9-c425-4b40-94ed-3a9ba3b98ae8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "eed7d608-356f-3316-9c1e-685005e00832",
+          "count": 1,
+          "title": "Draws a Circle",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "D\u2010A\u2010D",
+              "artist": {
+                "id": "47f94b87-c184-4a9a-9f17-7c4e7e5abeff",
+                "name": "D\u2010A\u2010D",
+                "sort-name": "D-A-D",
+                "disambiguation": "Danish rock band Disneyland After Dark"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7aa5e77b-5e16-342d-8d96-149e2423b4b7",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Draws a Circle",
+            "primary-type": "Album"
+          },
+          "date": "1987-06-16",
+          "country": "DK",
+          "release-events": [
+            {
+              "date": "1987-06-16",
+              "area": {
+                "id": "4757b525-2a60-324a-b060-578765d2c993",
+                "name": "Denmark",
+                "sort-name": "Denmark",
+                "iso-3166-1-codes": [
+                  "DK"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "48f66024-a03c-325b-a73a-26ecf85a5f5c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "541747b9-2acd-3a23-9090-7e3749ec97bb",
+                  "number": "6",
+                  "title": "There's a Ship",
+                  "length": 197000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "78ee38b3-ba7d-4c64-872f-09e50ef0a0df",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "eed7d608-356f-3316-9c1e-685005e00832",
+          "count": 4,
+          "title": "The Early Years",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "D\u2010A\u2010D",
+              "artist": {
+                "id": "47f94b87-c184-4a9a-9f17-7c4e7e5abeff",
+                "name": "D\u2010A\u2010D",
+                "sort-name": "D-A-D",
+                "disambiguation": "Danish rock band Disneyland After Dark"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "57f9a7da-ca35-34a3-8057-44550a08ea40",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Early Years",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008",
+          "country": "DK",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "4757b525-2a60-324a-b060-578765d2c993",
+                "name": "Denmark",
+                "sort-name": "Denmark",
+                "iso-3166-1-codes": [
+                  "DK"
+                ]
+              }
+            }
+          ],
+          "track-count": 50,
+          "media": [
+            {
+              "id": "3ffefc08-973d-3db7-b69f-1394dd35f636",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f9be7762-bdc3-4d25-8990-01577d299ecd",
+                  "number": "6",
+                  "title": "There's A Ship",
+                  "length": 196000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "6a288d0d-9a08-42dc-ad37-b76615a771bb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "eed7d608-356f-3316-9c1e-685005e00832",
+          "count": 2,
+          "title": "The Early Years",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "D\u2010A\u2010D",
+              "artist": {
+                "id": "47f94b87-c184-4a9a-9f17-7c4e7e5abeff",
+                "name": "D\u2010A\u2010D",
+                "sort-name": "D-A-D",
+                "disambiguation": "Danish rock band Disneyland After Dark"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "57f9a7da-ca35-34a3-8057-44550a08ea40",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Early Years",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2000",
+          "country": "DK",
+          "release-events": [
+            {
+              "date": "2000",
+              "area": {
+                "id": "4757b525-2a60-324a-b060-578765d2c993",
+                "name": "Denmark",
+                "sort-name": "Denmark",
+                "iso-3166-1-codes": [
+                  "DK"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "id": "48ee74e3-9dc9-3508-9533-3d1c9a9bb762",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "87939314-adc5-3370-afa1-c2d0628a6719",
+                  "number": "17",
+                  "title": "There's a Ship",
+                  "length": 196800
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 16
+            }
+          ]
+        },
+        {
+          "id": "2f20d754-a5df-409f-ac64-3b7a3496e962",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "23bee9cb-1e79-36d0-9fb8-a1a72b05e66b",
+          "count": 1,
+          "title": "Draws a Circle",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Disneyland After Dark",
+              "artist": {
+                "id": "47f94b87-c184-4a9a-9f17-7c4e7e5abeff",
+                "name": "D\u2010A\u2010D",
+                "sort-name": "D-A-D",
+                "disambiguation": "Danish rock band Disneyland After Dark"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7aa5e77b-5e16-342d-8d96-149e2423b4b7",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Draws a Circle",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "DK",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "4757b525-2a60-324a-b060-578765d2c993",
+                "name": "Denmark",
+                "sort-name": "Denmark",
+                "iso-3166-1-codes": [
+                  "DK"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "9b1ddfff-7221-3373-9b54-07816caa5a73",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "5b334496-0313-4446-a365-01e6c11ad79c",
+                  "number": "6",
+                  "title": "There's A Ship",
+                  "length": 197000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "4210e1b0-1241-4de1-8ad4-b35d1bd04ebc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "4fad4ef9-73ab-32ef-bf0d-bd230fde82ce",
+          "count": 1,
+          "title": "D.A.D. Draws a Circle / Call of the Wild",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "D.A.D.",
+              "artist": {
+                "id": "47f94b87-c184-4a9a-9f17-7c4e7e5abeff",
+                "name": "D\u2010A\u2010D",
+                "sort-name": "D-A-D",
+                "disambiguation": "Danish rock band Disneyland After Dark"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "63790eea-d460-3c94-b139-f9a753443b62",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "D.A.D. Draws a Circle / Call of the Wild",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1987",
+          "country": "DK",
+          "release-events": [
+            {
+              "date": "1987",
+              "area": {
+                "id": "4757b525-2a60-324a-b060-578765d2c993",
+                "name": "Denmark",
+                "sort-name": "Denmark",
+                "iso-3166-1-codes": [
+                  "DK"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "2b23d36d-d34e-3a9a-8dd4-26215bf9016c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c9c5058f-e931-3122-a676-576462c28ca5",
+                  "number": "6",
+                  "title": "There's a Ship",
+                  "length": 197000
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "bd03805f-1b15-4636-8128-7f4b655a4ec3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "4fad4ef9-73ab-32ef-bf0d-bd230fde82ce",
+          "count": 1,
+          "title": "Draws a Circle",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "D.A.D.",
+              "artist": {
+                "id": "47f94b87-c184-4a9a-9f17-7c4e7e5abeff",
+                "name": "D\u2010A\u2010D",
+                "sort-name": "D-A-D",
+                "disambiguation": "Danish rock band Disneyland After Dark"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7aa5e77b-5e16-342d-8d96-149e2423b4b7",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Draws a Circle",
+            "primary-type": "Album"
+          },
+          "date": "1989",
+          "country": "DK",
+          "release-events": [
+            {
+              "date": "1989",
+              "area": {
+                "id": "4757b525-2a60-324a-b060-578765d2c993",
+                "name": "Denmark",
+                "sort-name": "Denmark",
+                "iso-3166-1-codes": [
+                  "DK"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "799fc035-ca82-377e-acce-11b7e331f3c2",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "689a8e58-848a-3d64-8996-850b85b261c9",
+                  "number": "6",
+                  "title": "There's a Ship",
+                  "length": 196626
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "c40642f0-b71a-46fd-8f58-047403f21000",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "4fad4ef9-73ab-32ef-bf0d-bd230fde82ce",
+          "count": 1,
+          "title": "Draws a Circle",
+          "status": "Official",
+          "disambiguation": "reissue",
+          "artist-credit": [
+            {
+              "name": "D.A.D.",
+              "artist": {
+                "id": "47f94b87-c184-4a9a-9f17-7c4e7e5abeff",
+                "name": "D\u2010A\u2010D",
+                "sort-name": "D-A-D",
+                "disambiguation": "Danish rock band Disneyland After Dark"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7aa5e77b-5e16-342d-8d96-149e2423b4b7",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Draws a Circle",
+            "primary-type": "Album"
+          },
+          "date": "2001-03-19",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2001-03-19",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "1e0c3084-fd34-3fe0-b5e7-2dfb167d22f0",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "820f4fbc-f649-3e7f-8eca-f78426728131",
+                  "number": "6",
+                  "title": "There's a Ship",
+                  "length": 197000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "DKABA0900506"
+      ]
+    },
+    {
+      "id": "e5490c62-e796-4791-8560-f73b47d985d5",
+      "score": 100,
+      "artist-credit-id": "5b85196d-74a3-3526-954e-6f93e5d65ad0",
+      "title": "Rio",
+      "length": 301000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "McCoy Tyner",
+          "artist": {
+            "id": "22fe7b6f-af38-458e-87bd-8971e7a2912e",
+            "name": "McCoy Tyner",
+            "sort-name": "Tyner, McCoy",
+            "disambiguation": "jazz pianist",
+            "aliases": [
+              {
+                "sort-name": "Tyner, Alfred McCoy",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Alfred McCoy Tyner",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Tyner, McCoy",
+                "name": "Tyner, McCoy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "McCoy Turner",
+                "name": "McCoy Turner",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Tyner McCoy",
+                "name": "Tyner McCoy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Tyner Mcoy",
+                "name": "Tyner Mcoy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Mc Coy Tyner",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Mc Coy Tyner",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1988-10-25",
+      "releases": [
+        {
+          "id": "dedbc59b-fa72-4c0d-befa-84678b2f383c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "5b85196d-74a3-3526-954e-6f93e5d65ad0",
+          "count": 1,
+          "title": "Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "McCoy Tyner",
+              "artist": {
+                "id": "22fe7b6f-af38-458e-87bd-8971e7a2912e",
+                "name": "McCoy Tyner",
+                "sort-name": "Tyner, McCoy",
+                "disambiguation": "jazz pianist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2b0936bb-5e8a-3a06-b4cd-3c912b6f01ae",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Revelations",
+            "primary-type": "Album"
+          },
+          "date": "1988-10-25",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1988-10-25",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "5f27ba45-048b-3d9c-9b34-8ffc06a295a5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7194dc66-212b-3e0b-a925-2b3f6c886b60",
+                  "number": "7",
+                  "title": "Rio",
+                  "length": 301000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fc0d9e98-4372-459f-b9c9-7e88ccbe4346",
+      "score": 100,
+      "artist-credit-id": "5b85196d-74a3-3526-954e-6f93e5d65ad0",
+      "title": "How Deep Is the Ocean",
+      "length": 243000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "McCoy Tyner",
+          "artist": {
+            "id": "22fe7b6f-af38-458e-87bd-8971e7a2912e",
+            "name": "McCoy Tyner",
+            "sort-name": "Tyner, McCoy",
+            "disambiguation": "jazz pianist",
+            "aliases": [
+              {
+                "sort-name": "Tyner, Alfred McCoy",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Alfred McCoy Tyner",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Tyner, McCoy",
+                "name": "Tyner, McCoy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "McCoy Turner",
+                "name": "McCoy Turner",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Tyner McCoy",
+                "name": "Tyner McCoy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Tyner Mcoy",
+                "name": "Tyner Mcoy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Mc Coy Tyner",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Mc Coy Tyner",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1988-10-25",
+      "releases": [
+        {
+          "id": "dedbc59b-fa72-4c0d-befa-84678b2f383c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "5b85196d-74a3-3526-954e-6f93e5d65ad0",
+          "count": 1,
+          "title": "Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "McCoy Tyner",
+              "artist": {
+                "id": "22fe7b6f-af38-458e-87bd-8971e7a2912e",
+                "name": "McCoy Tyner",
+                "sort-name": "Tyner, McCoy",
+                "disambiguation": "jazz pianist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2b0936bb-5e8a-3a06-b4cd-3c912b6f01ae",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Revelations",
+            "primary-type": "Album"
+          },
+          "date": "1988-10-25",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1988-10-25",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "5f27ba45-048b-3d9c-9b34-8ffc06a295a5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "db17aef3-45e5-3470-888a-52775d457836",
+                  "number": "8",
+                  "title": "How Deep Is the Ocean",
+                  "length": 243000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2984d442-2aa2-40fb-9a78-7bdd78302c5d",
+      "score": 100,
+      "artist-credit-id": "a18f6913-f3ec-3aa1-bfce-98a9a66400b0",
+      "title": "Den Elektriske Farm",
+      "length": 236693,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "S\u00f8ren Kragh-Jacobsen",
+          "artist": {
+            "id": "24ac8add-0b59-4575-8d09-9cf84687b562",
+            "name": "S\u00f8ren Kragh-Jacobsen",
+            "sort-name": "Kragh-Jacobsen, S\u00f8ren"
+          }
+        }
+      ],
+      "first-release-date": "1989",
+      "releases": [
+        {
+          "id": "91f8c97b-1b4d-4787-885d-f44b5c09acb3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Hinkeruder p\u00e5 Motorvejen & Tur-retur",
+          "status": "Official",
+          "release-group": {
+            "id": "9a6c2a53-2102-3b91-b54c-a7d345e0a065",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hinkeruder p\u00e5 Motorvejen & Tur-retur",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1989",
+          "country": "DK",
+          "release-events": [
+            {
+              "date": "1989",
+              "area": {
+                "id": "4757b525-2a60-324a-b060-578765d2c993",
+                "name": "Denmark",
+                "sort-name": "Denmark",
+                "iso-3166-1-codes": [
+                  "DK"
+                ]
+              }
+            }
+          ],
+          "track-count": 23,
+          "media": [
+            {
+              "id": "b50aedf8-02a1-364f-a2fd-ea305451a272",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e806898b-8db1-325a-9ace-b87db5615e4a",
+                  "number": "23",
+                  "title": "Den Elektriske Farm",
+                  "length": 236693
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2fe5b5f-4a4f-4ec7-8a24-5cdb042c94eb",
+      "score": 100,
+      "artist-credit-id": "9292af29-7e84-3cdf-b034-06e06d594d76",
+      "title": "Bringing in the Georgia Mail",
+      "length": 123533,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Jim and Jesse",
+          "artist": {
+            "id": "09410112-c24e-405d-a0d3-cbe5b737f3cb",
+            "name": "Jim and Jesse",
+            "sort-name": "Jim and Jesse",
+            "aliases": [
+              {
+                "sort-name": "Jim & Jesse McReynolds",
+                "name": "Jim & Jesse McReynolds",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Jim and Jesse MacReynolds",
+                "name": "Jim and Jesse MacReynolds",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Jim & Jessie",
+                "name": "Jim & Jessie",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Jim & Jesse",
+                "name": "Jim & Jesse",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1987",
+      "releases": [
+        {
+          "id": "5db406c0-690a-4859-8dfe-881d04faa3f4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "9292af29-7e84-3cdf-b034-06e06d594d76",
+          "count": 1,
+          "title": "In the Tradition",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Jim and Jesse",
+              "artist": {
+                "id": "09410112-c24e-405d-a0d3-cbe5b737f3cb",
+                "name": "Jim and Jesse",
+                "sort-name": "Jim and Jesse"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0aae1c2b-7dd6-307c-96a4-1182e9041bbc",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "In the Tradition",
+            "primary-type": "Album"
+          },
+          "date": "1987",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1987",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "f4633e22-331f-3946-b8d2-297b2e0c26a1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "23b30a3c-175b-3f33-a625-eea41f55cb4b",
+                  "number": "14",
+                  "title": "Bringing in the Georgia Mail",
+                  "length": 123533
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 13
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USRO28723414"
+      ]
+    },
+    {
+      "id": "c6799c32-3e10-47b4-9f45-0f7e3aaa71cc",
+      "score": 100,
+      "artist-credit-id": "b854916e-5646-3d08-8a1d-1ac055ecd821",
+      "title": "Ouroboron",
+      "length": 101000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Lee \u221e Ranaldo",
+          "artist": {
+            "id": "6eb1f3f8-5c5a-41c2-a390-f397a2b824a3",
+            "name": "Lee Ranaldo",
+            "sort-name": "Ranaldo, Lee",
+            "aliases": [
+              {
+                "sort-name": "Renaldo, Lee",
+                "name": "Lee Renaldo",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1988",
+      "releases": [
+        {
+          "id": "4c392033-a428-4edf-9520-6f34af3abe1e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b854916e-5646-3d08-8a1d-1ac055ecd821",
+          "count": 1,
+          "title": "From Here \u2192 Infinity",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lee \u221e Ranaldo",
+              "artist": {
+                "id": "6eb1f3f8-5c5a-41c2-a390-f397a2b824a3",
+                "name": "Lee Ranaldo",
+                "sort-name": "Ranaldo, Lee"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "42580eb4-821c-3c07-bea1-9e27fb4619aa",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "From Here \u2192 Infinity",
+            "primary-type": "Album"
+          },
+          "date": "1988",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1988",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "077cf7f1-89a8-39bc-b7ce-078e5f06be1c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8a834d82-d601-3ec6-89cf-205f22a9776b",
+                  "number": "3",
+                  "title": "Ouroboron",
+                  "length": 101000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "noise"
+        },
+        {
+          "count": 2,
+          "name": "experimental"
+        }
+      ]
+    },
+    {
+      "id": "caad8d96-0cb6-4363-bf63-17017ceeeff2",
+      "score": 100,
+      "artist-credit-id": "5ba1db70-4787-3588-8988-b1a05db0c091",
+      "title": "Jingle Bells",
+      "length": 134600,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Mantovani Orchestra",
+          "artist": {
+            "id": "ef46f19f-5d56-4757-8fe4-d5f79dd143c4",
+            "name": "The Mantovani Orchestra",
+            "sort-name": "Mantovani Orchestra, The",
+            "aliases": [
+              {
+                "sort-name": "Mantovani und sein Orchester",
+                "name": "Mantovani und sein Orchester",
+                "locale": "de",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Annunzio Mantovani and his orchestra",
+                "name": "Annunzio Mantovani and his orchestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Mantovani & His Tipica Orchestra",
+                "name": "Mantovani & His Tipica Orchestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Mantovani Orchestra and Chorus",
+                "name": "Mantovani Orchestra and Chorus",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Mantovani & His Orchestra",
+                "name": "Mantovani & His Orchestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Montovani",
+                "name": "Montovani",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "MANTOVANI and his Orchestra",
+                "name": "MANTOVANI and his Orchestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Manotvani Orchestra",
+                "name": "Manotvani Orchestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Mantovani y su Orqesta",
+                "name": "Mantovani y su Orqesta",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Mantovani Orchestra",
+                "name": "Mantovani Orchestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Mantovani",
+                "name": "Mantovani",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Montovani Orchestra",
+                "name": "The Montovani Orchestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1989",
+      "releases": [
+        {
+          "id": "5da985d3-1f8a-4a56-a19d-fe7d7da99bed",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "White Christmas",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "38a97e55-93f3-3666-bc03-e634810e7f74",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "White Christmas",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "c4c084c3-e1c5-36f2-b9e9-8d09556d49b7",
+              "position": 1,
+              "track": [
+                {
+                  "id": "309161b8-cc71-35b7-8ea1-38249a0af286",
+                  "number": "3",
+                  "title": "Jingle Bells",
+                  "length": 134600
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "319900ac-04b2-4177-b31c-c5d8a9c26d4a",
+      "score": 100,
+      "artist-credit-id": "a6d0e937-780d-3ce6-9809-176dc0669af6",
+      "title": "Barely Holdin' On",
+      "length": 282440,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Lee Aaron",
+          "artist": {
+            "id": "004913ca-cc81-44ca-b1b5-6f82149cf475",
+            "name": "Lee Aaron",
+            "sort-name": "Aaron, Lee",
+            "aliases": [
+              {
+                "sort-name": "Greening, Karen Lynn",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Karen Lynn Greening",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Aaron, Lee",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Lee Aaron",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greening, Karen Lynn",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Karen Lynn Greening",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Lee Aaron Project",
+                "name": "The Lee Aaron Project",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Lee Aron",
+                "name": "Lee Aron",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1985-06-27",
+      "releases": [
+        {
+          "id": "46d4bc8f-5c1a-4c08-9f38-424a3635ac8e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a6d0e937-780d-3ce6-9809-176dc0669af6",
+          "count": 1,
+          "title": "Call of the Wild",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lee Aaron",
+              "artist": {
+                "id": "004913ca-cc81-44ca-b1b5-6f82149cf475",
+                "name": "Lee Aaron",
+                "sort-name": "Aaron, Lee"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f85b1847-e440-3225-9bc2-b05f10c2aa6e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Call of the Wild",
+            "primary-type": "Album"
+          },
+          "date": "1988",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1988",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "959c9925-27bf-3178-876b-44aece3a0692",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "74789f88-8b47-4c45-89a5-df53dab57152",
+                  "number": "4",
+                  "title": "Barely Holdin' On",
+                  "length": 282440
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "8afbdc7c-e286-4377-9bac-d56d6429fe9a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a6d0e937-780d-3ce6-9809-176dc0669af6",
+          "count": 1,
+          "title": "Call of the Wild",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lee Aaron",
+              "artist": {
+                "id": "004913ca-cc81-44ca-b1b5-6f82149cf475",
+                "name": "Lee Aaron",
+                "sort-name": "Aaron, Lee"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f85b1847-e440-3225-9bc2-b05f10c2aa6e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Call of the Wild",
+            "primary-type": "Album"
+          },
+          "date": "1988",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "1988",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "bf738390-31a4-3597-96af-4c8fdc35105d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9f9ad2ad-baab-4a18-b834-f23627cc5aef",
+                  "number": "4",
+                  "title": "Barely Holdin' On",
+                  "length": 282440
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "cf6d4f20-09d9-4261-9b4d-0b4342cbe2a7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a6d0e937-780d-3ce6-9809-176dc0669af6",
+          "count": 1,
+          "title": "Call of the Wild",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lee Aaron",
+              "artist": {
+                "id": "004913ca-cc81-44ca-b1b5-6f82149cf475",
+                "name": "Lee Aaron",
+                "sort-name": "Aaron, Lee"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f85b1847-e440-3225-9bc2-b05f10c2aa6e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Call of the Wild",
+            "primary-type": "Album"
+          },
+          "date": "1988",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1988",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "610aed53-e7b4-3a9f-9f03-783b5a315918",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "95dc79d1-66e3-4e26-a0f0-157c2a2fb1de",
+                  "number": "4",
+                  "title": "Barely Holdin\u2019 On",
+                  "length": 276000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "848e5e06-3d11-41cd-8b6a-8c510f370f95",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a6d0e937-780d-3ce6-9809-176dc0669af6",
+          "count": 1,
+          "title": "The Best of Lee Aaron",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lee Aaron",
+              "artist": {
+                "id": "004913ca-cc81-44ca-b1b5-6f82149cf475",
+                "name": "Lee Aaron",
+                "sort-name": "Aaron, Lee"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "727b62a4-5151-3bcb-b837-4f3859e5c136",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Powerline: The Best of Lee Aaron",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1992",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "1992",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "be1037cf-8edf-3624-82b9-6efb49609de9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "58e2440e-3733-3de1-a93d-abf80ec93fe3",
+                  "number": "5",
+                  "title": "Barely Holdin' On",
+                  "length": 284200
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "dd8c38d0-822e-4ef9-a2a8-b5ec162856fb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a6d0e937-780d-3ce6-9809-176dc0669af6",
+          "count": 1,
+          "title": "Call of the Wild",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lee Aaron",
+              "artist": {
+                "id": "004913ca-cc81-44ca-b1b5-6f82149cf475",
+                "name": "Lee Aaron",
+                "sort-name": "Aaron, Lee"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f85b1847-e440-3225-9bc2-b05f10c2aa6e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Call of the Wild",
+            "primary-type": "Album"
+          },
+          "date": "1985-06-27",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1985-06-27",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "5468d991-7926-3e29-bb8a-50644ce7c353",
+              "position": 1,
+              "format": "Vinyl",
+              "track": [
+                {
+                  "id": "917be7e9-33d4-48ba-998c-1facedeb6519",
+                  "number": "A4",
+                  "title": "Barely Holdin' On",
+                  "length": 282440
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "ce973834-2f75-4c39-8d9d-0beab780fad2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a6d0e937-780d-3ce6-9809-176dc0669af6",
+          "count": 1,
+          "title": "Call of the Wild",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lee Aaron",
+              "artist": {
+                "id": "004913ca-cc81-44ca-b1b5-6f82149cf475",
+                "name": "Lee Aaron",
+                "sort-name": "Aaron, Lee"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f85b1847-e440-3225-9bc2-b05f10c2aa6e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Call of the Wild",
+            "primary-type": "Album"
+          },
+          "date": "1985",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1985",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "f6435c4a-7f9b-3385-8754-59b7351c6729",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "4ce92cd6-83d8-3b84-b223-44c81ead5539",
+                  "number": "A4",
+                  "title": "Barely Holdin' On",
+                  "length": 282440
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "1dcb9b23-5931-31a0-a728-bdf894d5587d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a6d0e937-780d-3ce6-9809-176dc0669af6",
+          "count": 1,
+          "title": "Call of the Wild",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lee Aaron",
+              "artist": {
+                "id": "004913ca-cc81-44ca-b1b5-6f82149cf475",
+                "name": "Lee Aaron",
+                "sort-name": "Aaron, Lee"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f85b1847-e440-3225-9bc2-b05f10c2aa6e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Call of the Wild",
+            "primary-type": "Album"
+          },
+          "date": "2003",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "593b3195-f494-3d93-9179-bf1ff36205f0",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "11720426-2510-3cd1-9b29-83e2577578ab",
+                  "number": "4",
+                  "title": "Barely Holdin' On",
+                  "length": 282440
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "51dec312-6f1f-3fd9-a290-ce498537f17c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a6d0e937-780d-3ce6-9809-176dc0669af6",
+          "count": 1,
+          "title": "Call of the Wild",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lee Aaron",
+              "artist": {
+                "id": "004913ca-cc81-44ca-b1b5-6f82149cf475",
+                "name": "Lee Aaron",
+                "sort-name": "Aaron, Lee"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f85b1847-e440-3225-9bc2-b05f10c2aa6e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Call of the Wild",
+            "primary-type": "Album"
+          },
+          "date": "1985",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1985",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "66b35718-4acc-3f07-b145-36c95adbc66f",
+              "position": 1,
+              "format": "Cassette",
+              "track": [
+                {
+                  "id": "64775718-7e7b-3717-92ae-a8be6c52ffbb",
+                  "number": "4",
+                  "title": "Barely Holdin' On",
+                  "length": 282440
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "8f18001b-47a2-4140-8969-311254231bdd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a6d0e937-780d-3ce6-9809-176dc0669af6",
+          "count": 1,
+          "title": "Powerline: The Best of Lee Aaron",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lee Aaron",
+              "artist": {
+                "id": "004913ca-cc81-44ca-b1b5-6f82149cf475",
+                "name": "Lee Aaron",
+                "sort-name": "Aaron, Lee"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "727b62a4-5151-3bcb-b837-4f3859e5c136",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Powerline: The Best of Lee Aaron",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1992",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1992",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "e24a3b90-b40b-37eb-85bf-bcf55bc42083",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7d54c916-d049-3b36-ad77-cf9de00a3eb0",
+                  "number": "5",
+                  "title": "Barely Holdin\u2019 On",
+                  "length": 284466
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "b826093c-f528-4e1f-9d61-19a2bb76ae7a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a6d0e937-780d-3ce6-9809-176dc0669af6",
+          "count": 1,
+          "title": "Powerline: The Best of Lee Aaron",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lee Aaron",
+              "artist": {
+                "id": "004913ca-cc81-44ca-b1b5-6f82149cf475",
+                "name": "Lee Aaron",
+                "sort-name": "Aaron, Lee"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "727b62a4-5151-3bcb-b837-4f3859e5c136",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Powerline: The Best of Lee Aaron",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1992",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1992",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "d76d46b6-3647-3310-812a-9bc3db4856cb",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d5140860-37df-49bb-8e7c-6b25cc19cdb5",
+                  "number": "5",
+                  "title": "Barely Holdin\u2019 On",
+                  "length": 284466
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "06c643a1-7a68-4da7-ae24-2f21a4d14c8f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a6d0e937-780d-3ce6-9809-176dc0669af6",
+          "count": 1,
+          "title": "The Best of Lee Aaron",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lee Aaron",
+              "artist": {
+                "id": "004913ca-cc81-44ca-b1b5-6f82149cf475",
+                "name": "Lee Aaron",
+                "sort-name": "Aaron, Lee"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "727b62a4-5151-3bcb-b837-4f3859e5c136",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Powerline: The Best of Lee Aaron",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2017-01-04",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2017-01-04",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "e1a33478-db5d-304a-99d4-4c1bf0ed0e1a",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8cde6c7e-bb54-42ce-a095-cde15d7c95a1",
+                  "number": "5",
+                  "title": "Barely Holdin\u2019 On",
+                  "length": 284466
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "fe40caaf-0d19-4468-a701-0b12f381464a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a6d0e937-780d-3ce6-9809-176dc0669af6",
+          "count": 1,
+          "title": "Call of the Wild",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lee Aaron",
+              "artist": {
+                "id": "004913ca-cc81-44ca-b1b5-6f82149cf475",
+                "name": "Lee Aaron",
+                "sort-name": "Aaron, Lee"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f85b1847-e440-3225-9bc2-b05f10c2aa6e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Call of the Wild",
+            "primary-type": "Album"
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "id": "1b2a4d01-8268-3f02-a09f-36ebbf25b34a",
+              "position": 1,
+              "track": [
+                {
+                  "id": "a9c3d147-5782-3ea4-8010-df29c6464bc8",
+                  "number": "4",
+                  "title": "Barely Holdin' On",
+                  "length": 271333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "CAU118503131"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        }
+      ]
+    },
+    {
+      "id": "cf7b7cf4-a14a-415f-9535-5e5f93f57f7e",
+      "score": 100,
+      "artist-credit-id": "b854916e-5646-3d08-8a1d-1ac055ecd821",
+      "title": "Lathe Speaks",
+      "length": 118706,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Lee \u221e Ranaldo",
+          "artist": {
+            "id": "6eb1f3f8-5c5a-41c2-a390-f397a2b824a3",
+            "name": "Lee Ranaldo",
+            "sort-name": "Ranaldo, Lee",
+            "aliases": [
+              {
+                "sort-name": "Renaldo, Lee",
+                "name": "Lee Renaldo",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1988",
+      "releases": [
+        {
+          "id": "4c392033-a428-4edf-9520-6f34af3abe1e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b854916e-5646-3d08-8a1d-1ac055ecd821",
+          "count": 1,
+          "title": "From Here \u2192 Infinity",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lee \u221e Ranaldo",
+              "artist": {
+                "id": "6eb1f3f8-5c5a-41c2-a390-f397a2b824a3",
+                "name": "Lee Ranaldo",
+                "sort-name": "Ranaldo, Lee"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "42580eb4-821c-3c07-bea1-9e27fb4619aa",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "From Here \u2192 Infinity",
+            "primary-type": "Album"
+          },
+          "date": "1988",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1988",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "077cf7f1-89a8-39bc-b7ce-078e5f06be1c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "93225500-1805-386b-b435-73e2cab16a47",
+                  "number": "10",
+                  "title": "Lathe Speaks",
+                  "length": 118706
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 9
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "noise"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        }
+      ]
+    },
+    {
+      "id": "5006993d-5f27-4b20-ad57-ed0c16c9ce31",
+      "score": 100,
+      "artist-credit-id": "75967e02-e2dd-390b-8c16-e1d78d856074",
+      "title": "Mission of Mercy",
+      "length": 183080,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Motels",
+          "artist": {
+            "id": "c433b570-1cb8-472a-bed7-4e24f94ea665",
+            "name": "The Motels",
+            "sort-name": "Motels, The",
+            "aliases": [
+              {
+                "sort-name": "Motels",
+                "name": "Motels",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1982",
+      "releases": [
+        {
+          "id": "2c04359e-d273-4cb6-8c00-538a7d1d9fc9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "75967e02-e2dd-390b-8c16-e1d78d856074",
+          "count": 1,
+          "title": "All Four One",
+          "status": "Official",
+          "disambiguation": "Limited Edition",
+          "artist-credit": [
+            {
+              "name": "The Motels",
+              "artist": {
+                "id": "c433b570-1cb8-472a-bed7-4e24f94ea665",
+                "name": "The Motels",
+                "sort-name": "Motels, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d976b9b5-451c-3396-9ce6-d2a6315bbfd3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "All Four One",
+            "primary-type": "Album"
+          },
+          "date": "2012-03-27",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2012-03-27",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "c03db42e-212e-3663-a618-55778e690fa6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c88832fc-f062-40c5-9a4f-b7c2d5ae72ed",
+                  "number": "1",
+                  "title": "Mission of Mercy",
+                  "length": 183240
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "6037b33e-f77f-4387-840e-8aad999c6eeb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "75967e02-e2dd-390b-8c16-e1d78d856074",
+          "count": 1,
+          "title": "All Four One",
+          "status": "Official",
+          "disambiguation": "remastered",
+          "artist-credit": [
+            {
+              "name": "The Motels",
+              "artist": {
+                "id": "c433b570-1cb8-472a-bed7-4e24f94ea665",
+                "name": "The Motels",
+                "sort-name": "Motels, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d976b9b5-451c-3396-9ce6-d2a6315bbfd3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "All Four One",
+            "primary-type": "Album"
+          },
+          "date": "1989",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1989",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "3c3ed2b9-7a2e-35c1-904e-a98f718b7a24",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "84200f12-1eb9-4cd1-bae7-391d3ab5ed85",
+                  "number": "1",
+                  "title": "Mission of Mercy",
+                  "length": 183240
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "408a4d96-f0d8-482e-ab93-502988e7cbb7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "75967e02-e2dd-390b-8c16-e1d78d856074",
+          "count": 2,
+          "title": "All Four One / Little Robbers",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Motels",
+              "artist": {
+                "id": "c433b570-1cb8-472a-bed7-4e24f94ea665",
+                "name": "The Motels",
+                "sort-name": "Motels, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "048923fa-3d28-41fa-82d2-aafef39fac1a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "All Four One / Little Robbers",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2009",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 25,
+          "media": [
+            {
+              "id": "77552890-5b9e-31b5-b9d2-1d1a0bead5ef",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d34e578a-d8be-3d84-a123-8ee1faad0b96",
+                  "number": "1",
+                  "title": "Mission of Mercy",
+                  "length": 183080
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "54b1c2e3-aad4-4d4d-ab7e-3d155ac27263",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "75967e02-e2dd-390b-8c16-e1d78d856074",
+          "count": 1,
+          "title": "All Four One",
+          "status": "Official",
+          "disambiguation": "expanded edition",
+          "artist-credit": [
+            {
+              "name": "The Motels",
+              "artist": {
+                "id": "c433b570-1cb8-472a-bed7-4e24f94ea665",
+                "name": "The Motels",
+                "sort-name": "Motels, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d976b9b5-451c-3396-9ce6-d2a6315bbfd3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "All Four One",
+            "primary-type": "Album"
+          },
+          "date": "1999-06-29",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1999-06-29",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "1e5c74ca-2fd2-3f04-b087-d1750c1c35c9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a75c9213-95f8-334f-b5c9-be8638949409",
+                  "number": "1",
+                  "title": "Mission of Mercy",
+                  "length": 182226
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "f0daca85-e917-46b1-acdd-1250dcbade77",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "75967e02-e2dd-390b-8c16-e1d78d856074",
+          "count": 1,
+          "title": "All Four One",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Motels",
+              "artist": {
+                "id": "c433b570-1cb8-472a-bed7-4e24f94ea665",
+                "name": "The Motels",
+                "sort-name": "Motels, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d976b9b5-451c-3396-9ce6-d2a6315bbfd3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "All Four One",
+            "primary-type": "Album"
+          },
+          "date": "1982",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1982",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "8c2e9554-395d-35f3-988d-810fd70aeac3",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "5f4f7e52-cf2a-341d-a022-cdfcfb9d3970",
+                  "number": "A1",
+                  "title": "Mission of Mercy",
+                  "length": 183240
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "1500d13d-6ae9-4a6b-b45e-0e5f53f32511",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "75967e02-e2dd-390b-8c16-e1d78d856074",
+          "count": 1,
+          "title": "All Four One",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Motels",
+              "artist": {
+                "id": "c433b570-1cb8-472a-bed7-4e24f94ea665",
+                "name": "The Motels",
+                "sort-name": "Motels, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d976b9b5-451c-3396-9ce6-d2a6315bbfd3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "All Four One",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "a4e134d7-b126-38d9-ae65-8c9e8365a3e7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3358f8e1-6b72-3da3-8046-fc8f79d0be44",
+                  "number": "1",
+                  "title": "Mission of Mercy",
+                  "length": 182800
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1fe97c3b-5064-4399-b3ed-f36874e2c07f",
+      "score": 100,
+      "artist-credit-id": "52be449f-a6c3-357d-8b3d-968da1e67f3e",
+      "title": "Foxtrott",
+      "length": 245400,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Hugo Strasser",
+          "artist": {
+            "id": "757bdef7-83be-4ad5-91a1-1ed8bb4fad82",
+            "name": "Hugo Strasser",
+            "sort-name": "Strasser, Hugo"
+          }
+        }
+      ],
+      "first-release-date": "1982",
+      "releases": [
+        {
+          "id": "87e6a17d-d16d-4789-a7db-7f27d539eca5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Collection No.1",
+          "status": "Official",
+          "release-group": {
+            "id": "d49ec711-f101-3546-a9cd-e19eca511832",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Collection No.1",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1982",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "1982",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "409197c0-5880-38f2-b189-0c81988647b7",
+              "position": 1,
+              "track": [
+                {
+                  "id": "ce63f1eb-c282-3e86-ab21-9ae7ae89965d",
+                  "number": "1",
+                  "title": "Foxtrott",
+                  "length": 245400
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5cdfd346-c422-4df5-bcb2-8d45621c78a3",
+      "score": 100,
+      "artist-credit-id": "f29549b1-c986-3f72-8ae6-c033c6ed0b4e",
+      "title": "Winter Wonderland",
+      "length": 198560,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Aldrich",
+          "artist": {
+            "id": "d3063ff7-7d87-450c-b21d-b69476523ef7",
+            "name": "Aldrich",
+            "sort-name": "Aldrich"
+          }
+        }
+      ],
+      "first-release-date": "1989",
+      "releases": [
+        {
+          "id": "5da985d3-1f8a-4a56-a19d-fe7d7da99bed",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "White Christmas",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "38a97e55-93f3-3666-bc03-e634810e7f74",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "White Christmas",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "c4c084c3-e1c5-36f2-b9e9-8d09556d49b7",
+              "position": 1,
+              "track": [
+                {
+                  "id": "334b8e02-773c-3850-b7ab-68707183be51",
+                  "number": "9",
+                  "title": "Winter Wonderland",
+                  "length": 198560
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5e6665e3-2e1f-4ed5-9f5c-9a8513009358",
+      "score": 100,
+      "artist-credit-id": "4067aab1-572f-3f27-afd6-6bbe2476aa52",
+      "title": "If You Could See Me Now",
+      "length": 341600,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " feat. ",
+          "name": "Chet Baker Quintet",
+          "artist": {
+            "id": "621e7a7c-726c-4eef-9eab-436dc7e37a7b",
+            "name": "Chet Baker Quintet",
+            "sort-name": "Baker, Chet, Quintet"
+          }
+        },
+        {
+          "name": "Warne Marsh",
+          "artist": {
+            "id": "2c409f65-1bf2-4746-9f52-6954891fe30f",
+            "name": "Warne Marsh",
+            "sort-name": "Marsh, Warne"
+          }
+        }
+      ],
+      "first-release-date": "1985",
+      "releases": [
+        {
+          "id": "c1673a78-3d67-4af7-8803-e57bf8b98dbf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Blues for a Reason",
+          "status": "Official",
+          "release-group": {
+            "id": "ba91cc03-1de2-393a-a12f-466bef987a82",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Blues for a Reason",
+            "primary-type": "Album"
+          },
+          "date": "1985",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "1985",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "6c3b869f-d53e-387a-8efe-60016ccfd4a4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "20e85726-2068-32d4-b678-d746c917201e",
+                  "number": "2",
+                  "title": "If You Could See Me Now",
+                  "length": 341600
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "424bb0b5-478b-45a6-b393-3661a4feccf0",
+      "score": 100,
+      "artist-credit-id": "d8b102c4-d363-3fe2-96fc-eb29766b0b92",
+      "title": "Clowns Are Experts (At Making Us Laugh)",
+      "length": 243026,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Vandals",
+          "artist": {
+            "id": "f54fc7c3-3a40-4f26-83cf-328d9b097e93",
+            "name": "The Vandals",
+            "sort-name": "Vandals, The",
+            "disambiguation": "US punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Vandals",
+                "name": "Vandals",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1988-10-15",
+      "releases": [
+        {
+          "id": "903b011d-2b0e-4e0d-ae50-a0649f03a1bf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d8b102c4-d363-3fe2-96fc-eb29766b0b92",
+          "count": 1,
+          "title": "Slippery When Ill",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Vandals",
+              "artist": {
+                "id": "f54fc7c3-3a40-4f26-83cf-328d9b097e93",
+                "name": "The Vandals",
+                "sort-name": "Vandals, The",
+                "disambiguation": "US punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0843833d-9e40-3f60-bc96-d34c329ff345",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Slippery When Ill",
+            "primary-type": "Album"
+          },
+          "date": "1988",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1988",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "16673568-e63f-3c33-b53e-17801a62ef42",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "f303dc51-1232-4de6-b772-ca52a0234937",
+                  "number": "A1",
+                  "title": "Clowns Are Experts (At Making Us Laugh)",
+                  "length": 242000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "6f027317-b14a-457d-aef7-64847cb1cd3c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d8b102c4-d363-3fe2-96fc-eb29766b0b92",
+          "count": 1,
+          "title": "Play Really Bad Original Country Tunes",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Vandals",
+              "artist": {
+                "id": "f54fc7c3-3a40-4f26-83cf-328d9b097e93",
+                "name": "The Vandals",
+                "sort-name": "Vandals, The",
+                "disambiguation": "US punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "73fed9ff-08c1-31dc-b1de-49c4ffd4d160",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Play Really Bad Original Country Tunes",
+            "primary-type": "Album"
+          },
+          "date": "1999",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1999",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "db436b67-7ee5-336f-acaf-5f234561a07b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1097b86e-169c-348d-8370-43064620e950",
+                  "number": "1",
+                  "title": "Clowns Are Experts (At Making Us Laugh)",
+                  "length": 243026
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "a68d57d9-d55d-4473-a2e5-01c3f4894da9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d8b102c4-d363-3fe2-96fc-eb29766b0b92",
+          "count": 1,
+          "title": "Slippery When Ill",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Vandals",
+              "artist": {
+                "id": "f54fc7c3-3a40-4f26-83cf-328d9b097e93",
+                "name": "The Vandals",
+                "sort-name": "Vandals, The",
+                "disambiguation": "US punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0843833d-9e40-3f60-bc96-d34c329ff345",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Slippery When Ill",
+            "primary-type": "Album"
+          },
+          "date": "1988-10-15",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1988-10-15",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "32bf8351-2a3c-3885-b328-4b857d9e62b9",
+              "position": 1,
+              "track": [
+                {
+                  "id": "d2e3c841-3b4b-302e-881d-4300fdf7526d",
+                  "number": "1",
+                  "title": "Clowns Are Experts (at Making Us Laugh)",
+                  "length": 245173
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 2,
+          "name": "punk"
+        },
+        {
+          "count": 1,
+          "name": "punk rock"
+        },
+        {
+          "count": 1,
+          "name": "country rock"
+        },
+        {
+          "count": 1,
+          "name": "hardcore punk"
+        },
+        {
+          "count": 1,
+          "name": "punk revival"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative/indie rock"
+        },
+        {
+          "count": 1,
+          "name": "punk/new wave"
+        }
+      ]
+    }
+  ]
+}

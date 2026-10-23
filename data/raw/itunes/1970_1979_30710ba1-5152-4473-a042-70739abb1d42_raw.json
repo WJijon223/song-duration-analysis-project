@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 275199368,
+      "collectionId": 929079365,
+      "trackId": 929079391,
+      "artistName": "Sir Edward",
+      "collectionName": "The Power of Feeling (Remastered)",
+      "trackName": "Rocky Mount Willie",
+      "collectionCensoredName": "The Power of Feeling (Remastered)",
+      "trackCensoredName": "Rocky Mount Willie",
+      "artistViewUrl": "https://music.apple.com/us/artist/sir-edward/275199368?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/rocky-mount-willie/929079365?i=929079391&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/rocky-mount-willie/929079365?i=929079391&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music5/v4/27/05/68/2705682f-8bc1-4956-5a99-3dd09d9fe33d/mzaf_5326641912776684712.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/c3/2b/d7/c32bd763-a054-f936-20ed-42360822dba2/894232289629.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/c3/2b/d7/c32bd763-a054-f936-20ed-42360822dba2/894232289629.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/c3/2b/d7/c32bd763-a054-f936-20ed-42360822dba2/894232289629.jpg/100x100bb.jpg",
+      "collectionPrice": 6.93,
+      "trackPrice": 0.99,
+      "releaseDate": "2014-10-21T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 7,
+      "trackNumber": 5,
+      "trackTimeMillis": 264381,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Jazz",
+      "isStreamable": true
+    }
+  ]
+}

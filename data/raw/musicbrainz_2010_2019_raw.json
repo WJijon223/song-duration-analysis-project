@@ -1,0 +1,2033 @@
+{
+  "created": "2026-10-23T18:19:38.847Z",
+  "count": 12035328,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "1066b50e-dd58-4edd-b40f-76846dd9d70b",
+      "score": 100,
+      "title": "For Your Love 2011",
+      "length": 376000,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " feat. ",
+          "name": "Chocolate Puma",
+          "artist": {
+            "id": "60752459-01cb-48ed-9ac4-09d8e2b6aa37",
+            "name": "Chocolate Puma",
+            "sort-name": "Chocolate Puma"
+          }
+        },
+        {
+          "name": "Colonel Red",
+          "artist": {
+            "id": "68f031c8-3fe8-48cc-930c-a99a77f876d8",
+            "name": "Colonel Red",
+            "sort-name": "Colonel Red"
+          }
+        }
+      ],
+      "first-release-date": "2011-07-08",
+      "releases": [
+        {
+          "id": "43567d2f-8d49-4a90-9962-79657d0d6c36",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 3,
+          "title": "Bargrooves: Summer Sessions Deluxe",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d6ef8ca8-f30e-4916-9a19-bc359098951b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bargrooves: Summer Sessions Deluxe",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2011-07-18",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2011-07-18",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 30,
+          "media": [
+            {
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "46c355d2-b224-420d-ad00-a4deaa69ebc7",
+                  "number": "5",
+                  "title": "For Your Love 2011",
+                  "length": 376000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "68c9917a-a3ff-4298-8237-b4bfa0591b82",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Bargrooves: Summer Sessions Deluxe",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d6ef8ca8-f30e-4916-9a19-bc359098951b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bargrooves: Summer Sessions Deluxe",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012-12-12",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2012-12-12",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 32,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e706aa0e-acae-428e-bb15-2fc860d807eb",
+                  "number": "15",
+                  "title": "For Your Love 2011",
+                  "length": 376000
+                }
+              ],
+              "track-count": 32,
+              "track-offset": 14
+            }
+          ]
+        },
+        {
+          "id": "b5fe54d3-3e00-4f25-a026-31d8f6f3f21f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "House Masters: Chocolate Puma",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "902575bb-8636-4d56-83cc-e11b649e2a7a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "House Masters: Chocolate Puma",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2011-07-11",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2011-07-11",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 33,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "2a7365dc-2e81-4b9f-be62-aab9ba955d06",
+                  "number": "1",
+                  "title": "For Your Love 2011",
+                  "length": 376340
+                }
+              ],
+              "track-count": 33,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "2adc42d0-477b-4fbd-af01-5b43067d548e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Defected Presents House Masters: Chocolate Puma",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "902575bb-8636-4d56-83cc-e11b649e2a7a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "House Masters: Chocolate Puma",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2011-07-08",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2011-07-08",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 34,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "0210a288-c8fb-463d-9bf5-82ebde6070ef",
+                  "number": "1",
+                  "title": "For Your Love 2011",
+                  "length": 376000
+                }
+              ],
+              "track-count": 34,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "8f7d9179-44af-43d6-a1c3-7c644efe14ee",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 3,
+          "title": "House Masters: Chocolate Puma",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Chocolate Puma",
+              "artist": {
+                "id": "60752459-01cb-48ed-9ac4-09d8e2b6aa37",
+                "name": "Chocolate Puma",
+                "sort-name": "Chocolate Puma"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "902575bb-8636-4d56-83cc-e11b649e2a7a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "House Masters: Chocolate Puma",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2011-07-11",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2011-07-11",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 30,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ca0a9e65-7289-313b-92c4-f8522fa89238",
+                  "number": "1",
+                  "title": "For Your Love 2011",
+                  "length": 379000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBCPZ1105149"
+      ]
+    },
+    {
+      "id": "f3dd2956-c55e-4d0e-af70-a1f92ccb4c2b",
+      "score": 100,
+      "title": "24 Hours",
+      "length": 231056,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Mayu Wakisaka",
+          "artist": {
+            "id": "055580f7-b0d4-4548-acd8-8a6040d94334",
+            "name": "\u8107\u962a\u771f\u7531",
+            "sort-name": "Wakisaka, Mayu",
+            "aliases": [
+              {
+                "sort-name": "Wakisaka, Mayu",
+                "name": "Mayu Wakisaka",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-03-10",
+      "releases": [
+        {
+          "id": "fc3c0498-a63e-4baa-94a2-a026bbc49f87",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Stars Won't Fall",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Mayu Wakisaka",
+              "artist": {
+                "id": "055580f7-b0d4-4548-acd8-8a6040d94334",
+                "name": "\u8107\u962a\u771f\u7531",
+                "sort-name": "Wakisaka, Mayu"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "dff521e4-fe30-42db-88a8-221aef08147d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Stars Won't Fall",
+            "primary-type": "Album"
+          },
+          "track-count": 6,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a18409c8-c89d-369a-bf69-ab0c0fc6c288",
+                  "number": "1",
+                  "title": "24 Hours",
+                  "length": 232000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "1329d49b-3f24-4cc6-abb3-5a1b27ce91b0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "\uccad\ucd98\uc2dc\ub300 POP OST",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "aca537fe-dcaf-4a61-a481-59663699c8fe",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "\uccad\ucd98\uc2dc\ub300 POP OST",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation",
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2016-08-19",
+          "country": "MX",
+          "release-events": [
+            {
+              "date": "2016-08-19",
+              "area": {
+                "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+                "name": "Mexico",
+                "sort-name": "Mexico",
+                "iso-3166-1-codes": [
+                  "MX"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "3e442e27-7306-461e-9e32-12bf4a19e411",
+                  "number": "5",
+                  "title": "24 Hours",
+                  "length": 231056
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cf75f340-b42a-483b-b5ed-edf7787c6d64",
+      "score": 100,
+      "title": "On the Other Side",
+      "length": 284000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Mayu Wakisaka",
+          "artist": {
+            "id": "055580f7-b0d4-4548-acd8-8a6040d94334",
+            "name": "\u8107\u962a\u771f\u7531",
+            "sort-name": "Wakisaka, Mayu",
+            "aliases": [
+              {
+                "sort-name": "Wakisaka, Mayu",
+                "name": "Mayu Wakisaka",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-03-10",
+      "releases": [
+        {
+          "id": "fc3c0498-a63e-4baa-94a2-a026bbc49f87",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Stars Won't Fall",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Mayu Wakisaka",
+              "artist": {
+                "id": "055580f7-b0d4-4548-acd8-8a6040d94334",
+                "name": "\u8107\u962a\u771f\u7531",
+                "sort-name": "Wakisaka, Mayu"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "dff521e4-fe30-42db-88a8-221aef08147d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Stars Won't Fall",
+            "primary-type": "Album"
+          },
+          "track-count": 6,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e8639fe8-6172-33ca-a6b7-12e9708cfe9f",
+                  "number": "6",
+                  "title": "On the Other Side",
+                  "length": 284000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30785924-eb8c-4d10-be7b-40f5363dc99f",
+      "score": 100,
+      "title": "Vanguard",
+      "length": 175000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Suver\u00e4na",
+          "artist": {
+            "id": "e9114b25-925b-4828-a7b3-f8d9d2426b02",
+            "name": "Suver\u00e4na",
+            "sort-name": "Suver\u00e4na"
+          }
+        }
+      ],
+      "first-release-date": "2012-02-02",
+      "releases": [
+        {
+          "id": "06f42309-9b78-4e30-a9cf-c9a8d694d016",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Vanguard",
+          "status": "Official",
+          "release-group": {
+            "id": "fc8d5faf-9c53-463f-a786-0cc82291a5c8",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Vanguard",
+            "primary-type": "Album"
+          },
+          "date": "2012-02-02",
+          "country": "PL",
+          "release-events": [
+            {
+              "date": "2012-02-02",
+              "area": {
+                "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+                "name": "Poland",
+                "sort-name": "Poland",
+                "iso-3166-1-codes": [
+                  "PL"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "33adb455-8c14-35cd-a792-69746e56f01b",
+                  "number": "9",
+                  "title": "Vanguard",
+                  "length": 175000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 8
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "neoclassicism"
+        }
+      ]
+    },
+    {
+      "id": "c286cf2c-7700-4054-9f69-78bcd346d913",
+      "score": 100,
+      "title": "Translating the Invisible",
+      "length": 196000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "soda.",
+          "artist": {
+            "id": "7c9b22f5-7a6e-4469-a688-0a885566d464",
+            "name": "soda.",
+            "sort-name": "soda.",
+            "disambiguation": "Swiss electronic duo"
+          }
+        }
+      ],
+      "first-release-date": "2012-06-06",
+      "releases": [
+        {
+          "id": "05668601-3b35-4eee-a5d7-59dfaa50c7ca",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Road to Eternity",
+          "status": "Official",
+          "release-group": {
+            "id": "2aef1225-9786-4e8c-abf7-749e7ed2ca8e",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Road to Eternity",
+            "primary-type": "EP"
+          },
+          "date": "2012-06-06",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2012-06-06",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ae33de4f-1ea3-3b3d-94e4-1fbbc14c8326",
+                  "number": "1",
+                  "title": "Translating the Invisible",
+                  "length": 196000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3d4ffc22-92c4-4aee-a5c4-e72a1d847043",
+      "score": 100,
+      "title": "Grace",
+      "length": 213000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Michael Hopp\u00e9",
+          "artist": {
+            "id": "be07f590-62b1-4bfa-9802-44bb53de0b97",
+            "name": "Michael Hopp\u00e9",
+            "sort-name": "Hopp\u00e9, Michael",
+            "disambiguation": "composer, record producer & recording artist",
+            "aliases": [
+              {
+                "sort-name": "Hopp\u00e9, Michael David",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Michael David Hopp\u00e9",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Michael Hoppe",
+                "name": "Michael Hoppe",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010",
+      "releases": [
+        {
+          "id": "e0a2929a-5afc-4ce2-9fe8-06c0404a5de1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Tapestry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Michael Hopp\u00e9",
+              "artist": {
+                "id": "be07f590-62b1-4bfa-9802-44bb53de0b97",
+                "name": "Michael Hopp\u00e9",
+                "sort-name": "Hopp\u00e9, Michael",
+                "disambiguation": "composer, record producer & recording artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bb362adb-00b1-4ae4-8f25-f697a8367939",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Tapestry",
+            "primary-type": "Album"
+          },
+          "date": "2010",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6969a59e-6aed-396d-910e-41d4ca7a1f1c",
+                  "number": "12",
+                  "title": "Grace",
+                  "length": 213000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "49a8ffcb-6112-4e5f-9cef-9c6e58d9d032",
+      "score": 100,
+      "title": "Star Spangled Banner",
+      "length": 151000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Carl Marshall",
+          "artist": {
+            "id": "045442df-ab42-4538-ba27-01178014d4ea",
+            "name": "Carl Marshall",
+            "sort-name": "Marshall, Carl",
+            "disambiguation": "US southern soul and blues artist"
+          }
+        }
+      ],
+      "first-release-date": "2012-03-20",
+      "releases": [
+        {
+          "id": "82d5e582-3a1c-4bec-825c-852f7c26facd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Going Back to the Blues",
+          "status": "Official",
+          "release-group": {
+            "id": "5899ba57-6bfa-44fc-9441-dda936216d7f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Going Back to the Blues",
+            "primary-type": "Album"
+          },
+          "date": "2012-03-20",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2012-03-20",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "81968ec3-cb38-3b94-9c7b-6c5acae35485",
+                  "number": "13",
+                  "title": "Star Spangled Banner",
+                  "length": 151000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dd4e913b-1b31-4e62-8ca0-761231ecdf22",
+      "score": 100,
+      "title": "Arthur Cravan vs. Jack Johnson",
+      "length": 258000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Benjamin Schoos",
+          "artist": {
+            "id": "d8322077-89ec-45cb-bf54-44ee670f6553",
+            "name": "Benjamin Schoos",
+            "sort-name": "Schoos, Benjamin",
+            "aliases": [
+              {
+                "sort-name": "Schoos, Benjamin Jean-Marie",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Benjamin Jean-Marie Schoos",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-04-09",
+      "releases": [
+        {
+          "id": "5224c43f-e2b4-44c0-af05-e509d71ead50",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "China Man Vs China Girl",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Benjamin Schoos",
+              "artist": {
+                "id": "d8322077-89ec-45cb-bf54-44ee670f6553",
+                "name": "Benjamin Schoos",
+                "sort-name": "Schoos, Benjamin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "742f0964-1ab1-4086-8549-52ee9e773af4",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "China Man vs. China Girl",
+            "primary-type": "Album"
+          },
+          "date": "2012-04-09",
+          "country": "BE",
+          "release-events": [
+            {
+              "date": "2012-04-09",
+              "area": {
+                "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                "name": "Belgium",
+                "sort-name": "Belgium",
+                "iso-3166-1-codes": [
+                  "BE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7d17ab75-c9e3-42d7-a240-58d44219e696",
+                  "number": "10",
+                  "title": "Arthur Cravan vs. Jack Johnson",
+                  "length": 258000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "ebb44747-0838-479b-b887-e0005f1e9f96",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "China Man vs. China Girl",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Benjamin Schoos",
+              "artist": {
+                "id": "d8322077-89ec-45cb-bf54-44ee670f6553",
+                "name": "Benjamin Schoos",
+                "sort-name": "Schoos, Benjamin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "742f0964-1ab1-4086-8549-52ee9e773af4",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "China Man vs. China Girl",
+            "primary-type": "Album"
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "db44c4c3-cf23-3add-bdba-fd539645ce29",
+                  "number": "10",
+                  "title": "Arthur Cravan vs. Jack Johnson",
+                  "length": 258000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81eac288-1189-4869-a856-d0415238bbb9",
+      "score": 100,
+      "title": "De hukkelbuk",
+      "length": 147000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "De Havenzangers",
+          "artist": {
+            "id": "2da4541a-35b8-440e-a767-8f71c54496bd",
+            "name": "De Havenzangers",
+            "sort-name": "Havenzangers, De",
+            "aliases": [
+              {
+                "sort-name": "Havenzangers",
+                "name": "Havenzangers",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011",
+      "releases": [
+        {
+          "id": "7015767b-07b3-4cc8-b80a-c0bdd3baf9a2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 4,
+          "title": "Kermis Top 100",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "923c229e-80a9-4624-96c2-cd4d2e7ebf5e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Kermis Top 100",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2011",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "2011",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "track-count": 100,
+          "media": [
+            {
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "000fa6e4-2d5a-368b-8471-8b79c25faf02",
+                  "number": "7",
+                  "title": "De hukkelbuk",
+                  "length": 147000
+                }
+              ],
+              "track-count": 25,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5e53dd18-75a4-4ca5-a3dd-0bb10f6aa395",
+      "score": 100,
+      "title": "Jean de France",
+      "length": 233920,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Didier Barbelivien",
+          "artist": {
+            "id": "a69a0536-5df7-4815-905c-5457e889e9b2",
+            "name": "Didier Barbelivien",
+            "sort-name": "Barbelivien, Didier",
+            "aliases": [
+              {
+                "sort-name": "Barbelivien, Didier Ren\u00e9 Henri",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Didier Ren\u00e9 Henri Barbelivien",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-02-27",
+      "releases": [
+        {
+          "id": "fe4ee342-f4fe-4ea5-ba7d-15d6da25b02b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Mes pr\u00e9f\u00e9rences",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Didier Barbelivien",
+              "artist": {
+                "id": "a69a0536-5df7-4815-905c-5457e889e9b2",
+                "name": "Didier Barbelivien",
+                "sort-name": "Barbelivien, Didier"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "523736b5-1afb-4538-88e7-d59bafe5e53e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mes pr\u00e9f\u00e9rences",
+            "primary-type": "Album"
+          },
+          "date": "2012-02-27",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2012-02-27",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ee6916f7-9532-379f-a285-86c3bae4dd43",
+                  "number": "1",
+                  "title": "Jean de France",
+                  "length": 233920
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FR9W11106238"
+      ]
+    },
+    {
+      "id": "e1df0144-1836-4d16-8e5c-472591bf3bba",
+      "score": 100,
+      "title": "Loch Lomond",
+      "length": 249000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Brigid Mhairi",
+          "artist": {
+            "id": "f2db0572-f8c0-4954-87c0-c0ae4e0892c1",
+            "name": "Brigid Mhairi",
+            "sort-name": "Mhairi, Brigid",
+            "disambiguation": "Singer"
+          }
+        }
+      ],
+      "first-release-date": "2012-07-04",
+      "releases": [
+        {
+          "id": "3886ebda-db2e-48a1-95c5-5503273c46fd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "The Gathering",
+          "status": "Official",
+          "release-group": {
+            "id": "d10f68dd-ca1a-4e70-b6ad-febad5711730",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Gathering",
+            "primary-type": "Album"
+          },
+          "date": "2012-07-04",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2012-07-04",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ac6b765f-211a-36c0-9306-dc17c3c9f2ca",
+                  "number": "8",
+                  "title": "Loch Lomond",
+                  "length": 249000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3567ffda-7344-422a-a95b-513a80e70ca0",
+      "score": 100,
+      "title": "Apocryphal Supremacy",
+      "length": 440867,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Christine Plays Viola",
+          "artist": {
+            "id": "a34d6db2-2723-4af2-9ecc-66ae0884892b",
+            "name": "Christine Plays Viola",
+            "sort-name": "Christine Plays Viola"
+          }
+        }
+      ],
+      "first-release-date": "2012-06-29",
+      "releases": [
+        {
+          "id": "09d582eb-a4d6-4b83-8a18-412f064579ef",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Promo 2012",
+          "status": "Official",
+          "release-group": {
+            "id": "676f6db3-9786-4ea7-a150-270e3a33ebc9",
+            "type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "primary-type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "title": "Promo 2012",
+            "primary-type": "Other"
+          },
+          "date": "2012-06-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2012-06-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "7bd750bb-34d6-3a28-bf35-0731df828034",
+                  "number": "4",
+                  "title": "Apocryphal Supremacy",
+                  "length": 440867
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6412f56-a3ff-4453-9d13-aa795e221cd1",
+      "score": 100,
+      "title": "Chinaman vs. Chinagirl",
+      "length": 184000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Benjamin Schoos",
+          "artist": {
+            "id": "d8322077-89ec-45cb-bf54-44ee670f6553",
+            "name": "Benjamin Schoos",
+            "sort-name": "Schoos, Benjamin",
+            "aliases": [
+              {
+                "sort-name": "Schoos, Benjamin Jean-Marie",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Benjamin Jean-Marie Schoos",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-04-09",
+      "releases": [
+        {
+          "id": "5224c43f-e2b4-44c0-af05-e509d71ead50",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "China Man Vs China Girl",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Benjamin Schoos",
+              "artist": {
+                "id": "d8322077-89ec-45cb-bf54-44ee670f6553",
+                "name": "Benjamin Schoos",
+                "sort-name": "Schoos, Benjamin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "742f0964-1ab1-4086-8549-52ee9e773af4",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "China Man vs. China Girl",
+            "primary-type": "Album"
+          },
+          "date": "2012-04-09",
+          "country": "BE",
+          "release-events": [
+            {
+              "date": "2012-04-09",
+              "area": {
+                "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                "name": "Belgium",
+                "sort-name": "Belgium",
+                "iso-3166-1-codes": [
+                  "BE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c71658ec-f683-4ce8-8a63-42920f0a41c7",
+                  "number": "7",
+                  "title": "Chinaman vs. Chinagirl",
+                  "length": 184000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "ebb44747-0838-479b-b887-e0005f1e9f96",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "China Man vs. China Girl",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Benjamin Schoos",
+              "artist": {
+                "id": "d8322077-89ec-45cb-bf54-44ee670f6553",
+                "name": "Benjamin Schoos",
+                "sort-name": "Schoos, Benjamin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "742f0964-1ab1-4086-8549-52ee9e773af4",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "China Man vs. China Girl",
+            "primary-type": "Album"
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "0bb145e2-9367-3e86-bc72-25c25ca71c6d",
+                  "number": "7",
+                  "title": "Chinaman vs. Chinagirl",
+                  "length": 184000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c4fbef3f-cff9-427c-993f-57bc677ecf4c",
+      "score": 100,
+      "title": "Gotta Let You Go",
+      "length": 233000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Dominica",
+          "artist": {
+            "id": "6b4a3ea4-a9c8-47a3-88f3-362170927c92",
+            "name": "Dominica",
+            "sort-name": "Dominica",
+            "disambiguation": "Dance vocalist \"Gotta Let You Go\""
+          }
+        }
+      ],
+      "first-release-date": "2013-07-05",
+      "releases": [
+        {
+          "id": "c97fdda0-a5b2-4652-b830-b37d9acf231e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 5,
+          "title": "Best of 538 Dance Smash, Volume 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1f98c7e8-2594-480e-b9cd-ee00bc315903",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best of 538 Dance Smash, Volume 2",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2013-07-05",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "2013-07-05",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "track-count": 100,
+          "media": [
+            {
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "bbbeae27-3898-4ced-a590-155640ae065e",
+                  "number": "11",
+                  "title": "Gotta Let You Go",
+                  "length": 233000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5a534eba-4ec6-4047-a75a-2f969a5df0a7",
+      "score": 100,
+      "title": "One Bad Hero (Soarsweep Remix)",
+      "length": 195000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Ruben de Ronde",
+          "artist": {
+            "id": "66a3f091-c5a7-4ead-8fd8-1adf4ddccd78",
+            "name": "Ruben de Ronde",
+            "sort-name": "Ronde, Ruben de"
+          }
+        }
+      ],
+      "first-release-date": "2014",
+      "releases": [
+        {
+          "id": "164161ec-bfbe-4dc7-b209-df68dd001147",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "From Sao Paulo To Sofia (Remixed)",
+          "status": "Official",
+          "release-group": {
+            "id": "de3f5e56-006f-4953-bbe9-b591cee9c3b1",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "From Sao Paulo to Sofia",
+            "primary-type": "Album"
+          },
+          "date": "2014",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2014",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 30,
+          "media": [
+            {
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4b59daa4-d364-45b0-823b-d5ad4c002eb1",
+                  "number": "6",
+                  "title": "One Bad Hero (Soarsweep Remix)",
+                  "length": 195000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71dc87a2-2d06-4c1b-af83-cabc9326d291",
+      "score": 100,
+      "title": "She\u2019s Already Gone (With Aelyn) (Wezz Devall Remix)",
+      "length": 267000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Ruben de Ronde",
+          "artist": {
+            "id": "66a3f091-c5a7-4ead-8fd8-1adf4ddccd78",
+            "name": "Ruben de Ronde",
+            "sort-name": "Ronde, Ruben de"
+          }
+        }
+      ],
+      "first-release-date": "2014",
+      "releases": [
+        {
+          "id": "164161ec-bfbe-4dc7-b209-df68dd001147",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "From Sao Paulo To Sofia (Remixed)",
+          "status": "Official",
+          "release-group": {
+            "id": "de3f5e56-006f-4953-bbe9-b591cee9c3b1",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "From Sao Paulo to Sofia",
+            "primary-type": "Album"
+          },
+          "date": "2014",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2014",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 30,
+          "media": [
+            {
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d0b92ab7-f144-431c-88ec-491030ccafc5",
+                  "number": "3",
+                  "title": "She\u2019s Already Gone (With Aelyn) (Wezz Devall Remix)",
+                  "length": 267000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fb3c11b9-cabf-4cb2-9f6f-e1e27e1fa127",
+      "score": 100,
+      "title": "A-Tention (Bram Troost Remix)",
+      "length": 226000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Ruben de Ronde",
+          "artist": {
+            "id": "66a3f091-c5a7-4ead-8fd8-1adf4ddccd78",
+            "name": "Ruben de Ronde",
+            "sort-name": "Ronde, Ruben de"
+          }
+        }
+      ],
+      "first-release-date": "2014",
+      "releases": [
+        {
+          "id": "164161ec-bfbe-4dc7-b209-df68dd001147",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "From Sao Paulo To Sofia (Remixed)",
+          "status": "Official",
+          "release-group": {
+            "id": "de3f5e56-006f-4953-bbe9-b591cee9c3b1",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "From Sao Paulo to Sofia",
+            "primary-type": "Album"
+          },
+          "date": "2014",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2014",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 30,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5930b94c-a149-4eb5-83a3-5e9e46587236",
+                  "number": "2",
+                  "title": "A-Tention (Bram Troost Remix)",
+                  "length": 226000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cb128845-7cf3-40e9-9e9d-4f69735fe5d5",
+      "score": 100,
+      "artist-credit-id": "69454030-067b-3c2e-9c94-bf7120885b27",
+      "title": "People on the Bus",
+      "length": 183733,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Learning Station",
+          "artist": {
+            "id": "b65c05be-4705-49a4-a094-6a97670972f8",
+            "name": "The Learning Station",
+            "sort-name": "Learning Station, The"
+          }
+        }
+      ],
+      "first-release-date": "2019-09-09",
+      "releases": [
+        {
+          "id": "c2b2fef0-bc27-495d-af49-bfe0aa31f4e7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "All\u2010Time Childrens\u2019 Favorites",
+          "status": "Official",
+          "release-group": {
+            "id": "aad70c8f-c7eb-3fd0-99fd-39e32f1ed5a5",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "All-Time Childrens' Favorites",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-09-09",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-09-09",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "b2b2a5a9-13a0-3bed-8700-2c68c0957c71",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8dabe817-ac15-4e92-8fd2-e6fcf6716da8",
+                  "number": "8",
+                  "title": "People on the Bus",
+                  "length": 183733
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "a17e4fe1-6502-468c-8e10-e11d8808463f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "All-Time Childrens' Favorites",
+          "status": "Official",
+          "release-group": {
+            "id": "aad70c8f-c7eb-3fd0-99fd-39e32f1ed5a5",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "All-Time Childrens' Favorites",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 11,
+          "media": [
+            {
+              "id": "84226b89-25ad-3d25-95b1-a0534fb65c67",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "64c15703-48c7-37ca-a517-45eb1f24693a",
+                  "number": "8",
+                  "title": "People on the Bus",
+                  "length": 186506
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 7
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USPQT0804008"
+      ]
+    },
+    {
+      "id": "7dbacaff-9489-49b7-9137-431a887b5aa0",
+      "score": 100,
+      "artist-credit-id": "69454030-067b-3c2e-9c94-bf7120885b27",
+      "title": "The Marching Song",
+      "length": 210520,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Learning Station",
+          "artist": {
+            "id": "b65c05be-4705-49a4-a094-6a97670972f8",
+            "name": "The Learning Station",
+            "sort-name": "Learning Station, The"
+          }
+        }
+      ],
+      "first-release-date": "2019-09-09",
+      "releases": [
+        {
+          "id": "c2b2fef0-bc27-495d-af49-bfe0aa31f4e7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "All\u2010Time Childrens\u2019 Favorites",
+          "status": "Official",
+          "release-group": {
+            "id": "aad70c8f-c7eb-3fd0-99fd-39e32f1ed5a5",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "All-Time Childrens' Favorites",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-09-09",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-09-09",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "b2b2a5a9-13a0-3bed-8700-2c68c0957c71",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "1da0d62d-fa02-427d-85fe-c4441de348fa",
+                  "number": "10",
+                  "title": "The Marching Song",
+                  "length": 210520
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "a17e4fe1-6502-468c-8e10-e11d8808463f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "All-Time Childrens' Favorites",
+          "status": "Official",
+          "release-group": {
+            "id": "aad70c8f-c7eb-3fd0-99fd-39e32f1ed5a5",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "All-Time Childrens' Favorites",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 11,
+          "media": [
+            {
+              "id": "84226b89-25ad-3d25-95b1-a0534fb65c67",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "38390211-f81c-311c-808f-4945a7d6185f",
+                  "number": "10",
+                  "title": "The Marching Song",
+                  "length": 214080
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 9
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USPQT0804010"
+      ]
+    },
+    {
+      "id": "2eaf96e9-34ea-4a55-9f63-96ee11401930",
+      "score": 100,
+      "artist-credit-id": "9d2e7d92-ee3a-3468-ad77-f52261ea9dd2",
+      "title": "Stronzi",
+      "length": 134066,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Paolino Paperino Band",
+          "artist": {
+            "id": "2b242ecd-cdc2-4940-af5d-0df5d1fc7f2c",
+            "name": "Paolino Paperino Band",
+            "sort-name": "Paolino Paperino Band"
+          }
+        }
+      ],
+      "first-release-date": "2013",
+      "releases": [
+        {
+          "id": "e809db4b-9b68-4a7f-8b5a-7dac0878b9e9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Pislas + Fetta + 7''",
+          "status": "Official",
+          "release-group": {
+            "id": "59bb41ab-7e2f-3f15-bbe2-711b926e8b68",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Pislas + Fetta + 7''",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2013",
+          "country": "IT",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+                "name": "Italy",
+                "sort-name": "Italy",
+                "iso-3166-1-codes": [
+                  "IT"
+                ]
+              }
+            }
+          ],
+          "track-count": 23,
+          "media": [
+            {
+              "id": "25a79f8c-7ad0-30f1-b184-c3051dc0ccb5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7b3442e5-d10f-3271-ae54-3b6d1104d8ec",
+                  "number": "9",
+                  "title": "Stronzi",
+                  "length": 134066
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

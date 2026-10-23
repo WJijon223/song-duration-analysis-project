@@ -1,0 +1,1911 @@
+{
+  "created": "2026-10-23T18:19:33.999Z",
+  "count": 9596957,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "f3e3b7ad-c75d-4d11-b153-e2a8bdf94d2e",
+      "score": 100,
+      "title": "Put Your Hands On (Alex Gaudino remix)",
+      "length": 191000,
+      "disambiguation": "part of \u201cMinistry of Sound: Clubbers Guide 2009\u201d DJ\u2010mix",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "No Halo",
+          "artist": {
+            "id": "062911fd-c986-41bd-9469-03ee1ab2f58e",
+            "name": "No Halo",
+            "sort-name": "No Halo"
+          }
+        }
+      ],
+      "first-release-date": "2009-01-05",
+      "releases": [
+        {
+          "id": "346269a3-c671-4117-958b-4a3ff29a8b11",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Clubbers Guide 2009",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d5eae2e2-41b7-3bcf-87f9-9f05d9f2ef1f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Clubbers Guide 2009",
+            "disambiguation": "British edition",
+            "primary-type": "Album",
+            "secondary-types": [
+              "DJ-mix",
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "0d47f47a-3fe5-3d69-ac9d-d566c23968bf",
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009-01-05",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2009-01-05",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 40,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "94bf945a-78e8-356a-8464-2949059898a8",
+                  "number": "15",
+                  "title": "Put Your Hands On (Alex Gaudino remix)",
+                  "length": 191000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 14
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "funky house"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "dance"
+        }
+      ]
+    },
+    {
+      "id": "6ffb7d6b-6e2a-4b87-9fee-b3ed84f189c6",
+      "score": 100,
+      "title": "Love Like a Fountain (Infected by Scourge of the Earth)",
+      "length": 367000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Ian Brown",
+          "artist": {
+            "id": "182d5d8a-94c7-4ef4-8222-a1838353a37b",
+            "name": "Ian Brown",
+            "sort-name": "Brown, Ian",
+            "disambiguation": "UK singer, member of Stone Roses",
+            "aliases": [
+              {
+                "sort-name": "Brown, Ian George",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Ian George Brown",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005",
+      "releases": [
+        {
+          "id": "13b772c1-554d-4080-b4e6-a10710396935",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Golden Greats",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ian Brown",
+              "artist": {
+                "id": "182d5d8a-94c7-4ef4-8222-a1838353a37b",
+                "name": "Ian Brown",
+                "sort-name": "Brown, Ian",
+                "disambiguation": "UK singer, member of Stone Roses"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5a695d1a-7c7b-3d42-898e-207a74b12c8c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Golden Greats",
+            "primary-type": "Album"
+          },
+          "date": "2005",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "be33c7de-0ebc-3ce4-b589-26a61bd085f2",
+                  "number": "15",
+                  "title": "Love Like a Fountain (Infected by Scourge of the Earth)",
+                  "length": 367000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c7f204bc-5f21-45d7-96a8-60b2454a8195",
+      "score": 100,
+      "title": "There Are No Lights on Our Christmas Tree",
+      "length": 231173,
+      "disambiguation": "live, 1990-12-01: McCabe's, Santa Monica, CA, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Watersons",
+          "artist": {
+            "id": "37a0f1c5-a2e2-449c-8d28-e0287aabb5ea",
+            "name": "The Watersons",
+            "sort-name": "Watersons, The",
+            "disambiguation": "English folk group"
+          }
+        }
+      ],
+      "first-release-date": "2004-02-16",
+      "releases": [
+        {
+          "id": "e3af13ea-9316-474a-b524-69ef672342a8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 5,
+          "title": "Mighty River of Song",
+          "status": "Official",
+          "release-group": {
+            "id": "13c1abd1-16dc-37e8-ad33-c6a5f54e3923",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mighty River of Song",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004-02-16",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2004-02-16",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 96,
+          "media": [
+            {
+              "position": 4,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "973707ad-98e9-35fc-8313-761ff3052b7a",
+                  "number": "3",
+                  "title": "There Are No Lights on Our Christmas Tree",
+                  "length": 231173
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5b7204e4-48d0-4baf-be85-36cd712ca439",
+      "score": 100,
+      "title": "Crystal Waves",
+      "length": 163000,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " feat. ",
+          "name": "Phlogiston",
+          "artist": {
+            "id": "99886ac8-a166-446d-bac7-a7834a6b4eea",
+            "name": "Phlogiston",
+            "sort-name": "Phlogiston"
+          }
+        },
+        {
+          "name": "Shnabubula",
+          "artist": {
+            "id": "9e05f564-45ac-49f6-b63f-734bfbd47135",
+            "name": "Shnabubula",
+            "sort-name": "Shnabubula",
+            "disambiguation": "Samuel Ascher-Weiss",
+            "aliases": [
+              {
+                "sort-name": "\u30b5\u30df\u30e5\u30a8\u30eb\u30fb\u30a2\u30c3\u30b7\u30e3\u30fc\u30fb\u30a6\u30a7\u30a4\u30b9",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b5\u30df\u30e5\u30a8\u30eb\u30fb\u30a2\u30c3\u30b7\u30e3\u30fc\u30fb\u30a6\u30a7\u30a4\u30b9",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008-06-25",
+      "releases": [
+        {
+          "id": "4b39749e-3f8c-476b-8826-2664a6d9d850",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Heartcode",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2a13bc96-f8cf-30ea-8a5e-7351374f128c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Heartcode",
+            "primary-type": "Album"
+          },
+          "date": "2008-06-25",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2008-06-25",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b75b10e3-eca3-38bb-8fe8-8f51b07ae66d",
+                  "number": "5",
+                  "title": "Crystal Waves",
+                  "length": 163000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8c0a1aca-14b2-4688-a931-5ed1dba98dde",
+      "score": 100,
+      "title": "Frestas de C\u00e9u",
+      "length": 216666,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Juca Novaes e Edu Santana",
+          "artist": {
+            "id": "4dc7dba8-af88-4515-977f-cd3e7a072d3d",
+            "name": "Juca Novaes e Edu Santana",
+            "sort-name": "Juca Novaes e Edu Santana"
+          }
+        }
+      ],
+      "first-release-date": "2000",
+      "releases": [
+        {
+          "id": "5439af73-7b2b-4047-b994-da26a04b7c9a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Kathmandu",
+          "status": "Official",
+          "release-group": {
+            "id": "334058ff-819e-36cf-b222-038e745378dc",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Kathmandu",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2000",
+          "country": "BR",
+          "release-events": [
+            {
+              "date": "2000",
+              "area": {
+                "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+                "name": "Brazil",
+                "sort-name": "Brazil",
+                "iso-3166-1-codes": [
+                  "BR"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b0bf43ba-1eb6-3546-8f2b-b6df823b5b82",
+                  "number": "5",
+                  "title": "Frestas de C\u00e9u",
+                  "length": 216666
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "68a8df76-b1f7-452f-bc0c-fcab8f52c6ca",
+      "score": 100,
+      "title": "Sweet Love 2K (M Dubs Breakbeat Funk mix)",
+      "length": 243800,
+      "disambiguation": "part of \u201cUnderground Explosion\u201d DJ-mix",
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " feat. ",
+          "name": "Fierce",
+          "artist": {
+            "id": "cf06127c-db8d-467e-94f1-d8c2efc5f0c3",
+            "name": "Fierce",
+            "sort-name": "Fierce",
+            "disambiguation": "UK R&B girl group"
+          }
+        },
+        {
+          "name": "General Levy",
+          "artist": {
+            "id": "c0515731-5824-458f-a38c-fc463c9157fa",
+            "name": "General Levy",
+            "sort-name": "Levy, General",
+            "aliases": [
+              {
+                "sort-name": "Levy, Paul",
+                "name": "Paul Levy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Levy, Paul Scott",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Paul Scott Levy",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2000-03-13",
+      "releases": [
+        {
+          "id": "da492bd2-be63-4b93-8830-d52b212c370e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Underground Explosion: The Real Garage Mix",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "80d33d63-b793-315b-8b0c-a4173b37559b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Underground Explosion: The Real Garage Mix",
+            "primary-type": "Album",
+            "secondary-types": [
+              "DJ-mix",
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "0d47f47a-3fe5-3d69-ac9d-d566c23968bf",
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2000-03-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2000-03-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9f72596f-8161-3841-9868-2f3798476a83",
+                  "number": "3",
+                  "title": "Sweet Love 2K (M Dubs Breakbeat Funk mix)",
+                  "length": 243800
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d8597d54-85a9-4382-9486-04256a9f5417",
+      "score": 100,
+      "title": "Slow in My Bones",
+      "length": 233000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Jason Walker",
+          "artist": {
+            "id": "6d0fdd3e-c06a-4481-8f36-8a59877e28a0",
+            "name": "Jason Walker",
+            "sort-name": "Walker, Jason",
+            "disambiguation": "folk-jazz"
+          }
+        }
+      ],
+      "first-release-date": "2008-07-22",
+      "releases": [
+        {
+          "id": "b9d9498f-82bb-4752-91da-74c8ea7733fb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Just Like You",
+          "status": "Official",
+          "release-group": {
+            "id": "b748790e-9b49-3e46-97b1-3f6d4691cc06",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Just Like You",
+            "primary-type": "Album"
+          },
+          "date": "2008-07-22",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2008-07-22",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b099470e-341e-3bf9-9836-5cb1f7b1ace1",
+                  "number": "4",
+                  "title": "Slow in My Bones",
+                  "length": 233000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "542fb8dd-b58c-4ea4-963b-5ab6ec776dd9",
+      "score": 100,
+      "title": "Alldeles s\u00f6der om ingenstans",
+      "length": 245000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Peter LeMarc",
+          "artist": {
+            "id": "56dcddd2-644d-4e27-9185-4ee59e833248",
+            "name": "Peter LeMarc",
+            "sort-name": "LeMarc, Peter"
+          }
+        }
+      ],
+      "first-release-date": "2007-09-26",
+      "releases": [
+        {
+          "id": "4e9f1b75-70ed-499c-9856-5a1000c4aba4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "K\u00e4rlek i tystnadens tid",
+          "status": "Official",
+          "release-group": {
+            "id": "e391cb88-50d2-396c-854a-dfde4646f3d6",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "K\u00e4rlek i tystnadens tid",
+            "primary-type": "Album"
+          },
+          "date": "2007-09-26",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "2007-09-26",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "99c8b75e-4bd0-3fb1-b24b-bbbd9838fc4d",
+                  "number": "6",
+                  "title": "Alldeles s\u00f6der om ingenstans",
+                  "length": 245000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "183b7121-6167-4032-adbf-9c47f6e14093",
+      "score": 100,
+      "title": "Got What You Need",
+      "length": 199000,
+      "disambiguation": "part of \u201cDJ Lenno: Vol. 2-R N B\u201d DJ-Mix",
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " feat. ",
+          "name": "Eve",
+          "artist": {
+            "id": "1ac10f5e-2079-4435-b78f-dda6ecdeba15",
+            "name": "Eve",
+            "sort-name": "Eve",
+            "disambiguation": "US rapper/singer",
+            "aliases": [
+              {
+                "sort-name": "E. Jeffers",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "E. Jeffers",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Eve Jeffers",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Eve Jeffers",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Evve",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Evve",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30a4\u30f4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30a4\u30f4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Eve of Destruction",
+                "name": "Eve of Destruction",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Jeffers, Eve Jihan",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Eve Jihan Jeffers",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1978-11-10",
+                "end-date": "2014-06-14"
+              },
+              {
+                "sort-name": "Jeffers-Cooper, Eve Jihan",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Eve Jihan Jeffers-Cooper",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "2014-06-14",
+                "end-date": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "Drag\u2010On",
+          "artist": {
+            "id": "3cd1c04b-288c-41dd-8886-7110efaddc5c",
+            "name": "Drag\u2010On",
+            "sort-name": "Drag\u2010On",
+            "disambiguation": "Jamaican\u2010American rapper with Ruff Ryders",
+            "aliases": [
+              {
+                "sort-name": "Dragon",
+                "name": "Dragon",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Smalls, Melvin Jason",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Melvin Jason Smalls",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "DRAG'ON",
+                "name": "DRAG'ON",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2003-09-08",
+      "releases": [
+        {
+          "id": "1ab5e111-6aaf-4e2a-9d16-7fda2d113863",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "RnB Super CD, Volume 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6351d5d-cfe9-338b-b5b0-858a3ecc2bb4",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "RnB Super CD, Volume 2",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003-09-08",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2003-09-08",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 48,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2f667478-7967-3026-8993-6e956fe598e0",
+                  "number": "7",
+                  "title": "Got What You Need",
+                  "length": 199000
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a30807b3-9908-44ec-9053-2942b17379d4",
+      "score": 100,
+      "title": "Ding-Ding",
+      "length": 143000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Ann-Louise Hanson",
+          "artist": {
+            "id": "cda648a7-44c6-4e1a-8f1d-2953db08751b",
+            "name": "Ann-Louise Hanson",
+            "sort-name": "Hanson, Ann-Louise",
+            "aliases": [
+              {
+                "sort-name": "Ann-Louise Hansson",
+                "name": "Ann-Louise Hansson",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2006",
+      "releases": [
+        {
+          "id": "e365d986-d44a-4515-84b2-5d4ba35c4d30",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 4,
+          "title": "Stora Schlagerboxen: 100 svenska s\u00e5ngerskor 1954\u20131969",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "44ec0b8c-5ad5-3956-b89a-52ebfe6e4c72",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Stora Schlagerboxen: 100 svenska s\u00e5ngerskor 1954-1969",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2006",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "2006",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 104,
+          "media": [
+            {
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "dbb4238a-92f0-311b-8657-1d6d8b27fa27",
+                  "number": "6",
+                  "title": "Ding-Ding",
+                  "length": 143000
+                }
+              ],
+              "track-count": 26,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9be5fc2d-1f66-4e33-9782-01cf3a4708d5",
+      "score": 100,
+      "title": "Can't Buy Me Love",
+      "length": 201000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Wayne Brady",
+          "artist": {
+            "id": "7d77b6be-376e-4289-931b-290cf6a3a0b2",
+            "name": "Wayne Brady",
+            "sort-name": "Brady, Wayne",
+            "disambiguation": "US comedian",
+            "aliases": [
+              {
+                "sort-name": "Brady, Wayne Alphonso",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Wayne Alphonso Brady",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008-09-16",
+      "releases": [
+        {
+          "id": "c42673a3-383c-4591-909b-4030260f6954",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "A Long Time Coming",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Wayne Brady",
+              "artist": {
+                "id": "7d77b6be-376e-4289-931b-290cf6a3a0b2",
+                "name": "Wayne Brady",
+                "sort-name": "Brady, Wayne",
+                "disambiguation": "US comedian"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6556f89a-8b89-341d-adde-fd1531928afd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "A Long Time Coming",
+            "primary-type": "Album"
+          },
+          "date": "2008-09-16",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2008-09-16",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f58a6790-659c-3c6f-a00f-3a377bb91e2d",
+                  "number": "3",
+                  "title": "Can't Buy Me Love",
+                  "length": 201000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USC4R0817534"
+      ]
+    },
+    {
+      "id": "a4a2a4fd-96d4-4539-9c6f-ec4f72b13684",
+      "score": 100,
+      "title": "Yes",
+      "length": 280000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Patrick Cooper",
+          "artist": {
+            "id": "eced583b-954f-49cf-be89-0a06e37ab0d0",
+            "name": "Patrick Cooper",
+            "sort-name": "Cooper, Patrick"
+          }
+        }
+      ],
+      "first-release-date": "2008-05-06",
+      "releases": [
+        {
+          "id": "8bcd1af1-cbda-4c42-bb85-92b079afbcee",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Vibin'",
+          "status": "Official",
+          "release-group": {
+            "id": "0baf20c3-3c3c-37e1-8a92-bafcbc5cd7c7",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Vibin'",
+            "primary-type": "Album"
+          },
+          "date": "2008-05-06",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2008-05-06",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "44265b7f-0a25-378d-a37b-54357f1d3333",
+                  "number": "11",
+                  "title": "Yes",
+                  "length": 280000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "666bbd0d-91a3-467c-971a-8aa0fd3bfc12",
+      "score": 100,
+      "title": "Out of Luck",
+      "length": 139000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Deadline",
+          "artist": {
+            "id": "a5b73737-c2fe-4ec0-b338-5ca1d5a17a79",
+            "name": "Deadline",
+            "sort-name": "Deadline",
+            "disambiguation": "female fronted punk rock band from London"
+          }
+        }
+      ],
+      "first-release-date": "2005",
+      "releases": [
+        {
+          "id": "139cdc82-f8d4-49e8-90e9-024b23c97bbb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Where the Bad Boys Rock, Volume 3",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "66fb9e11-a47e-3e9d-b5a0-3f96c44d5ed6",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Where the Bad Boys Rock, Volume 3",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2005",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b016ec30-5d66-3cdb-a5b1-8943e294981d",
+                  "number": "9",
+                  "title": "Out of Luck",
+                  "length": 139000
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9397d251-1832-4c62-8942-1d4d0723b2c0",
+      "score": 100,
+      "title": "The Erection of Pain",
+      "length": 381000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Mother Eel",
+          "artist": {
+            "id": "cbf56f39-f56d-4868-a601-970d834dc359",
+            "name": "Mother Eel",
+            "sort-name": "Mother Eel"
+          }
+        }
+      ],
+      "first-release-date": "2008",
+      "releases": [
+        {
+          "id": "34f95f9d-7404-47fc-836b-6eeab7b27007",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Why Do You Think?",
+          "status": "Official",
+          "release-group": {
+            "id": "b331a96e-6056-3232-98e1-98a4d4d9075a",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Why Do You Think?",
+            "primary-type": "EP"
+          },
+          "date": "2008",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "18c29ea7-77ca-3830-997c-60586fcbf1bd",
+                  "number": "1",
+                  "title": "The Erection of Pain",
+                  "length": 381000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1425437-303f-4d80-bedf-068c55468a7f",
+      "score": 100,
+      "title": "My Love",
+      "length": 116386,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Marked Men",
+          "artist": {
+            "id": "73065dd9-0e67-445a-b2e6-b5eed5f50243",
+            "name": "The Marked Men",
+            "sort-name": "Marked Men, The",
+            "aliases": [
+              {
+                "sort-name": "Marked Men",
+                "name": "Marked Men",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009-01-27",
+      "releases": [
+        {
+          "id": "7507dc7d-58a2-460d-8fc5-9baeadfff519",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Ghosts",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Marked Men",
+              "artist": {
+                "id": "73065dd9-0e67-445a-b2e6-b5eed5f50243",
+                "name": "The Marked Men",
+                "sort-name": "Marked Men, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9edf45e6-b112-3377-aa1a-21a0f65c32b5",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Ghosts",
+            "primary-type": "Album"
+          },
+          "date": "2009-01-27",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-01-27",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "68e3133d-427f-3ee5-b8f7-519b9856f546",
+                  "number": "4",
+                  "title": "My Love",
+                  "length": 116386
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "71d714c5-c03d-3ab8-8967-0bccecb9cc48",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Ghosts",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Marked Men",
+              "artist": {
+                "id": "73065dd9-0e67-445a-b2e6-b5eed5f50243",
+                "name": "The Marked Men",
+                "sort-name": "Marked Men, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9edf45e6-b112-3377-aa1a-21a0f65c32b5",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Ghosts",
+            "primary-type": "Album"
+          },
+          "date": "2009-01-27",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-01-27",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "cd9ed089-bed3-348a-80c4-b3d320997545",
+                  "number": "A4",
+                  "title": "My Love",
+                  "length": 116386
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44386a26-2b45-46ec-ad4d-39d8217bf0d9",
+      "score": 100,
+      "title": "Blew My Mind",
+      "length": 379346,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Paul Hardcastle",
+          "artist": {
+            "id": "58e2800d-991d-4fe9-860b-1d27931ae8de",
+            "name": "Paul Hardcastle",
+            "sort-name": "Hardcastle, Paul",
+            "aliases": [
+              {
+                "sort-name": "Paul III, Lewis",
+                "name": "Lewis Paul III",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": "1988",
+                "end-date": "1990"
+              },
+              {
+                "sort-name": "Hardcastle, Paul Louis",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Paul Louis Hardcastle",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Hardcastle, Paul",
+                "name": "Hardcastle, Paul",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008-02-05",
+      "releases": [
+        {
+          "id": "a1686959-835e-4e3b-b2c2-79ea7600346b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Hardcastle 5",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "joinphrase": " & ",
+              "name": "Paul Hardcastle",
+              "artist": {
+                "id": "58e2800d-991d-4fe9-860b-1d27931ae8de",
+                "name": "Paul Hardcastle",
+                "sort-name": "Hardcastle, Paul"
+              }
+            },
+            {
+              "name": "Becki Biggins",
+              "artist": {
+                "id": "17e7638d-987c-4b8d-b4b5-df48dff749a4",
+                "name": "Becki Biggins",
+                "sort-name": "Biggins, Becki",
+                "disambiguation": "Singer and songwriter"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "782784cf-cd07-31a3-ab46-749925197f0c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hardcastle 5",
+            "primary-type": "Album"
+          },
+          "date": "2008-02-05",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2008-02-05",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "13e85b09-6486-3e39-9bb2-f8f239cb0c93",
+                  "number": "7",
+                  "title": "Blew My Mind",
+                  "length": 379346
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 6
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "contemporary jazz"
+        },
+        {
+          "count": 1,
+          "name": "crossover jazz"
+        },
+        {
+          "count": 1,
+          "name": "fusion"
+        }
+      ]
+    },
+    {
+      "id": "090a75cc-8be2-4d00-a385-31ae0fc98666",
+      "score": 100,
+      "title": "The More I See You",
+      "length": 160000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Chris Montez",
+          "artist": {
+            "id": "e161330c-8c2a-4ccc-80c6-88d48f9d4095",
+            "name": "Chris Montez",
+            "sort-name": "Montez, Chris",
+            "aliases": [
+              {
+                "sort-name": "Montanez, Ezekiel Christopher",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Ezekiel Christopher Montanez",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Chriz Montez",
+                "name": "Chriz Montez",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Crhis Montez",
+                "name": "Crhis Montez",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002",
+      "releases": [
+        {
+          "id": "6be88ece-6584-4617-91a5-759c1d043e70",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Something Swingin\u2019",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3e39c6eb-2cde-34bf-8400-afdae06cdde8",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Something Swingin\u2019",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2002",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 42,
+          "media": [
+            {
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "edbf9d51-5b4d-33fe-a76f-7878d581fdee",
+                  "number": "16",
+                  "title": "The More I See You",
+                  "length": 160000
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cf068930-052d-428a-8ee3-583d3e211987",
+      "score": 100,
+      "title": "\u00c9 D'Oxum",
+      "length": 276666,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Dudu Nobre",
+          "artist": {
+            "id": "5f27e470-b97c-4815-8c71-c7501babf80a",
+            "name": "Dudu Nobre",
+            "sort-name": "Nobre, Dudu"
+          }
+        }
+      ],
+      "first-release-date": "2002",
+      "releases": [
+        {
+          "id": "7a2a9d4c-35ea-4467-b8f7-d75e54595baa",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Chegue Mais",
+          "status": "Official",
+          "release-group": {
+            "id": "fdf77293-fe42-3d07-8d0e-481e49efaf2e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Chegue Mais",
+            "primary-type": "Album"
+          },
+          "date": "2002",
+          "country": "BR",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+                "name": "Brazil",
+                "sort-name": "Brazil",
+                "iso-3166-1-codes": [
+                  "BR"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e869668a-de47-3e2f-baf7-d68b775803ed",
+                  "number": "10",
+                  "title": "\u00c9 D'Oxum",
+                  "length": 276666
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d9927a15-c730-4b11-b501-9d1ed0ea0763",
+      "score": 100,
+      "title": "How the Future Sounded",
+      "length": 376000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kuba",
+          "artist": {
+            "id": "217219b7-eb43-4dfb-aa80-65a2af5a82b7",
+            "name": "Kuba",
+            "sort-name": "Kuba",
+            "disambiguation": "Ambient (UK)"
+          }
+        }
+      ],
+      "first-release-date": "2008-06-13",
+      "releases": [
+        {
+          "id": "71af1150-f08e-4e3a-bc6f-cca2d7e63351",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "How the Future Sounded",
+          "status": "Official",
+          "release-group": {
+            "id": "c913533b-88b9-35ab-80e5-59512c3d8112",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "How the Future Sounded",
+            "primary-type": "Album"
+          },
+          "date": "2008-06-13",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2008-06-13",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "88635e89-5791-36f2-b007-a51702564bb2",
+                  "number": "5",
+                  "title": "How the Future Sounded",
+                  "length": 376000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c0dfaee4-ca8c-40d4-a808-74da629e7cb8",
+      "score": 100,
+      "title": "Star o' the Bar",
+      "length": 229000,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " & ",
+          "name": "Judy Dunlop",
+          "artist": {
+            "id": "16e79071-8e3c-4641-8f3d-6480fa51a07f",
+            "name": "Judy Dunlop",
+            "sort-name": "Dunlop, Judy"
+          }
+        },
+        {
+          "name": "Jon Scaife",
+          "artist": {
+            "id": "6a4ce767-4e11-47e9-9887-d452a6f2dd22",
+            "name": "Jon Scaife",
+            "sort-name": "Scaife, Jon"
+          }
+        }
+      ],
+      "first-release-date": "2008-03-17",
+      "releases": [
+        {
+          "id": "6826f5f2-d36d-4286-a758-67542f9767cf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "A Celebration of Great British Folk",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "70b1ef3f-f878-3a62-8c01-07fef0ebeedc",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "A Celebration of Great British Folk",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008-03-17",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2008-03-17",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 36,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "270c00f1-0a64-3b31-8883-6a81b544dda7",
+                  "number": "5",
+                  "title": "Star o' the Bar",
+                  "length": 229000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

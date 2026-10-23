@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 43501591,
+      "collectionId": 486582816,
+      "trackId": 486582821,
+      "artistName": "John Wayne",
+      "collectionName": "America, Why I Love Her",
+      "trackName": "An American Boy Grows Up",
+      "collectionCensoredName": "America, Why I Love Her",
+      "trackCensoredName": "An American Boy Grows Up",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/john-wayne/43501591?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/an-american-boy-grows-up/486582816?i=486582821&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/an-american-boy-grows-up/486582816?i=486582821&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/e3/fe/d8e3fef3-72a4-8f4f-92c2-5dd3595c35b2/mzaf_10111212136385562853.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/2b/3d/412b3dad-61a2-4a86-41e7-184db9f13857/859707271141_cover.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/2b/3d/412b3dad-61a2-4a86-41e7-184db9f13857/859707271141_cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/2b/3d/412b3dad-61a2-4a86-41e7-184db9f13857/859707271141_cover.jpg/100x100bb.jpg",
+      "collectionPrice": 9.9,
+      "trackPrice": 0.99,
+      "releaseDate": "1979-01-01T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 10,
+      "trackNumber": 5,
+      "trackTimeMillis": 271680,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Spoken Word",
+      "isStreamable": true
+    }
+  ]
+}

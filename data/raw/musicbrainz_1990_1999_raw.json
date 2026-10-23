@@ -1,0 +1,2398 @@
+{
+  "created": "2026-10-23T18:19:29.389Z",
+  "count": 5056247,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "2bb7c8e8-a930-4d6c-a1f1-c0b75a1d327c",
+      "score": 100,
+      "title": "Conto: O Sol e o Vento",
+      "length": 255733,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Francisco Marques",
+          "artist": {
+            "id": "c8e7033b-7ca3-4c48-bae0-3bd02d345551",
+            "name": "Francisco Marques",
+            "sort-name": "Francisco Marques"
+          }
+        }
+      ],
+      "first-release-date": "1999",
+      "releases": [
+        {
+          "id": "e27945f1-e052-41b9-808e-1b098a99bffd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Hist\u00f3rias Gud\u00f3rias De Gurrunf\u00f3rias De Maracut\u00f3rias Xiringabut\u00f3rias",
+          "status": "Official",
+          "release-group": {
+            "id": "52bbdddc-c491-34f7-98b3-79309f84757e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hist\u00f3rias Gud\u00f3rias De Gurrunf\u00f3rias De Maracut\u00f3rias Xiringabut\u00f3rias",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1999",
+          "country": "BR",
+          "release-events": [
+            {
+              "date": "1999",
+              "area": {
+                "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+                "name": "Brazil",
+                "sort-name": "Brazil",
+                "iso-3166-1-codes": [
+                  "BR"
+                ]
+              }
+            }
+          ],
+          "track-count": 23,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d40af6a1-f4f4-351b-8d56-f5aa154ec450",
+                  "number": "12",
+                  "title": "Conto: O Sol e o Vento",
+                  "length": 255733
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fc7b3bba-2783-4acf-9f30-6123b3672af8",
+      "score": 100,
+      "title": "The First Nowell",
+      "length": 318000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Choir of St John\u2019s College, Cambridge",
+          "artist": {
+            "id": "993c0cbf-7708-40fb-b7c2-1d6a2e4b8790",
+            "name": "Choir of St John\u2019s College, Cambridge",
+            "sort-name": "Choir of St John\u2019s College, Cambridge",
+            "aliases": [
+              {
+                "sort-name": "St. John's College Choir",
+                "name": "St. John's College Choir",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "St John's College Choir",
+                "name": "St John's College Choir",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Chior of St John's College, Cambridge",
+                "name": "Chior of St John's College, Cambridge",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Choir of St. John's College, Cambridge",
+                "name": "The Choir of St. John's College, Cambridge",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "St John's College Choir, Cambridge",
+                "name": "St John's College Choir, Cambridge",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Choir of St. John's Cambridge",
+                "name": "Choir of St. John's Cambridge",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "St. John's College Choir Cambridge",
+                "name": "St. John's College Choir Cambridge",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "St. John's College Choir, Cambridge",
+                "name": "St. John's College Choir, Cambridge",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Choir of St John's College, Cambridge",
+                "name": "Choir of St John's College, Cambridge",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1994-10-11",
+      "releases": [
+        {
+          "id": "fc0cdb7f-8e49-4b77-b057-bdb24aef6b60",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "The Magic of Christmas",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c0513dc6-b421-327a-a239-ed79658828ab",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Magic of Christmas",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1994-10-11",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1994-10-11",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a8498d77-8268-33ee-8c66-052fdbf08ac8",
+                  "number": "6",
+                  "title": "The First Nowell",
+                  "length": 318000
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 5
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBF077440713"
+      ]
+    },
+    {
+      "id": "41bd3bcf-dbed-4187-b617-7bf4cd1ba8c5",
+      "score": 100,
+      "title": "Made of Iron",
+      "length": 206066,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Ana Egge",
+          "artist": {
+            "id": "aca491ac-34bf-4332-a1b6-2ebf288db65e",
+            "name": "Ana Egge",
+            "sort-name": "Egge, Ana"
+          }
+        }
+      ],
+      "first-release-date": "1997",
+      "releases": [
+        {
+          "id": "6462cc8c-fe16-4e08-a499-599ec38c4a0d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "River Under the Road",
+          "status": "Official",
+          "release-group": {
+            "id": "b42e2f6e-587b-37f7-b750-362ec21a1e52",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "River Under the Road",
+            "primary-type": "Album"
+          },
+          "date": "1997",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1997",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "214e587d-907f-34e0-b7c6-35d1528b2ea5",
+                  "number": "8",
+                  "title": "Made of Iron",
+                  "length": 206066
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e066ff22-c55c-40f1-b581-30f4db111349",
+      "score": 100,
+      "title": "Life of Crime",
+      "length": 158000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Demonics",
+          "artist": {
+            "id": "e300c8b0-d6fd-48b2-ac66-fc59fd797e0e",
+            "name": "The Demonics",
+            "sort-name": "Demonics, The",
+            "aliases": [
+              {
+                "sort-name": "Demonics",
+                "name": "Demonics",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1997",
+      "releases": [
+        {
+          "id": "cec82553-ad8c-432a-b2e1-8ca5af569f7c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "R.I.P.S.T.P.",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Demonics",
+              "artist": {
+                "id": "e300c8b0-d6fd-48b2-ac66-fc59fd797e0e",
+                "name": "The Demonics",
+                "sort-name": "Demonics, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "85c4956d-2c95-3a61-95df-1e062f098349",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "R.I.P.S.T.P.",
+            "primary-type": "Single"
+          },
+          "date": "1997",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1997",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "position": 1,
+              "format": "7\" Vinyl",
+              "track": [
+                {
+                  "id": "dd9fdf6b-345f-3fb0-97e6-6ba77d3fcd0c",
+                  "number": "B1",
+                  "title": "Life of Crime",
+                  "length": 158000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "188b0889-f718-441f-bb2c-91f4aa9115dd",
+      "score": 100,
+      "title": "Reefer Smokin' Woman",
+      "length": 294000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Chris Whiteley",
+          "artist": {
+            "id": "26cbd8b4-b636-48e0-82f9-e7ffc6fc3f03",
+            "name": "Chris Whiteley",
+            "sort-name": "Whiteley, Chris",
+            "aliases": [
+              {
+                "sort-name": "Whitely, Chris",
+                "name": "Chris Whitely",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1999",
+      "releases": [
+        {
+          "id": "a4c97abd-fa36-4461-924c-04e6c55fa59c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Blues Party",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Chris Whiteley",
+              "artist": {
+                "id": "26cbd8b4-b636-48e0-82f9-e7ffc6fc3f03",
+                "name": "Chris Whiteley",
+                "sort-name": "Whiteley, Chris"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e17929b6-b69c-35a5-9144-e067709caabb",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Blues Party",
+            "primary-type": "Album"
+          },
+          "date": "1999",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1999",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b2f42d1d-a043-37d3-8b7b-7864dcd0b0bd",
+                  "number": "11",
+                  "title": "Reefer Smokin' Woman",
+                  "length": 294000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "744befc8-3034-4df9-a0f2-2936d1400940",
+      "score": 100,
+      "title": "Too Marvelous for Words",
+      "length": 315000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Sal Salvador",
+          "artist": {
+            "id": "b3467552-4ad8-4ceb-a93f-2a06e71d01f6",
+            "name": "Sal Salvador",
+            "sort-name": "Salvador, Sal"
+          }
+        }
+      ],
+      "first-release-date": "1998",
+      "releases": [
+        {
+          "id": "1e00fcdd-791d-4fff-8b60-e3c491b207f9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Sal Salvador Quintet & Quartet",
+          "status": "Official",
+          "release-group": {
+            "id": "0622c7a1-2191-3a3b-820c-b38ed0456606",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Sal Salvador Quintet & Quartet",
+            "primary-type": "Album"
+          },
+          "date": "1998",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1998",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "16a33853-c2f0-3c3f-837d-d9762a8cf0ee",
+                  "number": "5",
+                  "title": "Too Marvelous for Words",
+                  "length": 315000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88f976cc-1f2d-4804-a0e9-6437ff6a9b23",
+      "score": 100,
+      "title": "Everybody (2 Bad Mice remix)",
+      "length": 350000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Altern 8",
+          "artist": {
+            "id": "3b6243aa-3814-49a0-8505-4bd6d6183d46",
+            "name": "Altern 8",
+            "sort-name": "Altern 8",
+            "aliases": [
+              {
+                "sort-name": "Altern8",
+                "name": "Altern8",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Altern-8",
+                "name": "Altern-8",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1993",
+      "releases": [
+        {
+          "id": "a75a256b-1052-4a83-ad53-889503271ce5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Everybody",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Altern 8",
+              "artist": {
+                "id": "3b6243aa-3814-49a0-8505-4bd6d6183d46",
+                "name": "Altern 8",
+                "sort-name": "Altern 8"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d0745d22-2f29-3942-b9ab-d72f27d3d0ba",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Everybody",
+            "primary-type": "Single"
+          },
+          "date": "1993",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "1993",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "c95aefbd-f73e-3118-8c19-fa5c45bf511c",
+                  "number": "A2",
+                  "title": "Everybody (2 Bad Mice remix)",
+                  "length": 350000
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "be24b743-0732-40f5-9520-229f31594a92",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Full-On Mask Hysteria - Remastered Edition",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Altern 8",
+              "artist": {
+                "id": "3b6243aa-3814-49a0-8505-4bd6d6183d46",
+                "name": "Altern 8",
+                "sort-name": "Altern 8"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3181d4d3-adf7-3ca6-9998-01aad6f1b828",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Full On .. Mask Hysteria",
+            "primary-type": "Album"
+          },
+          "date": "2016-09-30",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2016-09-30",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "bf0d1bdc-1ae9-4a9e-adc7-2e5229aef39f",
+                  "number": "8",
+                  "title": "Everybody (2 Bad Mice remix)",
+                  "length": 350240
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 7
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "old shool hardcore & rave & techno"
+        }
+      ]
+    },
+    {
+      "id": "62c221d9-4f3a-49b2-ae22-46b6ac048678",
+      "score": 100,
+      "title": "Days of Wine and Roses",
+      "length": 516000,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " & ",
+          "name": "Jan Johansson",
+          "artist": {
+            "id": "d18b2068-3c1d-4c76-81af-9ed4604062b5",
+            "name": "Jan Johansson",
+            "sort-name": "Johansson, Jan",
+            "disambiguation": "\"Janka\""
+          }
+        },
+        {
+          "name": "Red Mitchell",
+          "artist": {
+            "id": "3a4376e4-5a1a-46f1-a1b6-927d57ba38d6",
+            "name": "Red Mitchell",
+            "sort-name": "Mitchell, Red",
+            "disambiguation": "jazz double-bassist, composer and lyricist",
+            "aliases": [
+              {
+                "sort-name": "Keith Moore Mitchell",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Keith Moore Mitchell",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Keith Mitchell",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Keith Mitchell",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1994",
+      "releases": [
+        {
+          "id": "422fbb06-9a91-44a7-8314-589948a718c6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Blaus",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "joinphrase": " & ",
+              "name": "Jan Johansson",
+              "artist": {
+                "id": "d18b2068-3c1d-4c76-81af-9ed4604062b5",
+                "name": "Jan Johansson",
+                "sort-name": "Johansson, Jan",
+                "disambiguation": "\"Janka\""
+              }
+            },
+            {
+              "name": "Red Mitchell",
+              "artist": {
+                "id": "3a4376e4-5a1a-46f1-a1b6-927d57ba38d6",
+                "name": "Red Mitchell",
+                "sort-name": "Mitchell, Red",
+                "disambiguation": "jazz double-bassist, composer and lyricist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ed8f64b1-fe34-320c-9492-7cc6e0373012",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Blaus",
+            "primary-type": "Album"
+          },
+          "date": "1994",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "1994",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d98a3a68-11a3-3634-9481-5e0804390a90",
+                  "number": "8",
+                  "title": "Days of Wine and Roses",
+                  "length": 516000
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9203a876-2bad-43de-8f86-b925c3802b76",
+      "score": 100,
+      "title": "Without Grace",
+      "length": 365533,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Miscreant",
+          "artist": {
+            "id": "0fa80589-ed51-4884-a0d7-e593223f0bf2",
+            "name": "Miscreant",
+            "sort-name": "Miscreant",
+            "disambiguation": "Swedish death metal"
+          }
+        }
+      ],
+      "first-release-date": "1994",
+      "releases": [
+        {
+          "id": "014a946d-e5b6-4b50-9742-35970629fdd2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Dreaming Ice",
+          "status": "Official",
+          "release-group": {
+            "id": "c685fd15-61e7-34a1-8b51-87dbe613713f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Dreaming Ice",
+            "primary-type": "Album"
+          },
+          "date": "1994",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "1994",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "102e9d14-311b-34f6-8899-6996c71fe920",
+                  "number": "9",
+                  "title": "Without Grace",
+                  "length": 365533
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "db661428-5193-46d1-b1bf-2c2918af2f1b",
+      "score": 100,
+      "title": "(Oooh Looka There) Ain't She Pretty",
+      "length": 109746,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Col James",
+          "artist": {
+            "id": "cb50908e-cf37-473c-8476-8975c9f9a7cc",
+            "name": "Col James",
+            "sort-name": "James, Col"
+          }
+        }
+      ],
+      "first-release-date": "1997",
+      "releases": [
+        {
+          "id": "6d991a19-b39f-4bf8-9622-42b708145e42",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "count": 1,
+          "title": "Best of Blend Rock' n' Roll Collection, Volume 5",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "21436882-b9af-488d-a224-dd43d60299d5",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best of Blend Rock' n' Roll Collection, Volume 5",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1997",
+          "country": "BE",
+          "release-events": [
+            {
+              "date": "1997",
+              "area": {
+                "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                "name": "Belgium",
+                "sort-name": "Belgium",
+                "iso-3166-1-codes": [
+                  "BE"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e3690ea7-ea38-31e8-a0e9-f2b43792f7c8",
+                  "number": "16",
+                  "title": "(Oooh Looka There) Ain't She Pretty",
+                  "length": 109746
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9566e000-3ba0-4898-a69c-5f8a24b6b09e",
+      "score": 100,
+      "title": "Frihetsk\u00e4mpar",
+      "length": 286093,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Anders F R\u00f6nnblom",
+          "artist": {
+            "id": "097c5b7d-c0e8-4951-8a8a-a8ea43286413",
+            "name": "Anders F R\u00f6nnblom",
+            "sort-name": "R\u00f6nnblom, Anders F"
+          }
+        }
+      ],
+      "first-release-date": "1994",
+      "releases": [
+        {
+          "id": "28064ca4-0825-4448-a2d2-2b8844ef234a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Caviar Pizza",
+          "status": "Official",
+          "release-group": {
+            "id": "45428926-726d-48d8-b1ce-11cca8d95c9c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Caviar Pizza",
+            "primary-type": "Album"
+          },
+          "date": "1994",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "1994",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "a9a51cb1-1da3-39f9-93cb-439c3eca98fa",
+                  "number": "11",
+                  "title": "Frihetsk\u00e4mpar",
+                  "length": 286093
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "792fef6a-a89c-4687-a1e3-31e17c51eaec",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 18,
+          "title": "F-box : Text & musik m.m. 1964\u20132004",
+          "status": "Official",
+          "release-group": {
+            "id": "245fb1ef-58d1-4324-83c6-5f603a026210",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "F-box : Text & musik m.m. 1964\u20132004",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "2004",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 258,
+          "media": [
+            {
+              "position": 16,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5958d78d-8caf-3971-a95d-0b13c4a213cb",
+                  "number": "11",
+                  "title": "Frihetsk\u00e4mpar",
+                  "length": 286093
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83d7da0c-a6ed-4d88-9859-80db84bbfb72",
+      "score": 100,
+      "title": "Kanchadalayadakshi",
+      "length": 324808,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "KS Gopalakrishnan",
+          "artist": {
+            "id": "e081e79a-0149-45d7-9818-62bf93c793fa",
+            "name": "K.S. Gopalakrishnan",
+            "sort-name": "K.S. Gopalakrishnan",
+            "aliases": [
+              {
+                "sort-name": "KS Gopalakrishnan",
+                "name": "KS Gopalakrishnan",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1999",
+      "releases": [
+        {
+          "id": "ae5a5092-bd51-42fd-ac24-c1815772b48d",
+          "count": 1,
+          "title": "Nada Bramha Sangeetha Saba, Mysore on 5th June 1999.",
+          "artist-credit": [
+            {
+              "name": "KS Gopalakrishnan",
+              "artist": {
+                "id": "e081e79a-0149-45d7-9818-62bf93c793fa",
+                "name": "K.S. Gopalakrishnan",
+                "sort-name": "K.S. Gopalakrishnan"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "72b962a2-e664-46b7-bd5a-1dbf03f5b531",
+            "title": "Nada Bramha Sangeetha Saba, Mysore on 5th June 1999.",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1999",
+          "country": "IN",
+          "release-events": [
+            {
+              "date": "1999",
+              "area": {
+                "id": "d31a9a15-537f-3669-ad53-25753ddd2772",
+                "name": "India",
+                "sort-name": "India",
+                "iso-3166-1-codes": [
+                  "IN"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "position": 1,
+              "track": [
+                {
+                  "id": "9507cb40-0ab8-37a0-b9b6-96efc7d031a5",
+                  "number": "4",
+                  "title": "Kanchadalayadakshi",
+                  "length": 324808
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 3
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "raaga kamalamanohari"
+        }
+      ]
+    },
+    {
+      "id": "96e844d4-dd8a-41b1-b0e2-e886538b43ee",
+      "score": 100,
+      "title": "Open the Door",
+      "length": 137200,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Nappy Brown",
+          "artist": {
+            "id": "8f9fe421-4255-485e-8180-638fbe1f3401",
+            "name": "Nappy Brown",
+            "sort-name": "Brown, Nappy",
+            "aliases": [
+              {
+                "sort-name": "Culp, Napoleon Brown Goodson",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Napoleon Brown Goodson Culp",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Brown, Rev. Napoleon",
+                "name": "Rev. Napoleon Brown",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Happy Brown",
+                "name": "Happy Brown",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1997",
+      "releases": [
+        {
+          "id": "478bb104-8b31-4444-9bb7-87b1e2342d03",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "count": 1,
+          "title": "Best of Blend Rock' n' Roll Collection, Volume 6",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "68482c38-a3ec-48d6-b463-59dfa41b6c91",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best of Blend Rock' n' Roll Collection, Volume 6",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1997",
+          "country": "BE",
+          "release-events": [
+            {
+              "date": "1997",
+              "area": {
+                "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                "name": "Belgium",
+                "sort-name": "Belgium",
+                "iso-3166-1-codes": [
+                  "BE"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a4cfe70c-5040-3a64-b9f6-d665f2091173",
+                  "number": "22",
+                  "title": "Open the Door",
+                  "length": 137200
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e40d279c-59a7-4ebc-8332-4186abbfd522",
+      "score": 100,
+      "title": "Hot Pepper (instrumental)",
+      "length": 120026,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Floyd Cramer",
+          "artist": {
+            "id": "a7921b29-671a-4378-8a61-539cf73d7588",
+            "name": "Floyd Cramer",
+            "sort-name": "Cramer, Floyd",
+            "aliases": [
+              {
+                "sort-name": "Cramer jr.",
+                "name": "Cramer jr.",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Floyd Crammer",
+                "name": "Floyd Crammer",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1997",
+      "releases": [
+        {
+          "id": "6d991a19-b39f-4bf8-9622-42b708145e42",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "count": 1,
+          "title": "Best of Blend Rock' n' Roll Collection, Volume 5",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "21436882-b9af-488d-a224-dd43d60299d5",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best of Blend Rock' n' Roll Collection, Volume 5",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1997",
+          "country": "BE",
+          "release-events": [
+            {
+              "date": "1997",
+              "area": {
+                "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                "name": "Belgium",
+                "sort-name": "Belgium",
+                "iso-3166-1-codes": [
+                  "BE"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ff98dcb5-bffc-361d-ba6e-923259309d69",
+                  "number": "17",
+                  "title": "Hot Pepper (instrumental)",
+                  "length": 120026
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "72f0744e-ce03-4928-9663-ca2aadfe156a",
+      "score": 100,
+      "title": "Fabulous Cure",
+      "length": 116733,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Dickie Pride",
+          "artist": {
+            "id": "4a2329ee-ddd5-4fdd-8d8b-48ae831a4f53",
+            "name": "Dickie Pride",
+            "sort-name": "Pride, Dickie",
+            "aliases": [
+              {
+                "sort-name": "Kneller, Richard Charles",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Richard Charles Kneller",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Knellar, Richard Charles",
+                "name": "Richard Charles Knellar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1997",
+      "releases": [
+        {
+          "id": "6d991a19-b39f-4bf8-9622-42b708145e42",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "count": 1,
+          "title": "Best of Blend Rock' n' Roll Collection, Volume 5",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "21436882-b9af-488d-a224-dd43d60299d5",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best of Blend Rock' n' Roll Collection, Volume 5",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1997",
+          "country": "BE",
+          "release-events": [
+            {
+              "date": "1997",
+              "area": {
+                "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                "name": "Belgium",
+                "sort-name": "Belgium",
+                "iso-3166-1-codes": [
+                  "BE"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1a23b9c6-a04d-392f-a35c-07efc67a8057",
+                  "number": "20",
+                  "title": "Fabulous Cure",
+                  "length": 116733
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f245ae18-dcea-4f34-a951-3c4f7aed1f31",
+      "score": 100,
+      "title": "New York, New York",
+      "length": 200506,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "John Williams",
+          "artist": {
+            "id": "53b106e7-0cc6-42cc-ac95-ed8d30a3a98e",
+            "name": "John Williams",
+            "sort-name": "Williams, John",
+            "disambiguation": "American score composer",
+            "aliases": [
+              {
+                "sort-name": "\u30b8\u30e7\u30f3 \u30a6\u30a3\u30ea\u30a2\u30e0\u30ba",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "\u30b8\u30e7\u30f3 \u30a6\u30a3\u30ea\u30a2\u30e0\u30ba",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Towner Williams",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Towner Williams",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Towner",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Towner",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "John Towner",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "John Towner",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Williams, John",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "John Williams",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Williams, Johnny",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Johnny Williams",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Williams",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Williams",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "John Willams",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "John Willams",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "John T. Williams",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "John T. Williams",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "John William",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "John William",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30b8\u30e7\u30f3\u30fb\u30a6\u30a3\u30ea\u30a2\u30e0\u30ba",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "\u30b8\u30e7\u30f3\u30fb\u30a6\u30a3\u30ea\u30a2\u30e0\u30ba",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "J. Williams",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "J. Williams",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Jhon Williams",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Jhon Williams",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "John Wiliams",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "John Wiliams",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "John Williems",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "John Williems",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Towner Williams, John",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "John Towner Williams",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1932-02-08",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1992",
+      "releases": [
+        {
+          "id": "5469386c-ea39-47f5-a24a-4acf23a55431",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Over the Rainbow: Songs From the Movies",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "joinphrase": " & ",
+              "name": "John Williams",
+              "artist": {
+                "id": "53b106e7-0cc6-42cc-ac95-ed8d30a3a98e",
+                "name": "John Williams",
+                "sort-name": "Williams, John",
+                "disambiguation": "American score composer"
+              }
+            },
+            {
+              "name": "Boston Pops Orchestra",
+              "artist": {
+                "id": "cba412a5-4f8d-4999-827a-92b63e112892",
+                "name": "Boston Pops Orchestra",
+                "sort-name": "Boston Pops Orchestra"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e3fe8090-95c7-49ca-9950-2c23aae7e60d",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Over the Rainbow: Songs From the Movies",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1992",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1992",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1a0f8eac-5010-3925-966a-9507df35d593",
+                  "number": "8",
+                  "title": "New York, New York",
+                  "length": 200506
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2842cfc-7a3c-40f5-bdda-b0b5d02961a2",
+      "score": 100,
+      "artist-credit-id": "0d39a8d9-24e7-3a6a-be4a-850b224dc1d0",
+      "title": "Roberto Zucco Wersja 2",
+      "length": 152066,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Tomasz Sta\u0144ko",
+          "artist": {
+            "id": "f5d729a4-66c0-4500-bd43-10de200372a3",
+            "name": "Tomasz Sta\u0144ko",
+            "sort-name": "Sta\u0144ko, Tomasz"
+          }
+        }
+      ],
+      "first-release-date": "1995",
+      "releases": [
+        {
+          "id": "504817a7-b0aa-4d25-98d5-138177c9f460",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Roberto Zucco",
+          "status": "Official",
+          "release-group": {
+            "id": "e4d6d8bd-8726-3144-aa1f-5be863f83662",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Roberto Zucco",
+            "primary-type": "Album"
+          },
+          "date": "1995",
+          "country": "PL",
+          "release-events": [
+            {
+              "date": "1995",
+              "area": {
+                "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+                "name": "Poland",
+                "sort-name": "Poland",
+                "iso-3166-1-codes": [
+                  "PL"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "70009268-bdc1-340b-8449-352e7135be98",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e901b914-be41-47ff-9a85-6c75e68bb6a8",
+                  "number": "3",
+                  "title": "Roberto Zucco (Wersja 2)",
+                  "length": 152066
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "aecb1733-a762-462f-b3e1-a3d043aeea00",
+          "count": 1,
+          "title": "Robert Zucco",
+          "release-group": {
+            "id": "e4d6d8bd-8726-3144-aa1f-5be863f83662",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Roberto Zucco",
+            "primary-type": "Album"
+          },
+          "track-count": 16,
+          "media": [
+            {
+              "id": "51a04a78-8eac-3127-ae1d-7a11923babf2",
+              "position": 1,
+              "track": [
+                {
+                  "id": "f7bc6f3b-ee3d-3fe8-a840-694ab8b882b0",
+                  "number": "3",
+                  "title": "Roberto Zucco Wersja 2",
+                  "length": 152066
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9c45c4e1-2b79-4b69-af35-77d56831abae",
+      "score": 100,
+      "artist-credit-id": "0d39a8d9-24e7-3a6a-be4a-850b224dc1d0",
+      "title": "Blue Velvet Wersja 4",
+      "length": 177266,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Tomasz Sta\u0144ko",
+          "artist": {
+            "id": "f5d729a4-66c0-4500-bd43-10de200372a3",
+            "name": "Tomasz Sta\u0144ko",
+            "sort-name": "Sta\u0144ko, Tomasz"
+          }
+        }
+      ],
+      "first-release-date": "1995",
+      "releases": [
+        {
+          "id": "504817a7-b0aa-4d25-98d5-138177c9f460",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Roberto Zucco",
+          "status": "Official",
+          "release-group": {
+            "id": "e4d6d8bd-8726-3144-aa1f-5be863f83662",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Roberto Zucco",
+            "primary-type": "Album"
+          },
+          "date": "1995",
+          "country": "PL",
+          "release-events": [
+            {
+              "date": "1995",
+              "area": {
+                "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+                "name": "Poland",
+                "sort-name": "Poland",
+                "iso-3166-1-codes": [
+                  "PL"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "70009268-bdc1-340b-8449-352e7135be98",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "62006874-7d36-498a-9a8a-1868ac6f083e",
+                  "number": "10",
+                  "title": "Blue Velvet (Wersja 4)",
+                  "length": 177266
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "aecb1733-a762-462f-b3e1-a3d043aeea00",
+          "count": 1,
+          "title": "Robert Zucco",
+          "release-group": {
+            "id": "e4d6d8bd-8726-3144-aa1f-5be863f83662",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Roberto Zucco",
+            "primary-type": "Album"
+          },
+          "track-count": 16,
+          "media": [
+            {
+              "id": "51a04a78-8eac-3127-ae1d-7a11923babf2",
+              "position": 1,
+              "track": [
+                {
+                  "id": "94caea70-6740-3631-b04d-c18f6e365759",
+                  "number": "10",
+                  "title": "Blue Velvet Wersja 4",
+                  "length": 177266
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08944871-3faf-41d9-b5bc-8dbf6e4df295",
+      "score": 100,
+      "artist-credit-id": "0d39a8d9-24e7-3a6a-be4a-850b224dc1d0",
+      "title": "Roberto Zucco Wersja 9",
+      "length": 160800,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Tomasz Sta\u0144ko",
+          "artist": {
+            "id": "f5d729a4-66c0-4500-bd43-10de200372a3",
+            "name": "Tomasz Sta\u0144ko",
+            "sort-name": "Sta\u0144ko, Tomasz"
+          }
+        }
+      ],
+      "first-release-date": "1995",
+      "releases": [
+        {
+          "id": "504817a7-b0aa-4d25-98d5-138177c9f460",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Roberto Zucco",
+          "status": "Official",
+          "release-group": {
+            "id": "e4d6d8bd-8726-3144-aa1f-5be863f83662",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Roberto Zucco",
+            "primary-type": "Album"
+          },
+          "date": "1995",
+          "country": "PL",
+          "release-events": [
+            {
+              "date": "1995",
+              "area": {
+                "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+                "name": "Poland",
+                "sort-name": "Poland",
+                "iso-3166-1-codes": [
+                  "PL"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "70009268-bdc1-340b-8449-352e7135be98",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d09cee28-cfa0-4865-a4bc-498bb44dd550",
+                  "number": "12",
+                  "title": "Roberto Zucco (Wersja 9)",
+                  "length": 160800
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "aecb1733-a762-462f-b3e1-a3d043aeea00",
+          "count": 1,
+          "title": "Robert Zucco",
+          "release-group": {
+            "id": "e4d6d8bd-8726-3144-aa1f-5be863f83662",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Roberto Zucco",
+            "primary-type": "Album"
+          },
+          "track-count": 16,
+          "media": [
+            {
+              "id": "51a04a78-8eac-3127-ae1d-7a11923babf2",
+              "position": 1,
+              "track": [
+                {
+                  "id": "8383a6eb-5ba5-3f5f-b66b-5a31dfd48d83",
+                  "number": "12",
+                  "title": "Roberto Zucco Wersja 9",
+                  "length": 160800
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3bbac624-f888-421b-86d7-12e10141a4ef",
+      "score": 100,
+      "artist-credit-id": "67348788-2026-3b37-9f48-50fad5c940e0",
+      "title": "Phantom of the Opera",
+      "length": 410000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Paul Di\u2019Anno",
+          "artist": {
+            "id": "85994c53-062f-462e-95fd-3a521dd1fcd2",
+            "name": "Paul Di\u2019Anno",
+            "sort-name": "Di\u2019Anno, Paul",
+            "aliases": [
+              {
+                "sort-name": "Paul Dianno",
+                "name": "Paul Dianno",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1999",
+      "releases": [
+        {
+          "id": "28907edf-29d0-42d8-a077-e9c417c10cd5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "A Tribute to Iron Maiden \u2013 Celebrating the Beast, Vol. 1: The Evil That Men Do",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "27c46dda-5adb-4782-9bcf-5cffb1d663b5",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "A Tribute to Iron Maiden \u2013 Celebrating the Beast, Vol. 1: The Evil That Men Do",
+            "primary-type": "Album"
+          },
+          "date": "2014-12-19",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2014-12-19",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "7427e61d-112a-35f7-83e8-69dea67e9f93",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b146275e-b2df-488f-a0ab-0e6b9f09e316",
+                  "number": "7",
+                  "title": "Phantom of the Opera",
+                  "length": 409560
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "5a02ab15-8a9c-4ed1-9fb6-a710a92e5a68",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 3,
+          "title": "The Many Faces of Iron Maiden",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1d1a32af-a744-4b71-b14d-5e9645ca4a6e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Many Faces of Iron Maiden",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2016-09-16",
+          "country": "MX",
+          "release-events": [
+            {
+              "date": "2016-09-16",
+              "area": {
+                "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+                "name": "Mexico",
+                "sort-name": "Mexico",
+                "iso-3166-1-codes": [
+                  "MX"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "e08dfc6a-edc0-3e09-8347-b358dfc0df55",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "57025666-153f-4e9a-85fa-6994a2c7bbd7",
+                  "number": "5",
+                  "title": "Phantom of the Opera",
+                  "length": 410000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "e1db8f83-5ff3-4c77-80c6-17732c1745f9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Anthrax & The History of Thrash Metal (The Gold Collection)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4b320f83-a1b5-33de-9b67-1466bfd05043",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Anthrax & The History of Thrash Metal (The Gold Collection)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "id": "4b3eeb59-48f3-370c-a458-91fb8941d00b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e14f0697-d09c-4ae2-b7f4-0d4cc5e39643",
+                  "number": "8",
+                  "title": "Phantom of the Opera",
+                  "length": 414000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "f8de48d6-9237-4cb9-960a-2a45429c503e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Just Like\u2026 A Tribute to Iron Maiden",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "acf503f0-6b14-3b7e-a712-4316c6d08c2b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "A Tribute to Iron Maiden: 666 the Number One Beast",
+            "primary-type": "Album"
+          },
+          "date": "2010-10-01",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2010-10-01",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "07e2ea34-c419-3d54-b825-1d7f144274c0",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a68d0fe3-6716-4bfc-8596-956139d26166",
+                  "number": "7",
+                  "title": "Phantom of the Opera",
+                  "length": 409000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "e1645b24-8eef-452a-8cf0-dbdeaab5fc37",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "A Tribute to Iron Maiden: 666 the Number One Beast",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "acf503f0-6b14-3b7e-a712-4316c6d08c2b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "A Tribute to Iron Maiden: 666 the Number One Beast",
+            "primary-type": "Album"
+          },
+          "date": "1999",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1999",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "ac4795c1-385f-3292-bfc9-f9cf654edecd",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "094bef32-894d-3d47-8113-3909aa845c34",
+                  "number": "7",
+                  "title": "Phantom of the Opera",
+                  "length": 410733
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
