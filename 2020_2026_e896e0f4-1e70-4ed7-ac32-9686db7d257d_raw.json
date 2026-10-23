@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 5333785,
+      "collectionId": 285913785,
+      "trackId": 285914049,
+      "artistName": "Acker Bilk & His Paramount Jazz Band",
+      "collectionName": "The Best of British Jazz from the BBC Jazz Club, Vol. 1",
+      "trackName": "Maryland, My Maryland",
+      "collectionCensoredName": "The Best of British Jazz from the BBC Jazz Club, Vol. 1",
+      "trackCensoredName": "Maryland, My Maryland",
+      "collectionArtistId": 825559,
+      "collectionArtistName": "Various Artists",
+      "artistViewUrl": "https://music.apple.com/us/artist/acker-bilk-his-paramount-jazz-band/5333785?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/maryland-my-maryland/285913785?i=285914049&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/maryland-my-maryland/285913785?i=285914049&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music5/v4/71/45/00/714500fd-4429-4456-b7f6-dfc4c693b2f4/mzaf_6310411681975321714.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music/46/7d/cd/mzi.alxhcvci.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music/46/7d/cd/mzi.alxhcvci.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/46/7d/cd/mzi.alxhcvci.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 0.99,
+      "releaseDate": "2008-07-16T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 20,
+      "trackNumber": 15,
+      "trackTimeMillis": 250600,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Jazz",
+      "isStreamable": true
+    }
+  ]
+}

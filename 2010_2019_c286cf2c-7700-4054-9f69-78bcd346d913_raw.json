@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 431065746,
+      "collectionId": 531746613,
+      "trackId": 531746813,
+      "artistName": "soda.",
+      "collectionName": "Road to Eternity - EP",
+      "trackName": "Translating the Invisible",
+      "collectionCensoredName": "Road to Eternity - EP",
+      "trackCensoredName": "Translating the Invisible",
+      "artistViewUrl": "https://music.apple.com/us/artist/soda/431065746?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/translating-the-invisible/531746613?i=531746813&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/translating-the-invisible/531746613?i=531746813&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/ff/c6/41/mzi.scxwejdu.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5f/49/a6/5f49a67f-6152-da6b-1148-f68a738bbd8f/cover.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5f/49/a6/5f49a67f-6152-da6b-1148-f68a738bbd8f/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5f/49/a6/5f49a67f-6152-da6b-1148-f68a738bbd8f/cover.jpg/100x100bb.jpg",
+      "collectionPrice": 4.95,
+      "trackPrice": 0.99,
+      "releaseDate": "2012-06-06T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 5,
+      "trackNumber": 1,
+      "trackTimeMillis": 195749,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Electronic",
+      "isStreamable": true
+    }
+  ]
+}

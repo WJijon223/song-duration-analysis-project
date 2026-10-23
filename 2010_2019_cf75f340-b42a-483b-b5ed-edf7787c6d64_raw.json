@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 155773014,
+      "collectionId": 1685014100,
+      "trackId": 1685014111,
+      "artistName": "Stamp",
+      "collectionName": "STAMPSTH",
+      "trackName": "Everything Is You (feat. Mayu Wakisaka)",
+      "collectionCensoredName": "STAMPSTH",
+      "trackCensoredName": "Everything Is You (feat. Mayu Wakisaka)",
+      "artistViewUrl": "https://music.apple.com/us/artist/stamp/155773014?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/everything-is-you-feat-mayu-wakisaka/1685014100?i=1685014111&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/everything-is-you-feat-mayu-wakisaka/1685014100?i=1685014111&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3a/50/2b/3a502b61-c592-52e9-eec3-27b91ec88c9c/mzaf_3557675521386005412.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/1b/9c/2a1b9caa-46bf-ccec-1fc8-5011ac421acb/191773464943.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/1b/9c/2a1b9caa-46bf-ccec-1fc8-5011ac421acb/191773464943.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/1b/9c/2a1b9caa-46bf-ccec-1fc8-5011ac421acb/191773464943.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2017-07-26T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 7,
+      "trackNumber": 6,
+      "trackTimeMillis": 308000,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Pop",
+      "isStreamable": true
+    }
+  ]
+}

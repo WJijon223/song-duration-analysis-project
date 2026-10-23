@@ -1,0 +1,40 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 217625996,
+      "collectionId": 217625978,
+      "trackId": 217625986,
+      "artistName": "Johnny Ramone, Marky Ramone & Dee Dee Ramone",
+      "collectionName": "Ramones' Solo Performances - EP",
+      "trackName": "Cherry Bomb (feat. Cherry Currie & Wayne Krammer)",
+      "collectionCensoredName": "Ramones' Solo Performances - EP",
+      "trackCensoredName": "Cherry Bomb (feat. Cherry Currie & Wayne Krammer)",
+      "collectionArtistId": 137079445,
+      "collectionArtistViewUrl": "https://music.apple.com/us/artist/johnny-ramone/137079445?uo=4",
+      "artistViewUrl": "https://music.apple.com/us/artist/johnny-ramone-marky-ramone-dee-dee-ramone/217625996?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/cherry-bomb-feat-cherry-currie-wayne-krammer/217625978?i=217625986&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/cherry-bomb-feat-cherry-currie-wayne-krammer/217625978?i=217625986&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/11/ba/70/11ba701e-82c9-0f1e-32dc-a5c29cdef7e3/mzaf_11458918865503522350.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music/3a/15/4c/mzi.pvumgnjo.tif/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music/3a/15/4c/mzi.pvumgnjo.tif/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/3a/15/4c/mzi.pvumgnjo.tif/100x100bb.jpg",
+      "collectionPrice": 3.99,
+      "trackPrice": 0.99,
+      "releaseDate": "2007-01-01T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 5,
+      "trackNumber": 1,
+      "trackTimeMillis": 187733,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Alternative",
+      "isStreamable": true
+    }
+  ]
+}

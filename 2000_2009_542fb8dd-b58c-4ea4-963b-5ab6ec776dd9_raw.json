@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 64850345,
+      "collectionId": 263685984,
+      "trackId": 263686319,
+      "artistName": "Peter LeMarc",
+      "collectionName": "K\u00e4rlek I Tystnadens Tid",
+      "trackName": "Alldeles S\u00f6der Om Ingenstans",
+      "collectionCensoredName": "K\u00e4rlek I Tystnadens Tid",
+      "trackCensoredName": "Alldeles S\u00f6der Om Ingenstans",
+      "artistViewUrl": "https://music.apple.com/us/artist/peter-lemarc/64850345?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/alldeles-s%C3%B6der-om-ingenstans/263685984?i=263686319&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/alldeles-s%C3%B6der-om-ingenstans/263685984?i=263686319&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/df/ca/7fdfca1b-5925-b79a-fb00-39da5f8ac128/mzaf_4342802454475884426.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/e4/e9/cde4e97e-613d-22d2-fa63-6e1379f3e0be/886971365320.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/e4/e9/cde4e97e-613d-22d2-fa63-6e1379f3e0be/886971365320.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/e4/e9/cde4e97e-613d-22d2-fa63-6e1379f3e0be/886971365320.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2007-09-24T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 13,
+      "trackNumber": 6,
+      "trackTimeMillis": 244893,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Worldwide",
+      "isStreamable": true
+    }
+  ]
+}

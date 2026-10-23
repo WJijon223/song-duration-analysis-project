@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 542512231,
+      "collectionId": 542512230,
+      "trackId": 542512241,
+      "artistName": "Brigid Mhairi",
+      "collectionName": "The Gathering",
+      "trackName": "Loch Lomond",
+      "collectionCensoredName": "The Gathering",
+      "trackCensoredName": "Loch Lomond",
+      "artistViewUrl": "https://music.apple.com/us/artist/brigid-mhairi/542512231?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/loch-lomond/542512230?i=542512241&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/loch-lomond/542512230?i=542512241&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/19/0e/3e190e95-8c84-1c91-b14a-dbe7e4137bd4/mzaf_12073085021921270907.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ae/95/a8/ae95a88b-7762-f264-4522-82061f03756a/885767134270.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ae/95/a8/ae95a88b-7762-f264-4522-82061f03756a/885767134270.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ae/95/a8/ae95a88b-7762-f264-4522-82061f03756a/885767134270.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 0.99,
+      "releaseDate": "2012-07-04T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 12,
+      "trackNumber": 8,
+      "trackTimeMillis": 249967,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Singer/Songwriter",
+      "isStreamable": true
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 271741779,
+      "collectionId": 943364955,
+      "trackId": 943364968,
+      "artistName": "Ruben de Ronde",
+      "collectionName": "From Sao Paulo To Sofia (Remixed)",
+      "trackName": "A-Tention (Bram Troost Radio Edit)",
+      "collectionCensoredName": "From Sao Paulo To Sofia (Remixed)",
+      "trackCensoredName": "A-Tention (Bram Troost Radio Edit)",
+      "artistViewUrl": "https://music.apple.com/us/artist/ruben-de-ronde/271741779?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/a-tention-bram-troost-radio-edit/943364955?i=943364968&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/a-tention-bram-troost-radio-edit/943364955?i=943364968&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/aa/1f/42/aa1f421f-4bc5-5b94-e859-316f9b9e122d/mzaf_5185547765108342571.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/ac/cb/d1/accbd14a-c257-2a41-45ef-5ffdb57ab7f2/8718522053269.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/ac/cb/d1/accbd14a-c257-2a41-45ef-5ffdb57ab7f2/8718522053269.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/ac/cb/d1/accbd14a-c257-2a41-45ef-5ffdb57ab7f2/8718522053269.jpg/100x100bb.jpg",
+      "collectionPrice": 15.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2014-11-24T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 2,
+      "discNumber": 1,
+      "trackCount": 12,
+      "trackNumber": 11,
+      "trackTimeMillis": 172000,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Trance",
+      "isStreamable": true
+    }
+  ]
+}
