@@ -1,0 +1,786 @@
+[
+  {
+    "decade": 1970,
+    "year": 1970,
+    "year_rank": 1,
+    "title": "\"Bridge Over Troubled Water\"",
+    "artist": "Simon & Garfunkel"
+  },
+  {
+    "decade": 1970,
+    "year": 1970,
+    "year_rank": 2,
+    "title": "\"(They Long to Be) Close to You\"",
+    "artist": "The Carpenters"
+  },
+  {
+    "decade": 1970,
+    "year": 1971,
+    "year_rank": 1,
+    "title": "\"Joy to the World\"",
+    "artist": "Three Dog Night"
+  },
+  {
+    "decade": 1970,
+    "year": 1971,
+    "year_rank": 2,
+    "title": "\"Maggie May\"/\"Reason to Believe\"",
+    "artist": "Rod Stewart"
+  },
+  {
+    "decade": 1970,
+    "year": 1972,
+    "year_rank": 1,
+    "title": "\"The First Time Ever I Saw Your Face\"",
+    "artist": "Roberta Flack"
+  },
+  {
+    "decade": 1970,
+    "year": 1972,
+    "year_rank": 2,
+    "title": "\"Alone Again (Naturally)\"",
+    "artist": "Gilbert O'Sullivan"
+  },
+  {
+    "decade": 1970,
+    "year": 1973,
+    "year_rank": 1,
+    "title": "\"Tie a Yellow Ribbon Round the Ole Oak Tree\"",
+    "artist": "Tony Orlando and Dawn"
+  },
+  {
+    "decade": 1970,
+    "year": 1973,
+    "year_rank": 2,
+    "title": "\"Bad, Bad Leroy Brown\"",
+    "artist": "Jim Croce"
+  },
+  {
+    "decade": 1970,
+    "year": 1974,
+    "year_rank": 1,
+    "title": "\"The Way We Were\"",
+    "artist": "Barbra Streisand"
+  },
+  {
+    "decade": 1970,
+    "year": 1974,
+    "year_rank": 2,
+    "title": "\"Seasons in the Sun\"",
+    "artist": "Terry Jacks"
+  },
+  {
+    "decade": 1970,
+    "year": 1975,
+    "year_rank": 1,
+    "title": "\"Love Will Keep Us Together\"",
+    "artist": "Captain & Tennille"
+  },
+  {
+    "decade": 1970,
+    "year": 1975,
+    "year_rank": 2,
+    "title": "\"Rhinestone Cowboy\"",
+    "artist": "Glen Campbell"
+  },
+  {
+    "decade": 1970,
+    "year": 1976,
+    "year_rank": 1,
+    "title": "\"Silly Love Songs\"",
+    "artist": "Wings"
+  },
+  {
+    "decade": 1970,
+    "year": 1976,
+    "year_rank": 2,
+    "title": "\"Don't Go Breaking My Heart\"",
+    "artist": "Elton John & Kiki Dee"
+  },
+  {
+    "decade": 1970,
+    "year": 1977,
+    "year_rank": 1,
+    "title": "\"Tonight's the Night (Gonna Be Alright)\"",
+    "artist": "Rod Stewart"
+  },
+  {
+    "decade": 1970,
+    "year": 1977,
+    "year_rank": 2,
+    "title": "\"I Just Want to Be Your Everything\"",
+    "artist": "Andy Gibb"
+  },
+  {
+    "decade": 1970,
+    "year": 1978,
+    "year_rank": 1,
+    "title": "\"Shadow Dancing\"",
+    "artist": "Andy Gibb"
+  },
+  {
+    "decade": 1970,
+    "year": 1978,
+    "year_rank": 2,
+    "title": "\"Night Fever\"",
+    "artist": "Bee Gees"
+  },
+  {
+    "decade": 1970,
+    "year": 1979,
+    "year_rank": 1,
+    "title": "\"My Sharona\"",
+    "artist": "The Knack"
+  },
+  {
+    "decade": 1970,
+    "year": 1979,
+    "year_rank": 2,
+    "title": "\"Bad Girls\"",
+    "artist": "Donna Summer"
+  },
+  {
+    "decade": 1980,
+    "year": 1980,
+    "year_rank": 1,
+    "title": "\"Call Me\"",
+    "artist": "Blondie"
+  },
+  {
+    "decade": 1980,
+    "year": 1980,
+    "year_rank": 2,
+    "title": "\"Another Brick in the Wall, Part II\"",
+    "artist": "Pink Floyd"
+  },
+  {
+    "decade": 1980,
+    "year": 1981,
+    "year_rank": 1,
+    "title": "\"Bette Davis Eyes\"",
+    "artist": "Kim Carnes"
+  },
+  {
+    "decade": 1980,
+    "year": 1981,
+    "year_rank": 2,
+    "title": "\"Endless Love\"",
+    "artist": "Diana Ross & Lionel Richie"
+  },
+  {
+    "decade": 1980,
+    "year": 1982,
+    "year_rank": 1,
+    "title": "\"Physical\"",
+    "artist": "Olivia Newton-John"
+  },
+  {
+    "decade": 1980,
+    "year": 1982,
+    "year_rank": 2,
+    "title": "\"Eye of the Tiger\"",
+    "artist": "Survivor"
+  },
+  {
+    "decade": 1980,
+    "year": 1983,
+    "year_rank": 1,
+    "title": "\"Every Breath You Take\"",
+    "artist": "The Police"
+  },
+  {
+    "decade": 1980,
+    "year": 1983,
+    "year_rank": 2,
+    "title": "\"Billie Jean\"",
+    "artist": "Michael Jackson"
+  },
+  {
+    "decade": 1980,
+    "year": 1984,
+    "year_rank": 1,
+    "title": "\"When Doves Cry\"",
+    "artist": "Prince"
+  },
+  {
+    "decade": 1980,
+    "year": 1984,
+    "year_rank": 2,
+    "title": "\"What's Love Got to Do with It\"",
+    "artist": "Tina Turner"
+  },
+  {
+    "decade": 1980,
+    "year": 1985,
+    "year_rank": 1,
+    "title": "\"Careless Whisper\"",
+    "artist": "George Michael"
+  },
+  {
+    "decade": 1980,
+    "year": 1985,
+    "year_rank": 2,
+    "title": "\"Like a Virgin\"",
+    "artist": "Madonna"
+  },
+  {
+    "decade": 1980,
+    "year": 1986,
+    "year_rank": 1,
+    "title": "\"That's What Friends Are For\"",
+    "artist": "Dionne and Friends (Dionne Warwick, Gladys Knight, Elton John and Stevie Wonder)"
+  },
+  {
+    "decade": 1980,
+    "year": 1986,
+    "year_rank": 2,
+    "title": "\"Say You, Say Me\"",
+    "artist": "Lionel Richie"
+  },
+  {
+    "decade": 1980,
+    "year": 1987,
+    "year_rank": 1,
+    "title": "\"Walk Like An Egyptian\"",
+    "artist": "The Bangles"
+  },
+  {
+    "decade": 1980,
+    "year": 1987,
+    "year_rank": 2,
+    "title": "\"Alone\"",
+    "artist": "Heart"
+  },
+  {
+    "decade": 1980,
+    "year": 1988,
+    "year_rank": 1,
+    "title": "\"Faith\"",
+    "artist": "George Michael"
+  },
+  {
+    "decade": 1980,
+    "year": 1988,
+    "year_rank": 2,
+    "title": "\"Need You Tonight\"",
+    "artist": "INXS"
+  },
+  {
+    "decade": 1980,
+    "year": 1989,
+    "year_rank": 1,
+    "title": "\"Look Away\"",
+    "artist": "Chicago"
+  },
+  {
+    "decade": 1980,
+    "year": 1989,
+    "year_rank": 2,
+    "title": "\"My Prerogative\"",
+    "artist": "Bobby Brown"
+  },
+  {
+    "decade": 1990,
+    "year": 1990,
+    "year_rank": 1,
+    "title": "\"Hold On\"",
+    "artist": "Wilson Phillips"
+  },
+  {
+    "decade": 1990,
+    "year": 1990,
+    "year_rank": 2,
+    "title": "\"It Must Have Been Love\"",
+    "artist": "Roxette"
+  },
+  {
+    "decade": 1990,
+    "year": 1991,
+    "year_rank": 1,
+    "title": "\"(Everything I Do) I Do It for You\"",
+    "artist": "Bryan Adams"
+  },
+  {
+    "decade": 1990,
+    "year": 1991,
+    "year_rank": 2,
+    "title": "\"I Wanna Sex You Up\"",
+    "artist": "Color Me Badd"
+  },
+  {
+    "decade": 1990,
+    "year": 1992,
+    "year_rank": 1,
+    "title": "\"End of the Road\"",
+    "artist": "Boyz II Men"
+  },
+  {
+    "decade": 1990,
+    "year": 1992,
+    "year_rank": 2,
+    "title": "\"Baby Got Back\"",
+    "artist": "Sir Mix-a-Lot"
+  },
+  {
+    "decade": 1990,
+    "year": 1993,
+    "year_rank": 1,
+    "title": "\"I Will Always Love You\"",
+    "artist": "Whitney Houston"
+  },
+  {
+    "decade": 1990,
+    "year": 1993,
+    "year_rank": 2,
+    "title": "\"Whoomp! (There It Is)\"",
+    "artist": "Tag Team"
+  },
+  {
+    "decade": 1990,
+    "year": 1994,
+    "year_rank": 1,
+    "title": "\"The Sign\"",
+    "artist": "Ace of Base"
+  },
+  {
+    "decade": 1990,
+    "year": 1994,
+    "year_rank": 2,
+    "title": "\"I Swear\"",
+    "artist": "All-4-One"
+  },
+  {
+    "decade": 1990,
+    "year": 1995,
+    "year_rank": 1,
+    "title": "\"Gangsta's Paradise\"",
+    "artist": "Coolio featuring L.V."
+  },
+  {
+    "decade": 1990,
+    "year": 1995,
+    "year_rank": 2,
+    "title": "\"Waterfalls\"",
+    "artist": "TLC"
+  },
+  {
+    "decade": 1990,
+    "year": 1996,
+    "year_rank": 1,
+    "title": "\"Macarena (Bayside Boys Mix)\"",
+    "artist": "Los del Río"
+  },
+  {
+    "decade": 1990,
+    "year": 1996,
+    "year_rank": 2,
+    "title": "\"One Sweet Day\"",
+    "artist": "Mariah Carey and Boyz II Men"
+  },
+  {
+    "decade": 1990,
+    "year": 1997,
+    "year_rank": 1,
+    "title": "\"Candle in the Wind 1997\" / \"Something About the Way You Look Tonight\"",
+    "artist": "Elton John"
+  },
+  {
+    "decade": 1990,
+    "year": 1997,
+    "year_rank": 2,
+    "title": "\"You Were Meant for Me\" / \"Foolish Games\"",
+    "artist": "Jewel"
+  },
+  {
+    "decade": 1990,
+    "year": 1998,
+    "year_rank": 1,
+    "title": "\"Too Close\"",
+    "artist": "Next"
+  },
+  {
+    "decade": 1990,
+    "year": 1998,
+    "year_rank": 2,
+    "title": "\"The Boy Is Mine\"",
+    "artist": "Brandy and Monica"
+  },
+  {
+    "decade": 1990,
+    "year": 1999,
+    "year_rank": 1,
+    "title": "\"Believe\"",
+    "artist": "Cher"
+  },
+  {
+    "decade": 1990,
+    "year": 1999,
+    "year_rank": 2,
+    "title": "\"No Scrubs\"",
+    "artist": "TLC"
+  },
+  {
+    "decade": 2000,
+    "year": 2000,
+    "year_rank": 1,
+    "title": "\"Breathe\"",
+    "artist": "Faith Hill"
+  },
+  {
+    "decade": 2000,
+    "year": 2000,
+    "year_rank": 2,
+    "title": "\"Smooth\"",
+    "artist": "Santana featuring Rob Thomas"
+  },
+  {
+    "decade": 2000,
+    "year": 2001,
+    "year_rank": 1,
+    "title": "\"Hanging by a Moment\"",
+    "artist": "Lifehouse"
+  },
+  {
+    "decade": 2000,
+    "year": 2001,
+    "year_rank": 2,
+    "title": "\"Fallin'\"",
+    "artist": "Alicia Keys"
+  },
+  {
+    "decade": 2000,
+    "year": 2002,
+    "year_rank": 1,
+    "title": "\"How You Remind Me\"",
+    "artist": "Nickelback"
+  },
+  {
+    "decade": 2000,
+    "year": 2002,
+    "year_rank": 2,
+    "title": "\"Foolish\"",
+    "artist": "Ashanti"
+  },
+  {
+    "decade": 2000,
+    "year": 2003,
+    "year_rank": 1,
+    "title": "\"In da Club\"",
+    "artist": "50 Cent"
+  },
+  {
+    "decade": 2000,
+    "year": 2003,
+    "year_rank": 2,
+    "title": "\"Ignition (Remix)\"",
+    "artist": "R. Kelly"
+  },
+  {
+    "decade": 2000,
+    "year": 2004,
+    "year_rank": 1,
+    "title": "\"Yeah!\"",
+    "artist": "Usher featuring Lil Jon and Ludacris"
+  },
+  {
+    "decade": 2000,
+    "year": 2004,
+    "year_rank": 2,
+    "title": "\"Burn\"",
+    "artist": "Usher"
+  },
+  {
+    "decade": 2000,
+    "year": 2005,
+    "year_rank": 1,
+    "title": "\"We Belong Together\"",
+    "artist": "Mariah Carey"
+  },
+  {
+    "decade": 2000,
+    "year": 2005,
+    "year_rank": 2,
+    "title": "\"Hollaback Girl\"",
+    "artist": "Gwen Stefani"
+  },
+  {
+    "decade": 2000,
+    "year": 2006,
+    "year_rank": 1,
+    "title": "\"Bad Day\"",
+    "artist": "Daniel Powter"
+  },
+  {
+    "decade": 2000,
+    "year": 2006,
+    "year_rank": 2,
+    "title": "\"Temperature\"",
+    "artist": "Sean Paul"
+  },
+  {
+    "decade": 2000,
+    "year": 2007,
+    "year_rank": 1,
+    "title": "\"Irreplaceable\"",
+    "artist": "Beyoncé"
+  },
+  {
+    "decade": 2000,
+    "year": 2007,
+    "year_rank": 2,
+    "title": "\"Umbrella\"",
+    "artist": "Rihanna featuring Jay-Z"
+  },
+  {
+    "decade": 2000,
+    "year": 2008,
+    "year_rank": 1,
+    "title": "\"Low\"",
+    "artist": "Flo Rida featuring T-Pain"
+  },
+  {
+    "decade": 2000,
+    "year": 2008,
+    "year_rank": 2,
+    "title": "\"Bleeding Love\"",
+    "artist": "Leona Lewis"
+  },
+  {
+    "decade": 2000,
+    "year": 2009,
+    "year_rank": 1,
+    "title": "\"Boom Boom Pow\"",
+    "artist": "The Black Eyed Peas"
+  },
+  {
+    "decade": 2000,
+    "year": 2009,
+    "year_rank": 2,
+    "title": "\"Poker Face\"",
+    "artist": "Lady Gaga"
+  },
+  {
+    "decade": 2010,
+    "year": 2010,
+    "year_rank": 1,
+    "title": "\"Tik Tok\"",
+    "artist": "Kesha"
+  },
+  {
+    "decade": 2010,
+    "year": 2010,
+    "year_rank": 2,
+    "title": "\"Need You Now\"",
+    "artist": "Lady Antebellum"
+  },
+  {
+    "decade": 2010,
+    "year": 2011,
+    "year_rank": 1,
+    "title": "\"Rolling in the Deep\"",
+    "artist": "Adele"
+  },
+  {
+    "decade": 2010,
+    "year": 2011,
+    "year_rank": 2,
+    "title": "\"Party Rock Anthem\"",
+    "artist": "LMFAO featuring Lauren Bennett and GoonRock"
+  },
+  {
+    "decade": 2010,
+    "year": 2012,
+    "year_rank": 1,
+    "title": "\"Somebody That I Used to Know\"",
+    "artist": "Gotye featuring Kimbra"
+  },
+  {
+    "decade": 2010,
+    "year": 2012,
+    "year_rank": 2,
+    "title": "\"Call Me Maybe\"",
+    "artist": "Carly Rae Jepsen"
+  },
+  {
+    "decade": 2010,
+    "year": 2013,
+    "year_rank": 1,
+    "title": "\"Thrift Shop\"",
+    "artist": "Macklemore & Ryan Lewis featuring Wanz"
+  },
+  {
+    "decade": 2010,
+    "year": 2013,
+    "year_rank": 2,
+    "title": "\"Blurred Lines\"",
+    "artist": "Robin Thicke featuring T.I. and Pharrell Williams"
+  },
+  {
+    "decade": 2010,
+    "year": 2014,
+    "year_rank": 1,
+    "title": "\"Happy\"",
+    "artist": "Pharrell Williams"
+  },
+  {
+    "decade": 2010,
+    "year": 2014,
+    "year_rank": 2,
+    "title": "\"Dark Horse\"",
+    "artist": "Katy Perry featuring Juicy J"
+  },
+  {
+    "decade": 2010,
+    "year": 2015,
+    "year_rank": 1,
+    "title": "\"Uptown Funk\"",
+    "artist": "Mark Ronson featuring Bruno Mars"
+  },
+  {
+    "decade": 2010,
+    "year": 2015,
+    "year_rank": 2,
+    "title": "\"Thinking Out Loud\"",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "decade": 2010,
+    "year": 2016,
+    "year_rank": 1,
+    "title": "\"Love Yourself\"",
+    "artist": "Justin Bieber"
+  },
+  {
+    "decade": 2010,
+    "year": 2016,
+    "year_rank": 2,
+    "title": "\"Sorry\"",
+    "artist": "Justin Bieber"
+  },
+  {
+    "decade": 2010,
+    "year": 2017,
+    "year_rank": 1,
+    "title": "\"Shape of You\"",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "decade": 2010,
+    "year": 2017,
+    "year_rank": 2,
+    "title": "\"Despacito (Remix)\"",
+    "artist": "Luis Fonsi and Daddy Yankee featuring Justin Bieber"
+  },
+  {
+    "decade": 2010,
+    "year": 2018,
+    "year_rank": 1,
+    "title": "\"God's Plan\"",
+    "artist": "Drake"
+  },
+  {
+    "decade": 2010,
+    "year": 2018,
+    "year_rank": 2,
+    "title": "\"Perfect\"",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "decade": 2010,
+    "year": 2019,
+    "year_rank": 1,
+    "title": "\"Old Town Road\"",
+    "artist": "Lil Nas X featuring Billy Ray Cyrus"
+  },
+  {
+    "decade": 2010,
+    "year": 2019,
+    "year_rank": 2,
+    "title": "\"Sunflower\"",
+    "artist": "Post Malone and Swae Lee"
+  },
+  {
+    "decade": 2020,
+    "year": 2020,
+    "year_rank": 1,
+    "title": "\"Blinding Lights\"",
+    "artist": "The Weeknd"
+  },
+  {
+    "decade": 2020,
+    "year": 2020,
+    "year_rank": 2,
+    "title": "\"Circles\"",
+    "artist": "Post Malone"
+  },
+  {
+    "decade": 2020,
+    "year": 2021,
+    "year_rank": 1,
+    "title": "\"Levitating\"",
+    "artist": "Dua Lipa"
+  },
+  {
+    "decade": 2020,
+    "year": 2021,
+    "year_rank": 2,
+    "title": "\"Save Your Tears\"",
+    "artist": "The Weeknd and Ariana Grande"
+  },
+  {
+    "decade": 2020,
+    "year": 2022,
+    "year_rank": 1,
+    "title": "\"Heat Waves\"",
+    "artist": "Glass Animals"
+  },
+  {
+    "decade": 2020,
+    "year": 2022,
+    "year_rank": 2,
+    "title": "\"As It Was\"",
+    "artist": "Harry Styles"
+  },
+  {
+    "decade": 2020,
+    "year": 2023,
+    "year_rank": 1,
+    "title": "\"Last Night\"",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "decade": 2020,
+    "year": 2023,
+    "year_rank": 2,
+    "title": "\"Flowers\"",
+    "artist": "Miley Cyrus"
+  },
+  {
+    "decade": 2020,
+    "year": 2024,
+    "year_rank": 1,
+    "title": "\"Lose Control\"",
+    "artist": "Teddy Swims"
+  },
+  {
+    "decade": 2020,
+    "year": 2024,
+    "year_rank": 2,
+    "title": "\"A Bar Song (Tipsy)\"",
+    "artist": "Shaboozey"
+  },
+  {
+    "decade": 2020,
+    "year": 2025,
+    "year_rank": 1,
+    "title": "\"Die with a Smile\"",
+    "artist": "Lady Gaga and Bruno Mars"
+  },
+  {
+    "decade": 2020,
+    "year": 2025,
+    "year_rank": 2,
+    "title": "\"Luther\"",
+    "artist": "Kendrick Lamar and SZA"
+  }
+]

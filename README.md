@@ -6,8 +6,8 @@ This project investigates how the average duration of the top 20 US songs change
 
 ## Data Sources
 
-- [MusicBrainz API](https://musicbrainz.org/doc/MusicBrainz_API)
-- [iTunes Search API](https://performance-partners.apple.com/search-api)
+- [MediaWiki API](https://www.mediawiki.org/wiki/API:Main_page) for the Billboard Year-End Hot 100 rankings from Wikipedia's "Billboard Year-End Hot 100 singles of YYYY" pages ([usage etiquette](https://www.mediawiki.org/wiki/API:Etiquette)). Wikipedia text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- [iTunes Search API](https://performance-partners.apple.com/search-api) for track durations.
 
 ## Setup
 
