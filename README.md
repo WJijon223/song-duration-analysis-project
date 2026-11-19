@@ -41,6 +41,19 @@ docs/             Project documentation
 poster/           Poster materials
 ```
 
+## Summary Statistics
+
+Song duration by decade, in minutes (110 songs after cleaning):
+
+| Decade | Count | Average | Median | Shortest | Longest | Range |
+|--------|-------|---------|--------|----------|---------|-------|
+| 1970s  | 20    | 4.14    | 3.85   | 2.99     | 5.90    | 2.91  |
+| 1980s  | 20    | 4.08    | 4.00   | 3.02     | 5.90    | 2.88  |
+| 1990s  | 19    | 4.44    | 4.33   | 3.19     | 6.57    | 3.38  |
+| 2000s  | 19    | 3.85    | 3.80   | 3.10     | 4.92    | 1.82  |
+| 2010s  | 20    | 3.82    | 3.89   | 2.62     | 4.69    | 2.07  |
+| 2020s  | 12    | 3.33    | 3.37   | 2.73     | 4.19    | 1.46  |
+
 ## Team Members
 
 - William Jijon
